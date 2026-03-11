@@ -9,7 +9,10 @@
     "city": "Basel",
     "country": "Schweiz",
     "workshop_name": "Hauptwerkstätte und Materialeinkauf",
-    "street": "Klybeckstrasse 212"
+    "street": "Klybeckstrasse 212",
+    "lat": 47.5751311,
+    "lon": 7.5904666,
+    "website": "http://www.struktonrail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5965-basler-verkehrs-betriebe.html",
@@ -21,7 +24,9 @@
     "city": "Basel",
     "country": "Schweiz",
     "workshop_name": "Depot Wiesenplatz",
-    "street": "Wiesenplatz 7"
+    "street": "Wiesenplatz 7",
+    "lat": 47.5769513,
+    "lon": 7.5919741
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5966-basler-verkehrs-betriebe.html",
@@ -33,7 +38,10 @@
     "city": "Basel",
     "country": "Schweiz",
     "workshop_name": "Depot Allschwil",
-    "street": "Allschwilerstrasse 123"
+    "street": "Allschwilerstrasse 123",
+    "lat": 47.5564987,
+    "lon": 7.5658080000001,
+    "website": "http://www.vrr.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5967-basler-verkehrs-betriebe.html",
@@ -45,7 +53,10 @@
     "city": "Basel",
     "country": "Schweiz",
     "workshop_name": "Depot Dreispitz",
-    "street": "Münchensteinerstasse 101"
+    "street": "Münchensteinerstasse 101",
+    "lat": 47.5470467,
+    "lon": 7.6078415,
+    "website": "http://www.abb.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5971-netinera-werke-gmbh.html",
@@ -57,7 +68,10 @@
     "city": "Neustrelitz",
     "country": "Schweiz",
     "workshop_name": "Bahnwerk Neustrelitz",
-    "street": "Adolf-Friedrich-Straße 21"
+    "street": "Adolf-Friedrich-Straße 21",
+    "lat": 53.36566,
+    "lon": 13.08054,
+    "website": "http://www.netinera.de/de/geschaeftsaktivitaeten/service/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5990-rhaetische-bahn-ag.html",
@@ -68,7 +82,10 @@
     "postal_code": "7503",
     "city": "Samedan",
     "country": "Deutschland",
-    "workshop_name": "Betriebswerkstätte Samedan"
+    "workshop_name": "Betriebswerkstätte Samedan",
+    "lat": 46.5344,
+    "lon": 9.87113,
+    "website": "http://www.train-ing-gmbh.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5991-rhaetische-bahn-ag.html",
@@ -79,7 +96,10 @@
     "postal_code": "7742",
     "city": "Poschiavo",
     "country": "Deutschland",
-    "workshop_name": "Betriebswerkstätte Poschiavo"
+    "workshop_name": "Betriebswerkstätte Poschiavo",
+    "lat": 46.3982534,
+    "lon": 10.0966442,
+    "website": "http://www.buecker-essing.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5992-rhaetische-bahn-ag.html",
@@ -90,7 +110,10 @@
     "postal_code": "7250",
     "city": "Klosters",
     "country": "Deutschland",
-    "workshop_name": "Betriebswerkstätte Klosters-Selfranga"
+    "workshop_name": "Betriebswerkstätte Klosters-Selfranga",
+    "lat": 46.8390202,
+    "lon": 9.9588438,
+    "website": "http://www.husatransportation.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5993-rhaetische-bahn-ag.html",
@@ -102,7 +125,10 @@
     "city": "Landquart",
     "country": "Schweiz",
     "workshop_name": "Betriebswerkstätte Landquart",
-    "street": "RhB Strasse 1"
+    "street": "RhB Strasse 1",
+    "lat": 46.9665328,
+    "lon": 9.5563453,
+    "website": "http://www.airexcompositestructures.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5994-rhaetische-bahn-ag.html",
@@ -114,7 +140,9 @@
     "city": "Landquart",
     "country": "Schweiz",
     "workshop_name": "Hauptwerkstätte Landquart",
-    "street": "RhB Strasse 1"
+    "street": "RhB Strasse 1",
+    "lat": 46.9665328,
+    "lon": 9.5563453
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6004-rigi-bahnen-ag.html",
@@ -124,7 +152,10 @@
     "country_code": "CH",
     "postal_code": "6354",
     "city": "Vitznau",
-    "country": "Schweiz"
+    "country": "Schweiz",
+    "lat": 47.0215585,
+    "lon": 8.4911928,
+    "website": "http://www.rigi.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6009-faiveley-transport-leipzig-gmbh-co-kg.html",
@@ -135,7 +166,10 @@
     "postal_code": "04435",
     "city": "Schkeuditz",
     "country": "Deutschland",
-    "street": "Industriestraße 60"
+    "street": "Industriestraße 60",
+    "lat": 51.4054,
+    "lon": 12.21195,
+    "website": "http://www.faiveleytransport.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6010-cantus-verkehrsgesellschaft-mbh.html",
@@ -146,7 +180,10 @@
     "postal_code": "34119",
     "city": "Kassel, Hess",
     "country": "Deutschland",
-    "street": "Druseltalstraße 1a"
+    "street": "Druseltalstraße 1a",
+    "lat": 51.30715,
+    "lon": 9.4485500000001,
+    "website": "http://www.cantus-bahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6019-knorr-bremse-systeme.html",
@@ -157,7 +194,10 @@
     "postal_code": "80809",
     "city": "München",
     "country": "Deutschland",
-    "street": "Moosacher Straße 80"
+    "street": "Moosacher Straße 80",
+    "lat": 48.1862993,
+    "lon": 11.5467402,
+    "website": "http://www.knorr-bremse.de/de/railvehicles/einleitung.jsp"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6022-mtu-friedrichshafen-gmbh.html",
@@ -168,7 +208,10 @@
     "postal_code": "88045",
     "city": "Friedrichshafen",
     "country": "Deutschland",
-    "street": "Maybachplatz 1"
+    "street": "Maybachplatz 1",
+    "lat": 47.65711,
+    "lon": 9.46964,
+    "website": "http://www.mtu-online.com/mtu/unternehmen/index.de.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6029-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
@@ -180,7 +223,10 @@
     "city": "Görlitz",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Eberswalde",
-    "street": "Reichenbacher Straße 1"
+    "street": "Reichenbacher Straße 1",
+    "lat": 51.1499772,
+    "lon": 14.9593021,
+    "website": "http://www.odeg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6030-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
@@ -192,7 +238,10 @@
     "city": "Parchim",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Eberswalde",
-    "street": "Möderitzer Weg 61"
+    "street": "Möderitzer Weg 61",
+    "lat": 53.43733,
+    "lon": 11.83891,
+    "website": "http://www.odeg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6031-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
@@ -204,7 +253,10 @@
     "city": "Eberswalde",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Eberswalde",
-    "street": "Am Containerbahnhof 10"
+    "street": "Am Containerbahnhof 10",
+    "lat": 52.84223,
+    "lon": 13.79595,
+    "website": "http://www.odeg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6032-zweiweg-international-gmbh-co-kg.html",
@@ -215,7 +267,10 @@
     "postal_code": "42799",
     "city": "Leichlingen",
     "country": "Rheinland) (Deutschland",
-    "street": "Oberbüscherhof 50"
+    "street": "Oberbüscherhof 50",
+    "lat": 51.1186,
+    "lon": 7.0875,
+    "website": "http://www.zweiweg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6033-zagro-bahn-und-baumaschinen-gmbh.html",
@@ -226,7 +281,9 @@
     "postal_code": "74906",
     "city": "Bad Rappenau",
     "country": "Deutschland",
-    "street": "Mühlstraße 11-15"
+    "street": "Mühlstraße 11-15",
+    "lat": 49.2254,
+    "lon": 8.99093
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6034-hafen-hannover-gmbh.html",
@@ -238,7 +295,12 @@
     "city": "Hannover",
     "country": "Deutschland",
     "workshop_name": "Städtische Häfen Hannover",
-    "street": "Hansastraße 38"
+    "street": "Hansastraße 38",
+    "phone": "+49 511 168-42695",
+    "fax": "+49 511 168-45082",
+    "lat": 52.42208,
+    "lon": 9.66146,
+    "website": "http://www.hannover.de/Wirtschaft-Wissenschaft/Wirtschaftsförderung/Standort/Logistikstandort-Hannover/Logistische-Knoten/Hafen-Hannover"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6039-schienenfahrzeugbau-grossbeeren-gmbh.html",
@@ -249,7 +311,10 @@
     "postal_code": "14979",
     "city": "Großbeeren",
     "country": "Deutschland",
-    "street": "Märkische Allee 39/41 / Güterverkehrszentrum (GVZ) Berlin Süd"
+    "street": "Märkische Allee 39/41 / Güterverkehrszentrum (GVZ) Berlin Süd",
+    "lat": 52.3594201,
+    "lon": 13.3089427,
+    "website": "http://www.spitzke.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6040-krabas-gmbh.html",
@@ -260,7 +325,9 @@
     "postal_code": "14774",
     "city": "Brandenburg a. d. Havel",
     "country": "Deutschland",
-    "street": "Schulstraße 6b"
+    "street": "Schulstraße 6b",
+    "lat": 52.39009,
+    "lon": 12.4069
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6041-jumbotec-gmbh.html",
@@ -272,7 +339,9 @@
     "city": "Schwarze Pumpe",
     "country": "Deutschland",
     "workshop_name": "Standort Schwarze Pumpe",
-    "street": "An der Heide"
+    "street": "An der Heide",
+    "lat": 51.52385,
+    "lon": 14.33528
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6043-hlb-basis-ag.html",
@@ -284,7 +353,10 @@
     "city": "Kassel, Hess",
     "country": "Deutschland",
     "workshop_name": "Standort Kassel",
-    "street": "Wilhelmshöher Allee 252"
+    "street": "Wilhelmshöher Allee 252",
+    "lat": 51.3136361,
+    "lon": 9.4480846,
+    "website": "http://www.hlb-online.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6044-hlb-basis-ag.html",
@@ -296,7 +368,10 @@
     "city": "Königstein im Taunus",
     "country": "Deutschland",
     "workshop_name": "Standort Königstein",
-    "street": "Bahnstraße 13"
+    "street": "Bahnstraße 13",
+    "lat": 50.1781273,
+    "lon": 8.4687859,
+    "website": "http://www.hlb-online.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6045-hfm-managementgesellschaft-fuer-hafen-und-markt-frankfurt-mbh.html",
@@ -307,7 +382,10 @@
     "postal_code": "60314",
     "city": "Frankfurt a.M.",
     "country": "Deutschland",
-    "street": "Hanauer Landstrasse"
+    "street": "Hanauer Landstrasse",
+    "lat": 50.11997,
+    "lon": 8.73301,
+    "website": "http://www.hfm-frankfurt.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6046-eisenbahnwerkstatt-gesellschaft-mbh.html",
@@ -318,7 +396,9 @@
     "postal_code": "25813",
     "city": "Husum, Nordsee",
     "country": "Deutschland",
-    "street": "Rödemisfeld 2a"
+    "street": "Rödemisfeld 2a",
+    "lat": 54.47171,
+    "lon": 9.06608
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6047-bvo-verkehrsbetriebe-erzgebirge-gmbh.html",
@@ -342,7 +422,10 @@
     "city": "Roux",
     "country": "Belgien",
     "workshop_name": "CHW Monceau",
-    "street": "Rue de Marchienne 13"
+    "street": "Rue de Marchienne 13",
+    "lat": 50.4381511,
+    "lon": 4.3861122,
+    "website": "http://www.wagonmaintenanceservices.eu"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6057-sncb-technics.html",
@@ -354,7 +437,10 @@
     "city": "Antwerpen",
     "country": "Belgien",
     "workshop_name": "CHW Antwerpen",
-    "street": "Noorderlaan 630"
+    "street": "Noorderlaan 630",
+    "lat": 51.292904,
+    "lon": 4.351932,
+    "website": "http://www.wagonmaintenanceservices.eu"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6058-sncb-technics.html",
@@ -366,7 +452,10 @@
     "city": "Gentbrugge",
     "country": "Belgien",
     "workshop_name": "CW Gentbrugge",
-    "street": "Brusselsesteenweg 602"
+    "street": "Brusselsesteenweg 602",
+    "lat": 51.0315475,
+    "lon": 3.761014,
+    "website": "http://www.wagonmaintenanceservices.eu"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6062-rail-traction-international-sa.html",
@@ -377,7 +466,8 @@
     "postal_code": "4730",
     "city": "Raeren",
     "country": "Belgien",
-    "street": "Bahnhofstrasse 70"
+    "street": "Bahnhofstrasse 70",
+    "website": "http://www.railsettraction.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6068-deutsche-plasser-bahnbaumaschinen-gmbh.html",
@@ -389,7 +479,10 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "workshop_name": "Instandhaltungswerk Leipzig/Engelsdorf",
-    "street": "Werkstättenstraße 4"
+    "street": "Werkstättenstraße 4",
+    "lat": 51.34191,
+    "lon": 12.46184,
+    "website": "http://www.deutsche-plasser.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6069-deutsche-plasser-bahnbaumaschinen-gmbh.html",
@@ -401,7 +494,10 @@
     "city": "Buchloe",
     "country": "Deutschland",
     "workshop_name": "Instandhaltungswerk Buchloe",
-    "street": "Schwabenstraße 1"
+    "street": "Schwabenstraße 1",
+    "lat": 48.0293453,
+    "lon": 10.7105124,
+    "website": "http://www.deutsche-plasser.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6070-deutsche-plasser-bahnbaumaschinen-gmbh.html",
@@ -413,7 +509,10 @@
     "city": "Leverkusen",
     "country": "Deutschland",
     "workshop_name": "Instandhaltungswerk Leverkusen/Opladen",
-    "street": "Quettinger Straße 250"
+    "street": "Quettinger Straße 250",
+    "lat": 51.0595412,
+    "lon": 7.0202221,
+    "website": "http://www.deutsche-plasser.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6071-deutsche-plasser-bahnbaumaschinen-gmbh.html",
@@ -424,7 +523,10 @@
     "postal_code": "81929",
     "city": "München",
     "country": "Deutschland",
-    "street": "Friedrich-Eckart-Straße 35"
+    "street": "Friedrich-Eckart-Straße 35",
+    "lat": 48.1442912,
+    "lon": 11.6393676,
+    "website": "http://www.deutsche-plasser.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6073-cmi-maintenance-liege.html",
@@ -435,7 +537,10 @@
     "postal_code": "4100",
     "city": "Seraing",
     "country": "Belgien",
-    "street": "Avenue Greiner 1"
+    "street": "Avenue Greiner 1",
+    "lat": 50.616706,
+    "lon": 5.5182593,
+    "website": "http://www.cmigroupe.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6089-bombardier-transportation-gmbh.html",
@@ -447,7 +552,10 @@
     "city": "Aachen",
     "country": "Deutschland",
     "workshop_name": "Werk Aachen",
-    "street": "Jülicher Straße 213-237"
+    "street": "Jülicher Straße 213-237",
+    "lat": 50.78542,
+    "lon": 6.10979,
+    "website": "http://www.transportation.bombardier.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6091-s-c-bega-reparatii-vagoane-s-a.html",
@@ -458,7 +566,10 @@
     "postal_code": "30016",
     "city": "Timisoara",
     "country": "Rumänien",
-    "street": "Strada Garii, nr. 2"
+    "street": "Strada Garii, nr. 2",
+    "lat": 45.7490715,
+    "lon": 21.1989194,
+    "website": "http://www.begareparatiivagoane.ro"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6093-bahnbetriebswerk-krefeld-betriebs-gmbh-co-kg.html",
@@ -469,7 +580,10 @@
     "postal_code": "47799",
     "city": "Krefeld",
     "country": "Deutschland",
-    "street": "Dießemer Straße 18"
+    "street": "Dießemer Straße 18",
+    "lat": 51.329177,
+    "lon": 6.579909,
+    "website": "http://www.bw-krefeld.net"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6094-axiom-rail.html",
@@ -480,7 +594,10 @@
     "postal_code": "DN4 5PN",
     "city": "Doncaster ()",
     "country": "",
-    "workshop_name": "Carolina Way  / Lakeside Business Park"
+    "workshop_name": "Carolina Way  / Lakeside Business Park",
+    "lat": 53.5042739,
+    "lon": -1.1121786,
+    "website": "http://www.axiomrail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6095-as-eesti-raudtee.html",
@@ -492,7 +609,10 @@
     "city": "Tapa ()",
     "country": "",
     "workshop_name": "AS EVR Cargo",
-    "street": "Tapa depots"
+    "street": "Tapa depots",
+    "lat": 59.2630124,
+    "lon": 25.9732714,
+    "website": "http://www.evr.ee"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6096-alfred-hoffmann-gmbh-co-kg.html",
@@ -503,7 +623,10 @@
     "postal_code": "57080",
     "city": "Siegen",
     "country": "Deutschland",
-    "street": "Eiserntalstraße 329"
+    "street": "Eiserntalstraße 329",
+    "lat": 50.8316905,
+    "lon": 8.0218473,
+    "website": "http://www.stahlbau-hoffmann.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6097-mgw-service-gmbh-co-kg.html",
@@ -514,7 +637,10 @@
     "postal_code": "34119",
     "city": "Kassel, Hess",
     "country": "Deutschland",
-    "street": "Raabestraße 14"
+    "street": "Raabestraße 14",
+    "lat": 51.3181598,
+    "lon": 9.451179,
+    "website": "http://www.mgwservice.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6099-ahub-gmbh.html",
@@ -525,7 +651,10 @@
     "postal_code": "15926",
     "city": "Luckau",
     "country": "Deutschland",
-    "street": "Dubener Bahnhofstraße 7"
+    "street": "Dubener Bahnhofstraße 7",
+    "lat": 51.89517,
+    "lon": 13.80902,
+    "website": "http://www.ahubrailwaysolutions.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6100-eskomoravska-zelezni-ni-opravna-s-r-o.html",
@@ -536,7 +665,10 @@
     "postal_code": "751 52",
     "city": "Prerov ()",
     "country": "",
-    "street": "Kojetínská 358/71"
+    "street": "Kojetínská 358/71",
+    "lat": 49.4428518,
+    "lon": 17.4396159,
+    "website": "http://www.cmzo.cz"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6101-schweizerische-bundesbahnen-ag.html",
@@ -548,7 +680,9 @@
     "city": "Zürich",
     "country": "Schweiz",
     "workshop_name": "Serviceanlage Zürich-Herdern",
-    "street": "Aargauaerstrasse 15"
+    "street": "Aargauaerstrasse 15",
+    "lat": 47.3918726,
+    "lon": 8.4982992
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6102-schweizerische-bundesbahnen-ag.html",
@@ -560,7 +694,9 @@
     "city": "Zürich",
     "country": "Schweiz",
     "workshop_name": "Reparaturcenter Zürich-Alstetten",
-    "street": "Hohlstrasse 400"
+    "street": "Hohlstrasse 400",
+    "lat": 47.3866168,
+    "lon": 8.5034622
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6103-schweizerische-bundesbahnen-ag.html",
@@ -572,7 +708,10 @@
     "city": "Yverdon-les-Bains",
     "country": "Schweiz",
     "workshop_name": "Industriewerk Yverdon-les-Bains",
-    "street": "Quai des Ateliers"
+    "street": "Quai des Ateliers",
+    "lat": 46.7841669,
+    "lon": 6.6380812,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6104-schweizerische-bundesbahnen-ag.html",
@@ -584,7 +723,10 @@
     "city": "Winterthur",
     "country": "Schweiz",
     "workshop_name": "Serviceanlage Oberwinterthur",
-    "street": "Flugplatzstrasse 7"
+    "street": "Flugplatzstrasse 7",
+    "lat": 47.5152969,
+    "lon": 8.7688391,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6105-schweizerische-bundesbahnen-ag.html",
@@ -596,7 +738,10 @@
     "city": "Lausanne",
     "country": "Schweiz",
     "workshop_name": "Präventivunterhalts-Standort Lausanne",
-    "street": "Place de la gare 16"
+    "street": "Place de la gare 16",
+    "lat": 46.5184198,
+    "lon": 6.624533,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6106-schweizerische-bundesbahnen-ag.html",
@@ -608,7 +753,10 @@
     "city": "Brig BZ",
     "country": "Schweiz",
     "workshop_name": "Unterhaltsstelle Brig",
-    "street": "Tunnelstrasse 148"
+    "street": "Tunnelstrasse 148",
+    "lat": 46.3200707,
+    "lon": 7.9969786,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6107-schweizerische-bundesbahnen-ag.html",
@@ -620,7 +768,10 @@
     "city": "Biel BZ",
     "country": "Schweiz",
     "workshop_name": "Depot Biel/Bienne",
-    "street": "Brüggstrasse 47a"
+    "street": "Brüggstrasse 47a",
+    "lat": 47.1309648,
+    "lon": 7.2575715,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6108-schweizerische-bundesbahnen-ag.html",
@@ -632,7 +783,8 @@
     "city": "Biel BZ",
     "country": "Schweiz",
     "workshop_name": "Industriewerk Biel/Bienne",
-    "street": "Oberer Quai 140"
+    "street": "Oberer Quai 140",
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6109-schweizerische-bundesbahnen-ag.html",
@@ -644,7 +796,10 @@
     "city": "Bellinzona",
     "country": "Schweiz",
     "workshop_name": "Industriewerk Bellinzona",
-    "street": "Viale Officina 18"
+    "street": "Viale Officina 18",
+    "lat": 46.1984706,
+    "lon": 9.0294286,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6111-schweizerische-bundesbahnen-ag.html",
@@ -656,7 +811,10 @@
     "city": "Olten",
     "country": "Schweiz",
     "workshop_name": "Industriewerk Olten",
-    "street": "Industriestrasse 153"
+    "street": "Industriestrasse 153",
+    "lat": 47.3639323,
+    "lon": 7.9155903,
+    "website": "http://www.sbb.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6113-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
@@ -668,7 +826,10 @@
     "city": "Tübingen",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Tübingen",
-    "street": "Europastraße 61"
+    "street": "Europastraße 61",
+    "lat": 48.50774,
+    "lon": 9.04253,
+    "website": "http://www.zugbus-rab.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6114-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
@@ -680,7 +841,10 @@
     "city": "Ulm, Donau",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Ulm, Am Wall",
-    "street": "Am Wall"
+    "street": "Am Wall",
+    "lat": 48.3338231,
+    "lon": 9.893595,
+    "website": "http://www.zugbus-rab.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6115-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
@@ -692,7 +856,8 @@
     "city": "Ulm, Donau",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Ulm, Beringerbrücke",
-    "street": "Beringerbrücke"
+    "street": "Beringerbrücke",
+    "website": "http://www.zugbus-rab.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6117-s-bahn-hamburg-gmbh.html",
@@ -704,7 +869,10 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Hamburg-Poppenbüttel",
-    "street": "Saseler Damm 37a"
+    "street": "Saseler Damm 37a",
+    "lat": 53.6558315,
+    "lon": 10.0966107,
+    "website": "http://www.s-bahn-hamburg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6118-s-bahn-hamburg-gmbh.html",
@@ -716,7 +884,8 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Hamburg-Ohlsdorf",
-    "street": "Sommerkamp 31"
+    "street": "Sommerkamp 31",
+    "website": "http://www.s-bahn-hamburg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6119-s-bahn-hamburg-gmbh.html",
@@ -728,7 +897,10 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Hamburg, Elbgaustraße",
-    "street": "Elbgaustraße, Alpenrosenweg 62"
+    "street": "Elbgaustraße, Alpenrosenweg 62",
+    "lat": 53.6156915,
+    "lon": 9.8954232,
+    "website": "http://www.s-bahn-hamburg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6120-s-bahn-berlin-gmbh.html",
@@ -740,7 +912,10 @@
     "city": "Erkner",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Erkner",
-    "street": "Fichtenauer Weg 53"
+    "street": "Fichtenauer Weg 53",
+    "lat": 52.43121,
+    "lon": 13.74975,
+    "website": "http://www.s-bahn-berlin.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6121-s-bahn-berlin-gmbh.html",
@@ -752,7 +927,10 @@
     "city": "Berlin",
     "country": "Deutschland",
     "workshop_name": "Werk Schöneweide",
-    "street": "Adlergestell 143"
+    "street": "Adlergestell 143",
+    "lat": 52.4436646,
+    "lon": 13.5298597,
+    "website": "http://www.s-bahn-berlin.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6131-regionalverkehr-bern-solothurn-rbs.html",
@@ -764,7 +942,10 @@
     "city": "Worb",
     "country": "Schweiz",
     "workshop_name": "Werkstatt Worb\n\nRBS-Werkstatt Worb",
-    "street": "Bodengasse 5"
+    "street": "Bodengasse 5",
+    "lat": 46.933886,
+    "lon": 7.5576604,
+    "website": "http://www.rbs.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6132-harzer-schmalspurbahnen-gmbh.html",
@@ -776,7 +957,10 @@
     "city": "Wernigerode",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Westerntor",
-    "street": "Bahnhof Wernigerode Westerntor"
+    "street": "Bahnhof Wernigerode Westerntor",
+    "lat": 51.8368113,
+    "lon": 10.7844266,
+    "website": "http://www.hsb-wr.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6133-swietelsky-baugesellschaft-m-b-h.html",
@@ -788,7 +972,10 @@
     "city": "Fischamend",
     "country": "Österreich",
     "workshop_name": "Bahnbau - Bauhof",
-    "street": "Klein Neusiedlerstraße 29"
+    "street": "Klein Neusiedlerstraße 29",
+    "lat": 48.1037341,
+    "lon": 16.6123832,
+    "website": "http://www.swietelsky.at"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6135-pesa-bydgoszcz-sa.html",
@@ -799,7 +986,10 @@
     "postal_code": "85-082",
     "city": "Bydgoszcz",
     "country": "Polen",
-    "street": "ul. Zygmunta Augusta 11"
+    "street": "ul. Zygmunta Augusta 11",
+    "lat": 53.1351895,
+    "lon": 17.9938075,
+    "website": "http://www.pesa.pl"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6137-maschinenbau-und-service-gmbh-ammendorf.html",
@@ -810,7 +1000,10 @@
     "postal_code": "06132",
     "city": "Halle",
     "country": "Saale) (Deutschland",
-    "street": "Eisenbahnstraße 3"
+    "street": "Eisenbahnstraße 3",
+    "lat": 51.4319073,
+    "lon": 11.9887308,
+    "website": "http://www.msg-ammendorf.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6138-deutsche-gleis-und-tiefbau-gmbh.html",
@@ -822,7 +1015,10 @@
     "city": "Königsborn b Magdeburg",
     "country": "Deutschland",
     "workshop_name": "Bereich Maschinenpool",
-    "street": "Ladestraße 8"
+    "street": "Ladestraße 8",
+    "lat": 52.13644,
+    "lon": 11.75735,
+    "website": "http://www.bahnbaugruppe.de/site/bahnbaugruppe/de/profil/gesellschaften/dgt__gmbh/visitenkarte.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6140-trans-tec-vetschau-gmbh.html",
@@ -833,7 +1029,10 @@
     "postal_code": "03226",
     "city": "Vetschau /Spreewald",
     "country": "Deutschland",
-    "street": "Juri-Gagarin-Straße 10"
+    "street": "Juri-Gagarin-Straße 10",
+    "lat": 51.7875443,
+    "lon": 14.0844227,
+    "website": "http://www.transtec-vetschau.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6141-db-bahnbau-gruppe-gmbh.html",
@@ -845,7 +1044,10 @@
     "city": "Augsburg, Bay",
     "country": "Deutschland",
     "workshop_name": "NL Augsburg",
-    "street": "Oberer Schleisweg 11"
+    "street": "Oberer Schleisweg 11",
+    "lat": 48.3875542,
+    "lon": 10.8571993,
+    "website": "http://www.bahnbaugruppe.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6142-ag-der-dillinger-huettenwerke.html",
@@ -857,7 +1059,10 @@
     "city": "Dillingen, Saar",
     "country": "Deutschland",
     "workshop_name": "Abt. Zentrale Werkstätten",
-    "street": "Werkstraße 1"
+    "street": "Werkstraße 1",
+    "lat": 49.35499,
+    "lon": 6.73152,
+    "website": "http://www.dillinger.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6143-gutehoffnungshuette-radsatz-gmbh.html",
@@ -868,7 +1073,10 @@
     "postal_code": "46145",
     "city": "Oberhausen, Rheinl",
     "country": "Deutschland",
-    "street": "Gartenstraße 40"
+    "street": "Gartenstraße 40",
+    "lat": 51.51123,
+    "lon": 6.84759,
+    "website": "http://www.ghh-radsatz.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6144-hansebahn-bremen-gmbh.html",
@@ -879,7 +1087,10 @@
     "postal_code": "28237",
     "city": "Bremen",
     "country": "Deutschland",
-    "workshop_name": "Waggon-und Torpedowerkstatt"
+    "workshop_name": "Waggon-und Torpedowerkstatt",
+    "lat": 53.1317586,
+    "lon": 8.7069552,
+    "website": "http://www.captrain.de/hbb.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6145-hansebahn-bremen-gmbh.html",
@@ -890,7 +1101,10 @@
     "postal_code": "28237",
     "city": "Bremen",
     "country": "Deutschland",
-    "workshop_name": "Lokomotivwerkstatt"
+    "workshop_name": "Lokomotivwerkstatt",
+    "lat": 53.1317586,
+    "lon": 8.7069552,
+    "website": "http://www.captrain.de/hbb.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6147-twe-bahnbetriebs-gmbh.html",
@@ -902,7 +1116,10 @@
     "city": "Lengerich, Westf",
     "country": "Deutschland",
     "workshop_name": "Zentralwerkstatt",
-    "street": "Lienener Straße 100"
+    "street": "Lienener Straße 100",
+    "lat": 52.16862,
+    "lon": 7.88885,
+    "website": "http://www.teutoburgerwaldeisenbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6148-bombardier-transportation-gmbh.html",
@@ -914,7 +1131,10 @@
     "city": "Netphen",
     "country": "Deutschland",
     "workshop_name": "Werk Siegen / Netphen",
-    "street": "Siegstraße 27"
+    "street": "Siegstraße 27",
+    "lat": 50.91294,
+    "lon": 8.04704,
+    "website": "http://www.transportation.bombardier.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6149-bayerische-oberlandbahn-gmbh.html",
@@ -926,7 +1146,10 @@
     "city": "Lenggries",
     "country": "Deutschland",
     "workshop_name": "Bahnbetriebswerk Lenggries",
-    "street": "Demmeljochstraße 4"
+    "street": "Demmeljochstraße 4",
+    "lat": 47.67736,
+    "lon": 11.57392,
+    "website": "http://www.bayerischeoberlandbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6150-thyssenkrupp-industrieservice-gmbh.html",
@@ -938,7 +1161,9 @@
     "city": "Senftenberg, NL",
     "country": "Deutschland",
     "workshop_name": "Niederlassung Brieske",
-    "street": "Franz-Mehring-Straße 21"
+    "street": "Franz-Mehring-Straße 21",
+    "lat": 51.50957,
+    "lon": 13.96908
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6151-euromaint-rail-ab.html",
@@ -949,7 +1174,10 @@
     "postal_code": "701 15",
     "city": "Örebro",
     "country": "Schweden",
-    "street": "S. Grev Rosengatan 1"
+    "street": "S. Grev Rosengatan 1",
+    "lat": 59.2756726,
+    "lon": 15.2329718,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6152-euromaint-rail-ab.html",
@@ -960,7 +1188,8 @@
     "postal_code": "662 27",
     "city": "Amal",
     "country": "Schweden",
-    "street": "Västra Bangatan 2"
+    "street": "Västra Bangatan 2",
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6153-euromaint-rail-ab.html",
@@ -971,7 +1200,10 @@
     "postal_code": "724 65",
     "city": "Västeras",
     "country": "Schweden",
-    "street": "Kölgatan 4"
+    "street": "Kölgatan 4",
+    "lat": 59.5971858,
+    "lon": 16.5158381,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6154-euromaint-rail-ab.html",
@@ -982,7 +1214,10 @@
     "postal_code": "911 34",
     "city": "Vännäs",
     "country": "Schweden",
-    "street": "Västra Järnvägsgatan 8"
+    "street": "Västra Järnvägsgatan 8",
+    "lat": 63.9087449,
+    "lon": 19.7486144,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6155-euromaint-rail-ab.html",
@@ -993,7 +1228,10 @@
     "postal_code": "852 29",
     "city": "Sundsvall",
     "country": "Schweden",
-    "street": "Parkgatan 5"
+    "street": "Parkgatan 5",
+    "lat": 62.3857485,
+    "lon": 17.3122297,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6156-euromaint-rail-ab.html",
@@ -1004,7 +1242,10 @@
     "postal_code": "125 30",
     "city": "Älvsjö",
     "country": "Schweden",
-    "street": "Varuvägen 34"
+    "street": "Varuvägen 34",
+    "lat": 59.2706396,
+    "lon": 18.0007463,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6157-euromaint-rail-ab.html",
@@ -1016,7 +1257,10 @@
     "city": "Södertälje",
     "country": "Schweden",
     "workshop_name": "Södertäljedepån",
-    "street": "Svalängsvägen 2A"
+    "street": "Svalängsvägen 2A",
+    "lat": 59.1745779,
+    "lon": 17.6490793,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6158-euromaint-rail-ab.html",
@@ -1028,7 +1272,10 @@
     "city": "Stockholm",
     "country": "Schweden",
     "workshop_name": "Slakthusdepån",
-    "street": "Hallvägen 48"
+    "street": "Hallvägen 48",
+    "lat": 59.292173,
+    "lon": 18.0774789,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6159-euromaint-rail-ab.html",
@@ -1040,7 +1287,10 @@
     "city": "Danderyd",
     "country": "Schweden",
     "workshop_name": "Mörbydepån",
-    "street": "Vendevägen 93"
+    "street": "Vendevägen 93",
+    "lat": 59.3890129,
+    "lon": 18.0442359,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6160-euromaint-rail-ab.html",
@@ -1052,7 +1302,10 @@
     "city": "Stockholm",
     "country": "Schweden",
     "workshop_name": "Hammarbydepån",
-    "street": "Garagevägen 18 G"
+    "street": "Garagevägen 18 G",
+    "lat": 59.2901557,
+    "lon": 18.0957439,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6161-euromaint-rail-ab.html",
@@ -1064,7 +1317,10 @@
     "city": "Solna",
     "country": "Schweden",
     "workshop_name": "Stockholm - Hagalund",
-    "street": "Stinsvägen 15"
+    "street": "Stinsvägen 15",
+    "lat": 59.3810142,
+    "lon": 17.9020214,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6162-euromaint-rail-ab.html",
@@ -1075,7 +1331,10 @@
     "postal_code": "200 22",
     "city": "Malmö",
     "country": "Schweden",
-    "street": "S. Bulltoftavägen 51"
+    "street": "S. Bulltoftavägen 51",
+    "lat": 55.6069833,
+    "lon": 13.0430327,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6163-euromaint-rail-ab.html",
@@ -1087,7 +1346,10 @@
     "city": "Lulea",
     "country": "Schweden",
     "workshop_name": "Luleå - Svartön",
-    "street": "Lokstallsvägen 2"
+    "street": "Lokstallsvägen 2",
+    "lat": 65.5787083,
+    "lon": 22.1821885,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6164-euromaint-rail-ab.html",
@@ -1099,7 +1361,10 @@
     "city": "Lulea",
     "country": "Schweden",
     "workshop_name": "Luleå - Notviken",
-    "street": "Kontorsgatan 37"
+    "street": "Kontorsgatan 37",
+    "lat": 65.6160883,
+    "lon": 22.0787901,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6165-euromaint-rail-ab.html",
@@ -1110,7 +1375,10 @@
     "postal_code": "582 73",
     "city": "Linköping",
     "country": "Schweden",
-    "street": "Södra Oskarsgatan 2"
+    "street": "Södra Oskarsgatan 2",
+    "lat": 58.4202695,
+    "lon": 15.6228618,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6166-euromaint-rail-ab.html",
@@ -1121,7 +1389,10 @@
     "postal_code": "261 35",
     "city": "Landskrona",
     "country": "Schweden",
-    "street": "Fartygsgatan 40"
+    "street": "Fartygsgatan 40",
+    "lat": 55.8584115,
+    "lon": 12.8415457,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6167-euromaint-rail-ab.html",
@@ -1132,7 +1403,10 @@
     "postal_code": "694 35",
     "city": "Hallsberg",
     "country": "Schweden",
-    "street": "Lokvägen 2"
+    "street": "Lokvägen 2",
+    "lat": 59.0651198,
+    "lon": 15.0912426,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6168-euromaint-rail-ab.html",
@@ -1143,7 +1417,12 @@
     "postal_code": "411 04",
     "city": "Göteborg",
     "country": "Schweden",
-    "street": "Minuthandelsgatan 15"
+    "street": "Minuthandelsgatan 15",
+    "phone": "+41 8 515 15 000",
+    "fax": "+41 31 707 02 39",
+    "lat": 57.7179914,
+    "lon": 11.9960953,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6169-euromaint-rail-ab.html",
@@ -1154,7 +1433,11 @@
     "postal_code": "803 01",
     "city": "Gävle",
     "country": "Schweden",
-    "workshop_name": "Lötängsgatan"
+    "workshop_name": "Lötängsgatan",
+    "phone": "+41 8 515 15 000",
+    "lat": 60.6890953,
+    "lon": 17.1486356,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6170-euromaint-rail-ab.html",
@@ -1165,7 +1448,12 @@
     "postal_code": "781 71",
     "city": "Borlänge",
     "country": "Schweden",
-    "street": "Bangårdsgatan 8"
+    "street": "Bangårdsgatan 8",
+    "phone": "+46 8-515 15 000",
+    "fax": "+46 243-227905",
+    "lat": 60.4722093,
+    "lon": 15.4171498,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6172-db-regionetz-verkehrs-gmbh.html",
@@ -1177,7 +1465,10 @@
     "city": "Mühldorf a. Inn",
     "country": "Deutschland",
     "workshop_name": "SüdostBayern Bahn - Werkstatt Mühldorf",
-    "street": "Bischof-von-Ketteler-Straße 1"
+    "street": "Bischof-von-Ketteler-Straße 1",
+    "lat": 48.24872,
+    "lon": 12.52386,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnregio/db__regionetzverkehrs.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6174-gl-spezialverglasung-gmbh.html",
@@ -1189,7 +1480,10 @@
     "city": "Großebersdorf, Niederösterreich",
     "country": "Österreich",
     "workshop_name": "Servicestation Wien",
-    "street": "Wiener Straße 720"
+    "street": "Wiener Straße 720",
+    "lat": 48.35343,
+    "lon": 16.4627268,
+    "website": "http://www.gl-spezialverglasung.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6175-gl-spezialverglasung-gmbh.html",
@@ -1201,7 +1495,10 @@
     "city": "Kirchheim b. München",
     "country": "Deutschland",
     "workshop_name": "Servicestation München",
-    "street": "Hürderstraße 4"
+    "street": "Hürderstraße 4",
+    "lat": 48.1572,
+    "lon": 11.75799,
+    "website": "http://www.gl-spezialverglasung.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6176-gl-spezialverglasung-gmbh.html",
@@ -1213,7 +1510,10 @@
     "city": "Kassel, Hess",
     "country": "Deutschland",
     "workshop_name": "Servicestation Kassel",
-    "street": "Leipziger Straße 359"
+    "street": "Leipziger Straße 359",
+    "lat": 51.29586,
+    "lon": 9.55059,
+    "website": "http://www.gl-spezialverglasung.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6177-gl-spezialverglasung-gmbh.html",
@@ -1225,7 +1525,10 @@
     "city": "Krefeld",
     "country": "Deutschland",
     "workshop_name": "Servicestation Krefeld",
-    "street": "Parkstraße 10"
+    "street": "Parkstraße 10",
+    "lat": 51.3572544,
+    "lon": 6.642347,
+    "website": "http://www.gl-spezialverglasung.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6178-gl-spezialverglasung-gmbh.html",
@@ -1237,7 +1540,10 @@
     "city": "Hennigsdorf",
     "country": "Deutschland",
     "workshop_name": "Servicestation Berlin-Hennigsdorf",
-    "street": "Am Rathenaupark"
+    "street": "Am Rathenaupark",
+    "lat": 52.628,
+    "lon": 13.20548,
+    "website": "http://www.gl-spezialverglasung.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6188-zentralwerkstatt-fuer-verkehrsmittel-mannheim-gmbh.html",
@@ -1249,7 +1555,8 @@
     "city": "Mannheim",
     "country": "Deutschland",
     "workshop_name": "Schienenwerkstatt",
-    "street": "Möhlstraße 12"
+    "street": "Möhlstraße 12",
+    "website": "http://www.zwm-mannheim.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6189-zb-zentralbahn-ag.html",
@@ -1260,7 +1567,10 @@
     "postal_code": "6362",
     "city": "Stansstad",
     "country": "Schweiz",
-    "street": "Stanserstraße 2"
+    "street": "Stanserstraße 2",
+    "lat": 46.9781371,
+    "lon": 8.3341979,
+    "website": "http://www.zentralbahn.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6191-wrs-westdeutsche-rail-service-gmbh.html",
@@ -1271,7 +1581,10 @@
     "postal_code": "47058",
     "city": "Duisburg",
     "country": "Deutschland",
-    "street": "Wintgensstraße 91"
+    "street": "Wintgensstraße 91",
+    "lat": 51.44302,
+    "lon": 6.79063,
+    "website": "http://www.wrs-duisburg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6192-wls-waggon-und-lokreparatur-service-gmbh.html",
@@ -1282,7 +1595,10 @@
     "postal_code": "47441",
     "city": "Moers",
     "country": "Deutschland",
-    "street": "Baerler Straße 70"
+    "street": "Baerler Straße 70",
+    "lat": 51.4582534,
+    "lon": 6.6345115,
+    "website": "http://www.wls-moers.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6193-westfaelische-landes-eisenbahn-gmbh.html",
@@ -1293,7 +1609,10 @@
     "postal_code": "59555",
     "city": "Lippstadt",
     "country": "Deutschland",
-    "street": "Beckumer Straße 70"
+    "street": "Beckumer Straße 70",
+    "lat": 51.67788,
+    "lon": 8.33381,
+    "website": "http://www.wle-online.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6202-westfaelische-lokomotiv-fabrik-karl-reuschling-gmbh-co-kg.html",
@@ -1304,7 +1623,10 @@
     "postal_code": "45525",
     "city": "Hattingen, Ruhr",
     "country": "Deutschland",
-    "street": "Eickener Straße 45"
+    "street": "Eickener Straße 45",
+    "lat": 51.3969409,
+    "lon": 7.1717555,
+    "website": "http://www.reuschling-hattingen.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6214-waggonwerk-bruehl-gmbh.html",
@@ -1316,7 +1638,8 @@
     "city": "Wesseling, Rheinl",
     "country": "Deutschland",
     "workshop_name": "Werk Brühl",
-    "street": "Brühler Straße 330"
+    "street": "Brühler Straße 330",
+    "website": "http://www.vtg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6215-waggonbau-graaff-gmbh.html",
@@ -1327,7 +1650,10 @@
     "postal_code": "31008",
     "city": "Elze, Leine",
     "country": "Deutschland",
-    "street": "Heinrich-Nagel-Straße 1"
+    "street": "Heinrich-Nagel-Straße 1",
+    "lat": 52.1187971,
+    "lon": 9.7426112,
+    "website": "http://www.vtg-rail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6220-vps-verkehrsbetriebe-peine-salzgitter-gmbh.html",
@@ -1338,7 +1664,10 @@
     "postal_code": "38229",
     "city": "Salzgitter",
     "country": "Deutschland",
-    "street": "Am Hillenholz 28"
+    "street": "Am Hillenholz 28",
+    "lat": 52.146383,
+    "lon": 10.3783037,
+    "website": "http://www.vps-bahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6222-vossloh-locomotives-gmbh.html",
@@ -1350,7 +1679,10 @@
     "city": "Moers",
     "country": "Deutschland",
     "workshop_name": "Service-Zentrum Moers",
-    "street": "Baerler Straße 100"
+    "street": "Baerler Straße 100",
+    "lat": 51.4591307,
+    "lon": 6.6367721,
+    "website": "http://www.vossloh-locomotives.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6229-vis-verkehrs-industrie-systeme-gmbh.html",
@@ -1361,7 +1693,10 @@
     "postal_code": "38820",
     "city": "Halberstadt",
     "country": "Deutschland",
-    "street": "Magdeburger Straße 29"
+    "street": "Magdeburger Straße 29",
+    "lat": 51.89938,
+    "lon": 11.06621,
+    "website": "http://www.vis-hbs.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6230-vias-gmbh.html",
@@ -1373,7 +1708,10 @@
     "city": "Michelstadt",
     "country": "Deutschland",
     "workshop_name": "BW Michelstadt",
-    "street": "Hammerweg 45a"
+    "street": "Hammerweg 45a",
+    "lat": 49.67969,
+    "lon": 8.9971,
+    "website": "http://www.vias-online.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6250-uestra-hannoversche-verkehrsbetriebe-ag.html",
@@ -1385,7 +1723,10 @@
     "city": "Hannover",
     "country": "Deutschland",
     "workshop_name": "Stadtbahnwerkstätten",
-    "street": "Friedrich-Lehner-Weg 1"
+    "street": "Friedrich-Lehner-Weg 1",
+    "lat": 52.3753752,
+    "lon": 9.7173952,
+    "website": "http://www.uestra.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6271-talgo-deutschland-gmbh.html",
@@ -1396,7 +1737,10 @@
     "postal_code": "10245",
     "city": "Berlin",
     "country": "Deutschland",
-    "street": "Revaler Straße 99"
+    "street": "Revaler Straße 99",
+    "lat": 52.507124,
+    "lon": 13.4567647,
+    "website": "http://www.talgo.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6272-sz-centralne-delavnice-ljubljana-d-o-o.html",
@@ -1408,7 +1752,8 @@
     "city": "Divaca",
     "country": "Slowenien",
     "workshop_name": "Proizvodnja Diva?a",
-    "street": "Ul. Ludvika Požrlja 22"
+    "street": "Ul. Ludvika Požrlja 22",
+    "website": "http://www.sz-cd.si"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6273-sz-centralne-delavnice-ljubljana-d-o-o.html",
@@ -1420,7 +1765,8 @@
     "city": "Dobova",
     "country": "Slowenien",
     "workshop_name": "Proizvodnja Dobova",
-    "street": "Ul.15. Aprila 23"
+    "street": "Ul.15. Aprila 23",
+    "website": "http://www.sz-cd.si"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6274-sz-centralne-delavnice-ljubljana-d-o-o.html",
@@ -1432,7 +1778,10 @@
     "city": "Ptuj",
     "country": "Slowenien",
     "workshop_name": "Proizvodnja Ptuj",
-    "street": "Osojnikova cesta 6"
+    "street": "Osojnikova cesta 6",
+    "lat": 46.4199885,
+    "lon": 15.8699813,
+    "website": "http://www.sz-cd.si"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6275-sz-centralne-delavnice-ljubljana-d-o-o.html",
@@ -1444,7 +1793,10 @@
     "city": "Maribor",
     "country": "Slowenien",
     "workshop_name": "Proizvodnja Maribor",
-    "street": "Kurilniška ulica 8"
+    "street": "Kurilniška ulica 8",
+    "lat": 46.5573993,
+    "lon": 15.645982,
+    "website": "http://www.sz-cd.si"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6276-sz-centralne-delavnice-ljubljana-d-o-o.html",
@@ -1456,7 +1808,10 @@
     "city": "Ljubljana",
     "country": "Slowenien",
     "workshop_name": "Proizvodnja Ljubljana",
-    "street": "Zaloška cesta 217"
+    "street": "Zaloška cesta 217",
+    "lat": 46.0514263,
+    "lon": 14.5059655,
+    "website": "http://www.sz-cd.si"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6284-stern-hafferl-verkehrsgesellschaft-m-b-h.html",
@@ -1468,7 +1823,10 @@
     "city": "Vorchdorf",
     "country": "Österreich",
     "workshop_name": "Hauptwerkstätte",
-    "street": "Bahnweg 7"
+    "street": "Bahnweg 7",
+    "lat": 47.9994764,
+    "lon": 13.9200347,
+    "website": "http://www.stern-verkehr.at"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6295-stadler-winterthur-ag.html",
@@ -1479,7 +1837,12 @@
     "postal_code": "8404",
     "city": "Winterthur",
     "country": "Schweiz",
-    "street": "Sulzer-Allee 11"
+    "street": "Sulzer-Allee 11",
+    "phone": "+41 52 224 61 00",
+    "fax": "+41 52 224 61 10",
+    "lat": 47.5012088,
+    "lon": 8.7556108,
+    "website": "http://www.stadlerrail.com/de/portrait/standorte/winterthur-ch/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6296-stadler-szolnok-kft.html",
@@ -1490,7 +1853,10 @@
     "postal_code": "5002",
     "city": "Szolnok",
     "country": "Ungarn",
-    "workshop_name": "0397/115 hrsz."
+    "workshop_name": "0397/115 hrsz.",
+    "lat": 47.175233,
+    "lon": 20.194087,
+    "website": "http://www.stadlerrail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6298-stadler-polska-sp-z-o-o.html",
@@ -1501,7 +1867,10 @@
     "postal_code": "08-110",
     "city": "Siedlce",
     "country": "Polen",
-    "street": "ul. Targowa 50"
+    "street": "ul. Targowa 50",
+    "lat": 52.1526356,
+    "lon": 22.2881873,
+    "website": "http://www.stadlerrail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6299-stadler-pankow-gmbh.html",
@@ -1512,7 +1881,12 @@
     "postal_code": "13158",
     "city": "Berlin",
     "country": "Deutschland",
-    "street": "Lessingstrasse 102"
+    "street": "Lessingstrasse 102",
+    "phone": "+49 30 91 91 16",
+    "fax": "+49 30 91 91 20",
+    "lat": 52.58928,
+    "lon": 13.35174,
+    "website": "http://www.stadlerrail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6300-stadler-bussnang-ag.html",
@@ -1523,7 +1897,12 @@
     "postal_code": "9565",
     "city": "Bussnang",
     "country": "Schweiz",
-    "street": "Ernst-Stadler-Strasse 1"
+    "street": "Ernst-Stadler-Strasse 1",
+    "phone": "+41 71 626 20 20",
+    "fax": "+41 71 626 20 21",
+    "lat": 47.5568216,
+    "lon": 9.0883484999999,
+    "website": "http://www.stadlerrail.com/de/portrait/standorte/bussnang-ch/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6301-stadler-altenrhein-ag.html",
@@ -1534,7 +1913,12 @@
     "postal_code": "9423",
     "city": "Altenrhein",
     "country": "Schweiz",
-    "workshop_name": "Park Altenrhein für Industrie und Gewerbe"
+    "workshop_name": "Park Altenrhein für Industrie und Gewerbe",
+    "phone": "+41 71 858 41 41",
+    "fax": "+41 71 858 41 42",
+    "lat": 47.485,
+    "lon": 9.561944,
+    "website": "http://www.stadlerrail.com/de/portrait/standorte/altenreihn-ch/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6302-stadler-algerie-eurl.html",
@@ -1542,7 +1926,9 @@
     "name": "Stadler Algérie Eurl",
     "address_raw": "Villa W7 | DZ- 16108 Kouba Alger (Algerien)",
     "workshop_name": "Villa W7",
-    "street": "DZ- 16108 Kouba Alger (Algerien)"
+    "street": "DZ- 16108 Kouba Alger (Algerien)",
+    "lat": 36.7260163,
+    "lon": 3.0826673
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6304-srs-rail-service-gmbh.html",
@@ -1553,7 +1939,10 @@
     "postal_code": "89362",
     "city": "Offingen, Donau",
     "country": "Deutschland",
-    "street": "Neuoffingen 3"
+    "street": "Neuoffingen 3",
+    "lat": 48.48323,
+    "lon": 10.34462,
+    "website": "http://www.srs-railservice.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6316-siemens-ag-transportation-systems.html",
@@ -1565,7 +1954,10 @@
     "city": "Düsseldorf",
     "country": "Deutschland",
     "workshop_name": "Werkstatt West",
-    "street": "Königsberger Straße 100"
+    "street": "Königsberger Straße 100",
+    "lat": 51.21683,
+    "lon": 6.82973,
+    "website": "http://www.siemens.de/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6318-shunter-wagenbedrijf-nederland-b-v.html",
@@ -1577,7 +1969,8 @@
     "city": "Antwerpen",
     "country": "Belgien",
     "workshop_name": "SATI Werkplaats wagons Antwerpen",
-    "street": "Vrieskaai 34"
+    "street": "Vrieskaai 34",
+    "website": "http://www.sati.be"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6319-shunter-wagenbedrijf-nederland-b-v.html",
@@ -1589,7 +1982,10 @@
     "city": "RL Roosendaal",
     "country": "Niederlande",
     "workshop_name": "Werkplaats wagons Roosendaal",
-    "street": "Bosstraat 24"
+    "street": "Bosstraat 24",
+    "lat": 51.5502694,
+    "lon": 4.469753,
+    "website": "http://www.shunter.nl"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6320-shunter-wagenbedrijf-nederland-b-v.html",
@@ -1601,7 +1997,10 @@
     "city": "JK Rotterdam",
     "country": "Niederlande",
     "workshop_name": "Werkplaats wagons Rotterdam",
-    "street": "2e Rosestraat 10"
+    "street": "2e Rosestraat 10",
+    "lat": 51.8998556,
+    "lon": 4.5106036,
+    "website": "http://www.shunter.nl"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6321-shunter-wagenbedrijf-nederland-b-v.html",
@@ -1613,7 +2012,10 @@
     "city": "GC Rotterdam",
     "country": "Niederlande",
     "workshop_name": "Werkplaats locomotieven Rotterdam",
-    "street": "Albert Plesmanweg 87"
+    "street": "Albert Plesmanweg 87",
+    "lat": 51.8724895,
+    "lon": 4.4468678,
+    "website": "http://www.shunter.nl"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6324-sema-ag.html",
@@ -1625,7 +2027,10 @@
     "city": "Celle",
     "country": "Deutschland",
     "workshop_name": "Service Manufaktur für den Schienenverkehr",
-    "street": "Neuenhäuser Straße 6-8"
+    "street": "Neuenhäuser Straße 6-8",
+    "lat": 52.6139899,
+    "lon": 10.062137,
+    "website": "http://www.sema-ag.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6331-schweizerische-suedostbahn-ag.html",
@@ -1637,7 +2042,10 @@
     "city": "Samstagern",
     "country": "Schweiz",
     "workshop_name": "Werkstätte Samstagern",
-    "street": "Stationsstrasse"
+    "street": "Stationsstrasse",
+    "lat": 47.1919723,
+    "lon": 8.6824057,
+    "website": "http://www.suedostbahn.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6332-schweizerische-suedostbahn-ag.html",
@@ -1649,7 +2057,9 @@
     "city": "Herisau",
     "country": "Schweiz",
     "workshop_name": "Werkstätte Herisau",
-    "street": "St. Gallerstrasse"
+    "street": "St. Gallerstrasse",
+    "lat": 47.3919627,
+    "lon": 9.2794616
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6343-s-bahn-berlin-gmbh.html",
@@ -1661,7 +2071,10 @@
     "city": "Oranienburg",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Oranienburg",
-    "street": "Andrè-Pican-Straße 41c"
+    "street": "Andrè-Pican-Straße 41c",
+    "lat": 52.75026,
+    "lon": 13.25552,
+    "website": "http://www.s-bahn-berlin.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6344-s-bahn-berlin-gmbh.html",
@@ -1673,7 +2086,10 @@
     "city": "Berlin",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Wannsee",
-    "street": "Bismarckstraße 29c"
+    "street": "Bismarckstraße 29c",
+    "lat": 52.41532,
+    "lon": 13.16664,
+    "website": "http://www.s-bahn-berlin.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6345-s-bahn-berlin-gmbh.html",
@@ -1685,7 +2101,10 @@
     "city": "Berlin",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Grünau",
-    "street": "Adlergestell 573"
+    "street": "Adlergestell 573",
+    "lat": 52.4094139,
+    "lon": 13.5800059,
+    "website": "http://www.s-bahn-berlin.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6346-s-bahn-berlin-gmbh.html",
@@ -1697,7 +2116,10 @@
     "city": "Berlin",
     "country": "Deutschland",
     "workshop_name": "Betriebswerkstatt Friedrichsfelde",
-    "street": "Rosenfelder Straße 30"
+    "street": "Rosenfelder Straße 30",
+    "lat": 52.5118729,
+    "lon": 13.5062023,
+    "website": "http://www.s-bahn-berlin.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6350-saechsisch-oberlausitzer-eisenbahngesellschaft-mbh.html",
@@ -1708,7 +2130,10 @@
     "postal_code": "02763",
     "city": "Zittau",
     "country": "Deutschland",
-    "street": "Bahnhofstraße 41"
+    "street": "Bahnhofstraße 41",
+    "lat": 50.90399,
+    "lon": 14.80677,
+    "website": "http://www.soeg-zittau.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6357-s-c-astra-vagoane-c-l-tori-s-a.html",
@@ -1719,7 +2144,10 @@
     "postal_code": "310210",
     "city": "Arad",
     "country": "Rumänien",
-    "street": "Str. Petru Rare? 1-3"
+    "street": "Str. Petru Rare? 1-3",
+    "lat": 46.1927361,
+    "lon": 21.3312596,
+    "website": "http://www.astra-passengers.ro"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6359-rurtalbahn-gmbh.html",
@@ -1730,7 +2158,10 @@
     "postal_code": "52351",
     "city": "Düren, Rheinl",
     "country": "Deutschland",
-    "street": "Kölner Landstraße 271"
+    "street": "Kölner Landstraße 271",
+    "lat": 50.81287,
+    "lon": 6.51002,
+    "website": "http://www.rurtalbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6364-rse-rhein-sieg-eisenbahn-gmbh.html",
@@ -1741,7 +2172,10 @@
     "postal_code": "53229",
     "city": "Bonn",
     "country": "Deutschland",
-    "street": "Siebengebirgsstraße 152"
+    "street": "Siebengebirgsstraße 152",
+    "lat": 50.74061,
+    "lon": 7.19085,
+    "website": "http://www.rse-bonn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6365-rsb-rail-service-benelux-b-v.html",
@@ -1752,7 +2186,10 @@
     "postal_code": "3198",
     "city": "LS Europoort",
     "country": "Niederlande",
-    "street": "Moezelweg 136 A"
+    "street": "Moezelweg 136 A",
+    "lat": 51.9152729,
+    "lon": 4.1904384,
+    "website": "http://www.euromaint.se/de/EuroMaint-Rail/Kontakt/Niederlanden/Rotterdam"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6390-regiobahn-bitterfeld-gmbh.html",
@@ -1764,7 +2201,10 @@
     "city": "Bitterfeld",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Bitterfeld",
-    "street": "Zörbiger Straße"
+    "street": "Zörbiger Straße",
+    "lat": 51.625768,
+    "lon": 12.3095182,
+    "website": "http://www.regiobahnbitterfeld.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6391-regiobahn-bitterfeld-berlin-gmbh.html",
@@ -1775,7 +2215,10 @@
     "postal_code": "06749",
     "city": "Bitterfeld",
     "country": "Deutschland",
-    "street": "Straße am Landgraben 5 / ChemiePark, Areal C"
+    "street": "Straße am Landgraben 5 / ChemiePark, Areal C",
+    "lat": 51.624938,
+    "lon": 12.333295,
+    "website": "http://www.regiobahnbitterfeld.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6394-regental-fahrzeugwerkstaetten-gmbh.html",
@@ -1787,7 +2230,10 @@
     "city": "Schwandorf, Bay",
     "country": "Deutschland",
     "workshop_name": "Standort Schwandorf",
-    "street": "Birkenlohstraße 9"
+    "street": "Birkenlohstraße 9",
+    "lat": 49.31472,
+    "lon": 12.11854,
+    "website": "http://www.laenderbahn.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6396-regental-fahrzeugwerkstaetten-gmbh.html",
@@ -1799,7 +2245,10 @@
     "city": "Viechtach",
     "country": "Deutschland",
     "workshop_name": "Standort Viechtach",
-    "street": "Bahnhofplatz 1"
+    "street": "Bahnhofplatz 1",
+    "lat": 49.0818698,
+    "lon": 12.8844655,
+    "website": "http://www.laenderbahn.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6400-rbh-logistics-gmbh.html",
@@ -1810,7 +2259,10 @@
     "postal_code": "45966",
     "city": "Gladbeck",
     "country": "Deutschland",
-    "street": "Talstraße 7"
+    "street": "Talstraße 7",
+    "lat": 51.58414,
+    "lon": 6.98208,
+    "website": "http://www.rbh-logistics.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6401-rar-rent-a-rail-gmbh.html",
@@ -1821,7 +2273,10 @@
     "postal_code": "89362",
     "city": "Offingen, Donau",
     "country": "Deutschland",
-    "street": "Neuoffingen 3a"
+    "street": "Neuoffingen 3a",
+    "lat": 48.48323,
+    "lon": 10.34462,
+    "website": "http://www.rent-a-rail.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6414-radsatzfabrik-ilsenburg-gmbh.html",
@@ -1832,7 +2287,10 @@
     "postal_code": "38871",
     "city": "Ilsenburg",
     "country": "Deutschland",
-    "street": "Schmiedestrasse 16 / 17"
+    "street": "Schmiedestrasse 16 / 17",
+    "lat": 51.8695,
+    "lon": 10.68552,
+    "website": "http://www.rafil-gmbh.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6415-r-b-s-kirchweyhe-reinigen-beschichten-strahlen-gmbh.html",
@@ -1843,7 +2301,8 @@
     "postal_code": "28844",
     "city": "Weyhe-Leeste",
     "country": "Deutschland",
-    "street": "Richtweg 85"
+    "street": "Richtweg 85",
+    "website": "http://www.rbs-kirchweyhe.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6432-osthannoversche-eisenbahn-ag.html",
@@ -1855,7 +2314,10 @@
     "city": "Uelzen",
     "country": "Deutschland",
     "workshop_name": "Bw Uelzen",
-    "street": "Am Dannenberger Bergbogen"
+    "street": "Am Dannenberger Bergbogen",
+    "lat": 52.9658199,
+    "lon": 10.5580304,
+    "website": "http://www.ohe-transport.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6433-osthannoversche-eisenbahn-ag.html",
@@ -1867,7 +2329,10 @@
     "city": "Bleckede",
     "country": "Deutschland",
     "workshop_name": "EAW Bleckede",
-    "street": "Am Bleckwerk 13"
+    "street": "Am Bleckwerk 13",
+    "lat": 53.2909935,
+    "lon": 10.725325,
+    "website": "http://www.ohe-transport.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6434-osthannoversche-eisenbahn-ag.html",
@@ -1878,19 +2343,10 @@
     "postal_code": "29221",
     "city": "Celle",
     "country": "Deutschland",
-    "street": "Biermannstraße 44"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6441-oebb-technische-services-gmbh.html",
-    "id": 6441,
-    "name": "ÖBB-Technische Services GmbH",
-    "address_raw": "SVS Wörgl | Ferdinand Raimundstraße 15 | AT-6300 Wörgl (Österreich)",
-    "country_code": "AT",
-    "postal_code": "6300",
-    "city": "Wörgl",
-    "country": "Österreich",
-    "workshop_name": "SVS Wörgl",
-    "street": "Ferdinand Raimundstraße 15"
+    "street": "Biermannstraße 44",
+    "lat": 52.6312636,
+    "lon": 10.0669566,
+    "website": "http://www.ohe-transport.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6442-oebb-technische-services-gmbh.html",
@@ -1902,7 +2358,10 @@
     "city": "Wolfurt-Bahnhof",
     "country": "Österreich",
     "workshop_name": "SVS Wolfurt",
-    "street": "Senderstraße 8b"
+    "street": "Senderstraße 8b",
+    "lat": 47.4567143,
+    "lon": 9.7390886,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6443-oebb-technische-services-gmbh.html",
@@ -1914,7 +2373,9 @@
     "city": "Wolfsberg, Kärnten",
     "country": "Österreich",
     "workshop_name": "SVS Wolfsberg",
-    "street": "Kirchbichelstraße 1"
+    "street": "Kirchbichelstraße 1",
+    "lat": 46.839886,
+    "lon": 14.8374699
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6444-oebb-technische-services-gmbh.html",
@@ -1926,7 +2387,10 @@
     "city": "Wiener Neustadt",
     "country": "Österreich",
     "workshop_name": "SVS Wr. Neustadt",
-    "street": "Neunkirchnerstraße 82"
+    "street": "Neunkirchnerstraße 82",
+    "lat": 47.8093458,
+    "lon": 16.234883,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6446-oebb-technische-services-gmbh.html",
@@ -1950,7 +2414,10 @@
     "city": "Wien",
     "country": "Österreich",
     "workshop_name": "SVS Wien FJB",
-    "street": "Spittelauerlände 33"
+    "street": "Spittelauerlände 33",
+    "lat": 48.2253633,
+    "lon": 16.3561956,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6448-oebb-technische-services-gmbh.html",
@@ -1962,7 +2429,10 @@
     "city": "Wien",
     "country": "Österreich",
     "workshop_name": "SVS Wien Kledering",
-    "street": "Ruthnergasse 2a"
+    "street": "Ruthnergasse 2a",
+    "lat": 48.2662711,
+    "lon": 16.4083928,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6449-oebb-technische-services-gmbh.html",
@@ -1974,7 +2444,10 @@
     "city": "Wien",
     "country": "Österreich",
     "workshop_name": "SVS Wien Matzleinsdorf",
-    "street": "Margaretengürtel 35"
+    "street": "Margaretengürtel 35",
+    "lat": 48.1794494,
+    "lon": 16.354983,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6450-oebb-technische-services-gmbh.html",
@@ -1986,7 +2459,10 @@
     "city": "Wien",
     "country": "Österreich",
     "workshop_name": "Werk Wien Simmering",
-    "street": "Grillgasse 48"
+    "street": "Grillgasse 48",
+    "lat": 48.168779,
+    "lon": 16.4088199,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6451-oebb-technische-services-gmbh.html",
@@ -1998,7 +2474,10 @@
     "city": "Wien",
     "country": "Österreich",
     "workshop_name": "SVS Wien West",
-    "street": "Avediktstraße 2"
+    "street": "Avediktstraße 2",
+    "lat": 48.1943829,
+    "lon": 16.3235143,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6452-oebb-technische-services-gmbh.html",
@@ -2010,7 +2489,10 @@
     "city": "Wels",
     "country": "Österreich",
     "workshop_name": "SVS Wels",
-    "street": "Flugplatzstraße 12a"
+    "street": "Flugplatzstraße 12a",
+    "lat": 48.1770433,
+    "lon": 14.0471108,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6453-oebb-technische-services-gmbh.html",
@@ -2022,7 +2504,10 @@
     "city": "Waidhofen/Ybbs",
     "country": "Österreich",
     "workshop_name": "SVS Waidhofen/Ybbs",
-    "street": "Wiener Straße 45b"
+    "street": "Wiener Straße 45b",
+    "lat": 47.9701775,
+    "lon": 14.7638161,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6454-oebb-technische-services-gmbh.html",
@@ -2034,7 +2519,10 @@
     "city": "Villach",
     "country": "Österreich",
     "workshop_name": "SVS Villach",
-    "street": "Heizhausstraße 49"
+    "street": "Heizhausstraße 49",
+    "lat": 46.6025529,
+    "lon": 13.8367749,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6455-oebb-technische-services-gmbh.html",
@@ -2046,7 +2534,10 @@
     "city": "St. Pölten",
     "country": "Österreich",
     "workshop_name": "SVS St. Pölten",
-    "street": "Werkstättenstraße  17"
+    "street": "Werkstättenstraße  17",
+    "lat": 48.1929083,
+    "lon": 15.6122777,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6456-oebb-technische-services-gmbh.html",
@@ -2058,7 +2549,10 @@
     "city": "Salzburg",
     "country": "Österreich",
     "workshop_name": "SVS Salzburg",
-    "street": "Röcklbrunnerstraße 12"
+    "street": "Röcklbrunnerstraße 12",
+    "lat": 47.8051393,
+    "lon": 13.0380686,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6457-oebb-technische-services-gmbh.html",
@@ -2070,7 +2564,8 @@
     "city": "Linz",
     "country": "Österreich",
     "workshop_name": "Werk Linz",
-    "street": "Unionstraße 24"
+    "street": "Unionstraße 24",
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6458-oebb-technische-services-gmbh.html",
@@ -2082,7 +2577,10 @@
     "city": "Krems an der Donau",
     "country": "Österreich",
     "workshop_name": "SVS Krems",
-    "street": "Am Frachtenbahnhof 5"
+    "street": "Am Frachtenbahnhof 5",
+    "lat": 48.4073591,
+    "lon": 15.6047696,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6459-oebb-technische-services-gmbh.html",
@@ -2094,7 +2592,10 @@
     "city": "Knittelfeld",
     "country": "Österreich",
     "workshop_name": "Werk Knittelfeld - Radsätze",
-    "street": "Lobmingerstraße 1"
+    "street": "Lobmingerstraße 1",
+    "lat": 47.2111722,
+    "lon": 14.8317274,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6460-oebb-technische-services-gmbh.html",
@@ -2106,7 +2607,10 @@
     "city": "Kledering",
     "country": "Österreich",
     "workshop_name": "SVS Kledering",
-    "street": "Ostbahnstraße 1"
+    "street": "Ostbahnstraße 1",
+    "lat": 48.1348684,
+    "lon": 16.4411144,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6461-oebb-technische-services-gmbh.html",
@@ -2118,7 +2622,10 @@
     "city": "Innsbruck",
     "country": "Österreich",
     "workshop_name": "SVS Innsbruck",
-    "street": "Wiltenberg 1a"
+    "street": "Wiltenberg 1a",
+    "lat": 47.2538984,
+    "lon": 11.3815033,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6462-oebb-technische-services-gmbh.html",
@@ -2130,7 +2637,10 @@
     "city": "Graz",
     "country": "Österreich",
     "workshop_name": "SVS Graz",
-    "street": "Bahnhofgürtel 40"
+    "street": "Bahnhofgürtel 40",
+    "lat": 47.0799482,
+    "lon": 15.4148748,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6463-oebb-technische-services-gmbh.html",
@@ -2142,7 +2652,10 @@
     "city": "Gmünd, Niederösterreich",
     "country": "Österreich",
     "workshop_name": "SVS Gmünd",
-    "street": "Emmerich Bergerstraße 1"
+    "street": "Emmerich Bergerstraße 1",
+    "lat": 48.77156,
+    "lon": 14.98511,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6464-oebb-technische-services-gmbh.html",
@@ -2154,7 +2667,10 @@
     "city": "Feldkirch",
     "country": "Österreich",
     "workshop_name": "SVS Feldkirch",
-    "street": "Beim Levner Weiher 4"
+    "street": "Beim Levner Weiher 4",
+    "lat": 47.2445407,
+    "lon": 9.6096597,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6465-oebb-technische-services-gmbh.html",
@@ -2166,7 +2682,10 @@
     "city": "Bruck an der Mur",
     "country": "Österreich",
     "workshop_name": "SVS Bruck a. d. Mur",
-    "street": "Gustav Kramer Straße 32"
+    "street": "Gustav Kramer Straße 32",
+    "lat": 47.424439,
+    "lon": 15.2764354,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6466-oebb-technische-services-gmbh.html",
@@ -2178,7 +2697,10 @@
     "city": "Bludenz",
     "country": "Österreich",
     "workshop_name": "SVS Bludenz",
-    "street": "Moksystraße 26"
+    "street": "Moksystraße 26",
+    "lat": 47.1487334,
+    "lon": 9.8386993,
+    "website": "http://www.oebb.at/ts"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6468-northrail-technical-services-gmbh-co-kg.html",
@@ -2200,7 +2722,10 @@
     "postal_code": "23568",
     "city": "Lübeck",
     "country": "Deutschland",
-    "street": "Hafenstraße 1b"
+    "street": "Hafenstraße 1b",
+    "lat": 53.8784602,
+    "lon": 10.6912533,
+    "website": "http://www.nordicrailservice.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6482-neuss-duesseldorfer-haefen-gmbh-co-kg.html",
@@ -2212,7 +2737,10 @@
     "city": "Neuss",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Neusser Eisenbahnen",
-    "street": "Heerdterbuschstraße 1a"
+    "street": "Heerdterbuschstraße 1a",
+    "lat": 51.22217,
+    "lon": 6.70024,
+    "website": "http://www.nd-haefen.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6484-nesa-eisenbahn-betriebsgesellschaft-neckar-schwarzwald-alb-mbh.html",
@@ -2223,7 +2751,10 @@
     "postal_code": "78628",
     "city": "Rottweil",
     "country": "Deutschland",
-    "street": "Bahnhof 10/1"
+    "street": "Bahnhof 10/1",
+    "lat": 48.1649696,
+    "lon": 8.63974,
+    "website": "http://www.nesa-bahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6485-neg-niebuell-gmbh.html",
@@ -2234,7 +2765,10 @@
     "postal_code": "25899",
     "city": "Niebüll",
     "country": "Deutschland",
-    "street": "Bahnhofstraße 6"
+    "street": "Bahnhofstraße 6",
+    "lat": 54.7900516,
+    "lon": 8.8339095,
+    "website": "http://www.neg-niebuell.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6534-mitteldeutsche-eisenbahn-gmbh.html",
@@ -2245,7 +2779,8 @@
     "postal_code": "06258",
     "city": "Schkopau",
     "country": "Deutschland",
-    "workshop_name": "Bau A 103 bei Dow Olefinverbund GmbH"
+    "workshop_name": "Bau A 103 bei Dow Olefinverbund GmbH",
+    "website": "http://www.meg-bahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6535-mindener-kreisbahnen-gmbh.html",
@@ -2256,7 +2791,10 @@
     "postal_code": "32423",
     "city": "Minden, Westf",
     "country": "Deutschland",
-    "street": "Karlstraße 48"
+    "street": "Karlstraße 48",
+    "lat": 52.3400355,
+    "lon": 8.743197,
+    "website": "http://www.mkb.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6543-malowa-bahnwerkstatt-gmbh.html",
@@ -2267,7 +2805,9 @@
     "postal_code": "06308",
     "city": "Benndorf",
     "country": "Deutschland",
-    "street": "Hauptstraße 10"
+    "street": "Hauptstraße 10",
+    "lat": 51.57517,
+    "lon": 11.48889
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6548-lth-railservice-gmbh.html",
@@ -2278,7 +2818,10 @@
     "postal_code": "06118",
     "city": "Halle",
     "country": "Saale) (Deutschland",
-    "street": "Am Saalehafen 1"
+    "street": "Am Saalehafen 1",
+    "lat": 51.5242435,
+    "lon": 11.9425576,
+    "website": "http://www.lth-transportlogistik.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6550-lrs-polska-sp-z-o-o.html",
@@ -2289,7 +2832,9 @@
     "postal_code": "55-200",
     "city": "Olawa",
     "country": "Polen",
-    "street": "ul. Sikorskiego 15"
+    "street": "ul. Sikorskiego 15",
+    "lat": 50.9327214,
+    "lon": 17.3014236
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6556-logistik-service-gmbh.html",
@@ -2301,7 +2846,12 @@
     "city": "Linz",
     "country": "Österreich",
     "workshop_name": "Zentrale",
-    "street": "Lunzerstraße 41"
+    "street": "Lunzerstraße 41",
+    "phone": "+43 (732) 6598-2000",
+    "fax": "+43 (732) 6980-2000",
+    "lat": 48.2617422,
+    "lon": 14.335989,
+    "website": "http://www.logserv.at"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6559-leonhard-weiss-gmbh-co-kg.html",
@@ -2312,7 +2862,10 @@
     "postal_code": "73037",
     "city": "Göppingen",
     "country": "Deutschland",
-    "street": "Leonhard-Weiss-Straße 22"
+    "street": "Leonhard-Weiss-Straße 22",
+    "lat": 48.7012436,
+    "lon": 9.6699996,
+    "website": "http://www.leonhard-weiss.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6572-kuenstler-bahntechnik-gmbh.html",
@@ -2323,7 +2876,12 @@
     "postal_code": "59439",
     "city": "Holzwickede",
     "country": "Deutschland",
-    "street": "Schäferkampstrasse 48"
+    "street": "Schäferkampstrasse 48",
+    "phone": "+49 2301 91061-0",
+    "fax": "+49 2301 91061-88",
+    "lat": 51.5010997,
+    "lon": 7.6045056,
+    "website": "http://www.kuenstler-bahntechnik.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6578-ksw-kreisbahn-siegen-wittgenstein-gmbh.html",
@@ -2335,7 +2893,9 @@
     "city": "Siegen",
     "country": "Deutschland",
     "workshop_name": "Betriebstelle Eintracht",
-    "street": "Bahnhof Eintracht"
+    "street": "Bahnhof Eintracht",
+    "lat": 50.8675475,
+    "lon": 8.0045065
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6587-kahlgrund-verkehrs-gesellschaft-mbh.html",
@@ -2347,7 +2907,10 @@
     "city": "Schöllkrippen",
     "country": "Deutschland",
     "workshop_name": "Zentrale",
-    "street": "Am Bahnhof 12"
+    "street": "Am Bahnhof 12",
+    "lat": 50.0860284,
+    "lon": 9.2443226,
+    "website": "http://www.kahlgrundbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6589-josef-meyer-rail-ag.html",
@@ -2358,7 +2921,10 @@
     "postal_code": "4310",
     "city": "Rheinfelden",
     "country": "Schweiz",
-    "workshop_name": "Industrie Ost"
+    "workshop_name": "Industrie Ost",
+    "lat": 47.5665743,
+    "lon": 7.8224339,
+    "website": "http://www.josef-meyer.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6595-itl-eisenbahngesellschaft-mbh.html",
@@ -2370,7 +2936,10 @@
     "city": "Kamenz",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Kamenz",
-    "street": "Weinbergstraße 19"
+    "street": "Weinbergstraße 19",
+    "lat": 51.27874,
+    "lon": 14.09426,
+    "website": "http://www.itl-dresden.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6601-infraleuna-gmbh.html",
@@ -2381,7 +2950,8 @@
     "postal_code": "62306",
     "city": "Leuna",
     "country": "Deutschland",
-    "workshop_name": "An Haupttor"
+    "workshop_name": "An Haupttor",
+    "website": "http://www.infraleuna.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6636-hamburg-port-authority-aoer-1.html",
@@ -2393,7 +2963,12 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt der Hafenbahn",
-    "street": "Brandenburger Straße 19"
+    "street": "Brandenburger Straße 19",
+    "phone": "+49 40 42847-4393",
+    "fax": "+49 40 42847-4328",
+    "lat": 53.5226783,
+    "lon": 9.9930198,
+    "website": "http://www.hamburg-port-authority.de/de/hafenkunden/hafenbahn/werkstatt"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6640-haefen-und-gueterverkehr-koeln-ag.html",
@@ -2405,7 +2980,10 @@
     "city": "Brühl, Vochem",
     "country": "Deutschland",
     "workshop_name": "Bahnbetriebswerk Brühl-Vochem",
-    "street": "Am Volkspark"
+    "street": "Am Volkspark",
+    "lat": 50.8377737,
+    "lon": 6.9079557,
+    "website": "http://www.hgk.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6645-h-f-wiebe-gmbh-co-kg.html",
@@ -2416,7 +2994,10 @@
     "postal_code": "31582",
     "city": "Nienburg",
     "country": "Weser) (Deutschland",
-    "street": "Stöckser Straße 3"
+    "street": "Stöckser Straße 3",
+    "lat": 52.64094,
+    "lon": 9.2224,
+    "website": "http://www.wiebe.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6653-gmeinder-lokomotivenfabrik-gmbh.html",
@@ -2427,7 +3008,10 @@
     "postal_code": "74821",
     "city": "Mosbach, Baden",
     "country": "Deutschland",
-    "street": "Anton-Gmeinder-Straße 5"
+    "street": "Anton-Gmeinder-Straße 5",
+    "lat": 49.35499,
+    "lon": 9.14617,
+    "website": "http://www.gmeinder-lokomotivenfabrik.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6654-gmeinder-getriebe-und-maschinenfabrik-gmbh.html",
@@ -2438,7 +3022,10 @@
     "postal_code": "74821",
     "city": "Mosbach, Baden",
     "country": "Deutschland",
-    "street": "Anton-Gmeinder-Straße 9"
+    "street": "Anton-Gmeinder-Straße 9",
+    "lat": 49.35499,
+    "lon": 9.14617,
+    "website": "http://www.gmeinder.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6665-gbm-gleisbaumechanik-brandenburg-gmbh.html",
@@ -2449,7 +3036,10 @@
     "postal_code": "14774",
     "city": "Brandenburg a. d. Havel",
     "country": "Deutschland",
-    "street": "Adlerstraße 2"
+    "street": "Adlerstraße 2",
+    "lat": 52.39091,
+    "lon": 12.41008,
+    "website": "http://www.gleisbaumechanik.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6667-fwm-fahrzeugwerke-miraustrasse-gmbh.html",
@@ -2460,7 +3050,10 @@
     "postal_code": "13509",
     "city": "Berlin",
     "country": "Deutschland",
-    "street": "Holzhauserstraße 156"
+    "street": "Holzhauserstraße 156",
+    "lat": 52.58447,
+    "lon": 13.31407,
+    "website": "http://www.fwm-bahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6669-ftd-fahrzeugtechnik-dessau-gmbh-ctf.html",
@@ -2471,7 +3064,12 @@
     "postal_code": "06844",
     "city": "Dessau, Anh",
     "country": "Deutschland",
-    "street": "Am Waggonbau 11"
+    "street": "Am Waggonbau 11",
+    "phone": "+49 340 25 37 0",
+    "fax": "+49 340 25 37 145",
+    "lat": 51.85373,
+    "lon": 12.2449,
+    "website": "http://www.fahrzeugtechnik-dessau.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6674-franz-kaminski-waggonbau-polska-sp-z-o-o.html",
@@ -2482,7 +3080,10 @@
     "postal_code": "48-300",
     "city": "Nysa",
     "country": "Polen",
-    "street": "ul. J.U. Niemcewicza 4"
+    "street": "ul. J.U. Niemcewicza 4",
+    "lat": 50.4695337,
+    "lon": 17.3447651,
+    "website": "http://www.kaminski-polska.pl"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6675-franz-kaminski-waggonbau-gmbh.html",
@@ -2494,7 +3095,8 @@
     "city": "Syke",
     "country": "Deutschland",
     "workshop_name": "Werk Kirchweyhe",
-    "street": "Brückenstraße 66"
+    "street": "Brückenstraße 66",
+    "website": "http://www.kaminski-hameln.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6676-franz-kaminski-waggonbau-gmbh.html",
@@ -2506,7 +3108,10 @@
     "city": "Hameln",
     "country": "Deutschland",
     "workshop_name": "Hauptwerk",
-    "street": "Kuhbrückenstraße 25"
+    "street": "Kuhbrückenstraße 25",
+    "lat": 52.0945546,
+    "lon": 9.3672972,
+    "website": "http://www.kaminski-hameln.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6677-franz-kaminksi-waggonbau-hungaria-kft.html",
@@ -2517,7 +3122,12 @@
     "postal_code": "4002",
     "city": "Debrecen",
     "country": "Ungarn",
-    "street": "Lötèr u. 2-4"
+    "street": "Lötèr u. 2-4",
+    "phone": "+36 52 523694",
+    "fax": "+36 52 541446",
+    "lat": 47.561613,
+    "lon": 21.6528286,
+    "website": "http://www.kaminski-hameln.de/index.php/standorte.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6684-fka-fahrzeugkompetenzzentrum-augsburg-gmbh.html",
@@ -2529,7 +3139,10 @@
     "city": "Augsburg",
     "country": "Deutschland",
     "workshop_name": "Werkstattbereich W43",
-    "street": "Friedberger Straße 43"
+    "street": "Friedberger Straße 43",
+    "lat": 48.3560102,
+    "lon": 10.9163076,
+    "website": "http://www.fka-augsburg.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6687-feldbinder-spezialfahrzeugwerke-gmbh.html",
@@ -2540,7 +3153,12 @@
     "postal_code": "06886",
     "city": "Lutherstadt Wittenberg",
     "country": "Deutschland",
-    "street": "Belziger Straße 1"
+    "street": "Belziger Straße 1",
+    "phone": "+49 3491 632-0",
+    "fax": "+49 3491 632-3511",
+    "lat": 51.8992,
+    "lon": 12.61415,
+    "website": "http://www.feldbinder.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6690-fahrzeugwerk-niedersachswerfen-gmbh.html",
@@ -2551,7 +3169,10 @@
     "postal_code": "99755",
     "city": "Ellrich",
     "country": "Deutschland",
-    "street": "Straße der Freundschaft 1c"
+    "street": "Straße der Freundschaft 1c",
+    "lat": 51.55527,
+    "lon": 10.73053,
+    "website": "http://www.villmann-gruppe.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6691-fahrzeug-und-entwicklungswerk-gmbh.html",
@@ -2562,7 +3183,10 @@
     "postal_code": "38889",
     "city": "Blankenburg",
     "country": "Harz) (Deutschland",
-    "street": "Weinbergstraße 22"
+    "street": "Weinbergstraße 22",
+    "lat": 51.8002,
+    "lon": 10.95869,
+    "website": "http://www.villmann-gruppe.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6693-fahrzeugfabrik-f-kiffe-soehne-gmbh.html",
@@ -2573,7 +3197,10 @@
     "postal_code": "48153",
     "city": "Münster, Westf",
     "country": "Deutschland",
-    "street": "Siemensstraße 35"
+    "street": "Siemensstraße 35",
+    "lat": 48.811072,
+    "lon": 9.1773531,
+    "website": "http://www.f-kiffe-soehne.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6698-euromaint-rail-gmbh.html",
@@ -2585,7 +3212,10 @@
     "city": "Oberhausen b Neuburg a d Donau",
     "country": "Deutschland",
     "workshop_name": "Fullservice-Werkstatt Oberhausen/Bayern",
-    "street": "Sinninger Straße 11"
+    "street": "Sinninger Straße 11",
+    "lat": 48.71176,
+    "lon": 11.11957,
+    "website": "http://www.euromaint.com/de/EuroMaint-Rail/Kontakt/Deutschland/Oberhausen-Bayern"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6699-euromaint-rail-gmbh.html",
@@ -2597,7 +3227,10 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "workshop_name": "Standort Leipzig",
-    "street": "Werkstättenstraße 4"
+    "street": "Werkstättenstraße 4",
+    "lat": 51.34191,
+    "lon": 12.46184,
+    "website": "http://www.euromaint.com/de/EuroMaint-Rail/Kontakt/Deutschland/Leipzig2"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6700-euromaint-rail-gmbh.html",
@@ -2609,7 +3242,10 @@
     "city": "Kaiserslautern",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Kaiserslautern",
-    "street": "Pariser Straße 300"
+    "street": "Pariser Straße 300",
+    "lat": 49.43884,
+    "lon": 7.723,
+    "website": "http://www.euromaint.com/de/EuroMaint-Rail/Kontakt/Deutschland/Kaiserslautern1"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6701-euromaint-rail-gmbh.html",
@@ -2621,7 +3257,10 @@
     "city": "Delitzsch",
     "country": "Deutschland",
     "workshop_name": "Werk Delitzsch",
-    "street": "Karl-Marx-Straße 39"
+    "street": "Karl-Marx-Straße 39",
+    "lat": 51.5322015,
+    "lon": 12.3447011,
+    "website": "http://www.euromaint.com/de/EuroMaint-Rail/Kontakt/Deutschland/Delitzsch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6704-etz-betriebs-gmbh.html",
@@ -2633,7 +3272,10 @@
     "city": "Herne, Westf",
     "country": "Deutschland",
     "workshop_name": "ETZ - Eisenbahn Technik Zentrum Herne",
-    "street": "Am Westhafen 27"
+    "street": "Am Westhafen 27",
+    "lat": 51.5480581,
+    "lon": 7.1566631,
+    "website": "http://www.e-t-z.eu"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6709-erfurter-bahn-gmbh.html",
@@ -2644,7 +3286,10 @@
     "postal_code": "99089",
     "city": "Erfurt",
     "country": "Deutschland",
-    "street": "Am Rasenrain 16"
+    "street": "Am Rasenrain 16",
+    "lat": 51.0083077,
+    "lon": 11.0406325,
+    "website": "http://www.erfurter-bahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6724-eisenbahnwerkstatt-gesellschaft-mbh.html",
@@ -2655,7 +3300,9 @@
     "postal_code": "17024",
     "city": "Neubrandenburg, Meckl",
     "country": "Deutschland",
-    "street": "Warliner Straße 27"
+    "street": "Warliner Straße 27",
+    "lat": 53.5656521,
+    "lon": 13.2893794
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6731-eisenbahnen-und-verkehrsbetriebe-elbe-weser-gmbh.html",
@@ -2666,7 +3313,8 @@
     "postal_code": "27404",
     "city": "Zeven",
     "country": "Deutschland",
-    "street": "Bahnhofstraße 67"
+    "street": "Bahnhofstraße 67",
+    "website": "http://www.evb-elbe-weser.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6732-eisenbahnen-und-verkehrsbetriebe-elbe-weser-gmbh.html",
@@ -2678,14 +3326,19 @@
     "city": "Bremervörde",
     "country": "Deutschland",
     "workshop_name": "Eisenbahnwartungsstützpunkt Bremervörde",
-    "street": "Am Bahnhof 1"
+    "street": "Am Bahnhof 1",
+    "lat": 53.4832011,
+    "lon": 9.1404676,
+    "website": "http://www.evb-elbe-weser.de/de/Wartung_und_Reparatur/Bahn/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6738-eisenbahn-und-haefen-gmbh.html",
     "id": 6738,
     "name": "Eisenbahn und Häfen GmbH",
     "address_raw": "(Deutschland)",
-    "workshop_name": "(Deutschland)"
+    "workshop_name": "(Deutschland)",
+    "lat": 43.9446996,
+    "lon": 4.1513764
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6753-dortmunder-stadtwerke-ag.html",
@@ -2697,7 +3350,10 @@
     "city": "Dortmund",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Dorstfeld",
-    "street": "Dorstfelder Hellweg 73"
+    "street": "Dorstfelder Hellweg 73",
+    "lat": 51.512754,
+    "lon": 7.4192029,
+    "website": "http://www.dsw21.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6754-dortmunder-eisenbahn-gmbh.html",
@@ -2708,7 +3364,10 @@
     "postal_code": "44147",
     "city": "Dortmund",
     "country": "Deutschland",
-    "street": "Speicherstraße 23"
+    "street": "Speicherstraße 23",
+    "lat": 51.5264548,
+    "lon": 7.4477694,
+    "website": "http://www.dortmunder-eisenbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6770-delmenhorst-harpstedter-eisenbahn-gmbh.html",
@@ -2719,7 +3378,10 @@
     "postal_code": "27243",
     "city": "Harpstedt",
     "country": "Deutschland",
-    "street": "Am Bahnhof 3"
+    "street": "Am Bahnhof 3",
+    "lat": 52.9106112,
+    "lon": 8.6000303,
+    "website": "http://www.dhe-reisen.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6779-db-schenker-rail-deutschland-ag.html",
@@ -2731,7 +3393,10 @@
     "city": "Bebra",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Bebra",
-    "street": "Weiteröder Weg 1"
+    "street": "Weiteröder Weg 1",
+    "lat": 50.95984,
+    "lon": 9.80035,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6780-db-schenker-rail-deutschland-ag.html",
@@ -2743,7 +3408,8 @@
     "city": "Senftenberg, NL",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Senftenberg",
-    "street": "Sprembergerstr. / Abzweig Reppist"
+    "street": "Sprembergerstr. / Abzweig Reppist",
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6781-db-cargo-ag.html",
@@ -2755,7 +3421,11 @@
     "city": "Seevetal",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Maschen",
-    "street": "Hörstener Straße 100"
+    "street": "Hörstener Straße 100",
+    "phone": "+49 4105 663050",
+    "lat": 53.39679,
+    "lon": 10.06925,
+    "website": "http://dbcargo.com/werkmaschen"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6782-db-schenker-rail-deutschland-ag.html",
@@ -2767,7 +3437,10 @@
     "city": "Seelze",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Seelze",
-    "street": "Lange-Feld-Straße 121a"
+    "street": "Lange-Feld-Straße 121a",
+    "lat": 52.3930284,
+    "lon": 9.6225356,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6783-db-schenker-rail-deutschland-ag.html",
@@ -2779,7 +3452,8 @@
     "city": "Seelze",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Lohnde",
-    "street": "Werftstraße 1a"
+    "street": "Werftstraße 1a",
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6784-db-schenker-rail-deutschland-ag.html",
@@ -2791,7 +3465,10 @@
     "city": "Seddiner See",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Seddin",
-    "street": "Weg zum Wasserturm"
+    "street": "Weg zum Wasserturm",
+    "lat": 52.2849348,
+    "lon": 12.9780863,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6785-db-schenker-rail-deutschland-ag.html",
@@ -2803,7 +3480,10 @@
     "city": "Saarbrücken",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Saarbrücken",
-    "street": "An der Johannisbrücke 39"
+    "street": "An der Johannisbrücke 39",
+    "lat": 49.2476564,
+    "lon": 7.0001672,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6786-db-schenker-rail-deutschland-ag.html",
@@ -2815,7 +3495,10 @@
     "city": "Saalfeld /Saale",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Saalfeld",
-    "street": "Hinterm Bahnhof 2"
+    "street": "Hinterm Bahnhof 2",
+    "lat": 50.6505925,
+    "lon": 11.3801844,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6787-db-schenker-rail-deutschland-ag.html",
@@ -2827,7 +3510,10 @@
     "city": "Rostock",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Rostock",
-    "street": "Petersdorfer Straße 30"
+    "street": "Petersdorfer Straße 30",
+    "lat": 54.1324999,
+    "lon": 12.132368,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6788-db-schenker-rail-deutschland-ag.html",
@@ -2839,7 +3525,10 @@
     "city": "Osnabrück",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Osnabrück",
-    "street": "Bremer Straße 49"
+    "street": "Bremer Straße 49",
+    "lat": 52.2834047,
+    "lon": 8.0746547,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6789-db-schenker-rail-deutschland-ag.html",
@@ -2851,7 +3540,10 @@
     "city": "Offenburg",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Offenburg",
-    "street": "Rammersweier Straße 1"
+    "street": "Rammersweier Straße 1",
+    "lat": 48.48148,
+    "lon": 7.95345,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6790-db-schenker-rail-deutschland-ag.html",
@@ -2863,7 +3555,10 @@
     "city": "Oberhausen, Rheinl",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Oberhausen-Osterfeld",
-    "street": "Cheruskerstraße 25"
+    "street": "Cheruskerstraße 25",
+    "lat": 51.50016,
+    "lon": 6.89272,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6791-db-schenker-rail-deutschland-ag.html",
@@ -2875,7 +3570,10 @@
     "city": "Sassnitz-Mukran",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Mukran",
-    "street": "Mittelweg"
+    "street": "Mittelweg",
+    "lat": 54.5253662,
+    "lon": 13.5556869,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6792-db-schenker-rail-deutschland-ag.html",
@@ -2887,7 +3585,10 @@
     "city": "Köln",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Gremberg",
-    "street": "Rather Straße 1"
+    "street": "Rather Straße 1",
+    "lat": 50.9039683,
+    "lon": 7.0531238,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6793-db-schenker-rail-deutschland-ag.html",
@@ -2899,7 +3600,10 @@
     "city": "Hagen, Westf",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Hagen-Eckesey",
-    "street": "Sedanstraße 40"
+    "street": "Sedanstraße 40",
+    "lat": 51.3745,
+    "lon": 7.4547,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6794-db-schenker-rail-deutschland-ag.html",
@@ -2911,7 +3615,8 @@
     "city": "Nürnberg, Mittelfr",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Nürnberg",
-    "street": "Rangierbahnhof Ausfahrt Bau 9"
+    "street": "Rangierbahnhof Ausfahrt Bau 9",
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6795-db-schenker-rail-deutschland-ag.html",
@@ -2923,7 +3628,10 @@
     "city": "München",
     "country": "Deutschland",
     "workshop_name": "Servicestelle München-Nord",
-    "street": "Ludwigsfelder Straße 85"
+    "street": "Ludwigsfelder Straße 85",
+    "lat": 48.1965043,
+    "lon": 11.4829609,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6796-db-schenker-rail-deutschland-ag.html",
@@ -2935,7 +3643,10 @@
     "city": "Mannheim",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Mannheim (Gw)",
-    "street": "Pfingstweidstraße 68"
+    "street": "Pfingstweidstraße 68",
+    "lat": 49.4617146,
+    "lon": 8.50084,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6797-db-schenker-rail-deutschland-ag.html",
@@ -2947,7 +3658,10 @@
     "city": "Mannheim",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Mannheim (Tfz)",
-    "street": "Pfingstweidstraße 68"
+    "street": "Pfingstweidstraße 68",
+    "lat": 49.4617146,
+    "lon": 8.50084,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6798-db-schenker-rail-deutschland-ag.html",
@@ -2959,7 +3673,10 @@
     "city": "Magdeburg",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Magdeburg-Rothensee",
-    "street": "Windmühlenstraße 70"
+    "street": "Windmühlenstraße 70",
+    "lat": 52.1733398,
+    "lon": 11.6567517,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6799-db-schenker-rail-deutschland-ag.html",
@@ -2971,7 +3688,10 @@
     "city": "Kornwestheim",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Kornwestheim (Gw)",
-    "street": "Rangierbahnhof 50"
+    "street": "Rangierbahnhof 50",
+    "lat": 48.8649933,
+    "lon": 9.1798826,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6800-db-schenker-rail-deutschland-ag.html",
@@ -2983,7 +3703,10 @@
     "city": "Kornwestheim",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Kornwestheim (Tfz)",
-    "street": "Stammheimer Straße 100"
+    "street": "Stammheimer Straße 100",
+    "lat": 48.85411,
+    "lon": 9.17241,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6801-db-schenker-rail-deutschland-ag.html",
@@ -2995,7 +3718,10 @@
     "city": "Ingolstadt, Donau",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Ingolstadt",
-    "street": "Martin-Hemm-Straße 4"
+    "street": "Martin-Hemm-Straße 4",
+    "lat": 48.74573,
+    "lon": 11.4395,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6802-db-schenker-rail-deutschland-ag.html",
@@ -3007,7 +3733,10 @@
     "city": "Halle",
     "country": "Saale) (Deutschland",
     "workshop_name": "Servicestelle Halle",
-    "street": "Berliner Straße 16"
+    "street": "Berliner Straße 16",
+    "lat": 51.4906241,
+    "lon": 11.9969574,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6803-db-schenker-rail-deutschland-ag.html",
@@ -3019,7 +3748,10 @@
     "city": "Hagen, Westf",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Hagen",
-    "street": "Westpreußenstraße 8a"
+    "street": "Westpreußenstraße 8a",
+    "lat": 51.381316,
+    "lon": 7.4154234,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6804-db-schenker-rail-deutschland-ag.html",
@@ -3031,7 +3763,10 @@
     "city": "Frankfurt/Oder",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Frankfurt (Oder)",
-    "street": "Bahnhofsstraße 6-7"
+    "street": "Bahnhofsstraße 6-7",
+    "lat": 52.3373166,
+    "lon": 14.5467445,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6805-db-schenker-rail-deutschland-ag.html",
@@ -3043,7 +3778,8 @@
     "city": "Emden, Ostfriesland",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Emden",
-    "street": "Am Eisenbahndock 15"
+    "street": "Am Eisenbahndock 15",
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6806-db-schenker-rail-deutschland-ag.html",
@@ -3055,7 +3791,10 @@
     "city": "Dresden",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Dresden",
-    "street": "Hamburger Straße  39b"
+    "street": "Hamburger Straße  39b",
+    "lat": 51.05984,
+    "lon": 13.69565,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6807-db-schenker-rail-deutschland-ag.html",
@@ -3067,7 +3806,10 @@
     "city": "Bremen",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Bremen",
-    "street": "Mählandsweg 1"
+    "street": "Mählandsweg 1",
+    "lat": 53.12485,
+    "lon": 8.76297,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6808-db-schenker-rail-deutschland-ag.html",
@@ -3079,7 +3821,10 @@
     "city": "Braunschweig",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Braunschweig",
-    "street": "Lindenbergallee"
+    "street": "Lindenbergallee",
+    "lat": 52.24818,
+    "lon": 10.5615837,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6809-db-schenker-rail-deutschland-ag.html",
@@ -3091,7 +3836,10 @@
     "city": "Bischofsheim b Rüsselsheim",
     "country": "Deutschland",
     "workshop_name": "Servicestelle Mainz-Bischofsheim",
-    "street": "Am Alten Gerauer Weg 14"
+    "street": "Am Alten Gerauer Weg 14",
+    "lat": 49.9873403,
+    "lon": 8.3660901,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6810-db-schenker-rail-deutschland-ag.html",
@@ -3102,7 +3850,10 @@
     "postal_code": "55116",
     "city": "Mainz a Rhein",
     "country": "Deutschland",
-    "street": "Rheinstraße 2"
+    "street": "Rheinstraße 2",
+    "lat": 49.9965026,
+    "lon": 8.1098824,
+    "website": "http://www.rail.dbschenker.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6826-db-regio-ag.html",
@@ -3114,7 +3865,10 @@
     "city": "Kaiserslautern",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Kaiserslautern",
-    "street": "Logenstraße 39"
+    "street": "Logenstraße 39",
+    "lat": 49.43649,
+    "lon": 7.76549,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6827-db-regio-ag.html",
@@ -3126,7 +3880,8 @@
     "city": "Mayen",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Mayen",
-    "street": "Am Wasserturm 2a"
+    "street": "Am Wasserturm 2a",
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6828-db-regio-ag.html",
@@ -3138,7 +3893,12 @@
     "city": "Trier",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Trier",
-    "street": "Avelsbacher Straße"
+    "street": "Avelsbacher Straße",
+    "phone": "+49 (651) 142-2370",
+    "fax": "+49 (651) 142-2427",
+    "lat": 49.7634538,
+    "lon": 6.6639976,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6829-db-regio-ag.html",
@@ -3150,7 +3910,10 @@
     "city": "Erfurt",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Erfurt",
-    "street": "Am Wasserturm 3"
+    "street": "Am Wasserturm 3",
+    "lat": 50.9785623,
+    "lon": 11.0706935,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6830-db-regio-ag.html",
@@ -3162,7 +3925,10 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Leipzig Süd",
-    "street": "Rosa-Luxemburg-Straße 72"
+    "street": "Rosa-Luxemburg-Straße 72",
+    "lat": 51.3489118,
+    "lon": 12.4015625,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6831-db-regio-ag.html",
@@ -3174,7 +3940,10 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Leipzig, Geithainer Str.",
-    "street": "Geithainer Straße 24f"
+    "street": "Geithainer Straße 24f",
+    "lat": 51.3419383,
+    "lon": 12.4360943,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6832-db-regio-ag.html",
@@ -3186,7 +3955,10 @@
     "city": "Dresden",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Dresden Altstadt",
-    "street": "Zwickauer Straße 86"
+    "street": "Zwickauer Straße 86",
+    "lat": 51.041097,
+    "lon": 13.7168925,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6833-db-regio-ag.html",
@@ -3198,7 +3970,10 @@
     "city": "Magdeburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Magdeburg-Buckau",
-    "street": "Schanzenweg 6"
+    "street": "Schanzenweg 6",
+    "lat": 52.09553,
+    "lon": 11.64271,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6834-db-regio-ag.html",
@@ -3210,7 +3985,10 @@
     "city": "Halle",
     "country": "Saale) (Deutschland",
     "workshop_name": "Werkstatt Halle, Volkmannstr.",
-    "street": "Volkmannstraße 39"
+    "street": "Volkmannstraße 39",
+    "lat": 51.48775,
+    "lon": 11.98514,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6835-db-regio-ag.html",
@@ -3222,7 +4000,10 @@
     "city": "Ludwigshafen am Rhein",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Ludwigshafen",
-    "street": "Oskar-Vongerichten-Straße 7b"
+    "street": "Oskar-Vongerichten-Straße 7b",
+    "lat": 49.4743762,
+    "lon": 8.4333553,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6836-db-regio-ag.html",
@@ -3234,7 +4015,10 @@
     "city": "Karlsruhe, Baden",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Karlsruhe",
-    "street": "Petergraben 2A"
+    "street": "Petergraben 2A",
+    "lat": 48.9852889,
+    "lon": 8.379742,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6837-db-regio-ag.html",
@@ -3246,7 +4030,12 @@
     "city": "Berlin",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Berlin-Lichtenberg",
-    "street": "Buchberger Straße 19"
+    "street": "Buchberger Straße 19",
+    "phone": "+49 (30) 297-14601",
+    "fax": "+49 (30) 297-14600",
+    "lat": 52.50886,
+    "lon": 13.49111,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6838-db-regio-ag.html",
@@ -3258,7 +4047,8 @@
     "city": "Neuruppin",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Neuruppin",
-    "street": "Nymburkring 20"
+    "street": "Nymburkring 20",
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6839-db-regio-ag.html",
@@ -3270,7 +4060,10 @@
     "city": "Cottbus",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Cottbus",
-    "street": "Sachsendorfer Straße 41"
+    "street": "Sachsendorfer Straße 41",
+    "lat": 51.7516185,
+    "lon": 14.3047996,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6840-db-regio-ag.html",
@@ -3282,7 +4075,10 @@
     "city": "Rostock",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Rostock",
-    "street": "Dalwitzhofer Weg 9"
+    "street": "Dalwitzhofer Weg 9",
+    "lat": 54.0730921,
+    "lon": 12.1427367,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6841-db-regio-ag.html",
@@ -3294,7 +4090,10 @@
     "city": "Kiel, Ostsee",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Kiel",
-    "street": "Alte Lübecker Chaussee 15"
+    "street": "Alte Lübecker Chaussee 15",
+    "lat": 54.3070939,
+    "lon": 10.1254114,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6842-db-regio-ag.html",
@@ -3306,7 +4105,10 @@
     "city": "Bremen",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Bremen, Theodor-Heuss-Allee",
-    "street": "Theodor-Heuss-Allee 10c"
+    "street": "Theodor-Heuss-Allee 10c",
+    "lat": 53.08537,
+    "lon": 8.8133,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6843-db-regio-ag.html",
@@ -3318,7 +4120,10 @@
     "city": "Bremen",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Bremen Hbf",
-    "street": "Parkallee 9"
+    "street": "Parkallee 9",
+    "lat": 53.08153,
+    "lon": 8.82249,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6844-db-regio-ag.html",
@@ -3330,7 +4135,10 @@
     "city": "Braunschweig",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Braunschweig, Brodweg",
-    "street": "Brodweg"
+    "street": "Brodweg",
+    "lat": 52.260605,
+    "lon": 10.5656627,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6845-db-regio-ag.html",
@@ -3342,7 +4150,10 @@
     "city": "Braunschweig",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Braunschweig, Ackerstr.",
-    "street": "Ackerstraße 75"
+    "street": "Ackerstraße 75",
+    "lat": 52.2488437,
+    "lon": 10.5410913,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6846-db-regio-ag.html",
@@ -3354,7 +4165,10 @@
     "city": "Hannover",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Hannover",
-    "street": "Einbecker Straße 1A"
+    "street": "Einbecker Straße 1A",
+    "lat": 52.40174,
+    "lon": 9.67634,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6847-db-regio-ag.html",
@@ -3366,7 +4180,10 @@
     "city": "Kassel, Hess",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Kassel, Franz-Ulrich-Str.",
-    "street": "Franz-Ulrich-Straße 20"
+    "street": "Franz-Ulrich-Straße 20",
+    "lat": 51.31855,
+    "lon": 9.48635,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6848-db-regio-ag.html",
@@ -3378,7 +4195,10 @@
     "city": "Kassel, Hess",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Kassel Hbf",
-    "street": "Angersbachstraße 29"
+    "street": "Angersbachstraße 29",
+    "lat": 51.3235113,
+    "lon": 9.4680439,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6849-db-regio-ag.html",
@@ -3390,7 +4210,8 @@
     "city": "Limburg a d Lahn",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Limburg",
-    "street": "Joseph Schneider Straße 2"
+    "street": "Joseph Schneider Straße 2",
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6850-db-regio-ag.html",
@@ -3402,7 +4223,10 @@
     "city": "Frankfurt a.M.",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Frankfurt-Griesheim",
-    "street": "Erzberger Str."
+    "street": "Erzberger Str.",
+    "lat": 50.09395,
+    "lon": 8.61537,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6851-db-regio-ag.html",
@@ -3414,7 +4238,10 @@
     "city": "Frankfurt a.M.",
     "country": "Deutschland",
     "workshop_name": "S-Bahn-Werkstatt Frankfurt",
-    "street": "Mainzer Landstraße 187"
+    "street": "Mainzer Landstraße 187",
+    "lat": 50.1057319,
+    "lon": 8.6511693,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6852-db-regio-ag.html",
@@ -3426,7 +4253,10 @@
     "city": "München",
     "country": "Deutschland",
     "workshop_name": "Werkstatt München-Steinhausen",
-    "street": "Kronstadter Straße 50"
+    "street": "Kronstadter Straße 50",
+    "lat": 48.1382787,
+    "lon": 11.6495558,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6853-db-regio-ag.html",
@@ -3438,7 +4268,10 @@
     "city": "Kempten",
     "country": "Allgäu) (Deutschland",
     "workshop_name": "Werkstatt Kempten",
-    "street": "Eicher Straße 9"
+    "street": "Eicher Straße 9",
+    "lat": 47.71163,
+    "lon": 10.31977,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6854-db-regio-ag.html",
@@ -3450,7 +4283,12 @@
     "city": "München",
     "country": "Deutschland",
     "workshop_name": "Werkstatt München-Pasing",
-    "street": "Bergsonstraße 110"
+    "street": "Bergsonstraße 110",
+    "phone": "+49 (89) 1308-5034",
+    "fax": "+49 (89) 8632503",
+    "lat": 48.16397,
+    "lon": 11.42546,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6855-db-regio-ag.html",
@@ -3462,7 +4300,10 @@
     "city": "Regensburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Regensburg",
-    "street": "Kirchmeierstraße 12"
+    "street": "Kirchmeierstraße 12",
+    "lat": 49.01032,
+    "lon": 12.0823,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6856-db-regio-ag.html",
@@ -3474,7 +4315,10 @@
     "city": "Würzburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Würzburg",
-    "street": "Steinstraße 4"
+    "street": "Steinstraße 4",
+    "lat": 49.8027772,
+    "lon": 9.9247497,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6857-db-regio-ag.html",
@@ -3486,7 +4330,10 @@
     "city": "Hof, Saale",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Hof",
-    "street": "Am Bahnbetriebswerk 20"
+    "street": "Am Bahnbetriebswerk 20",
+    "lat": 50.3068722,
+    "lon": 11.9277514,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6858-db-regio-ag.html",
@@ -3498,7 +4345,10 @@
     "city": "Nürnberg, Mittelfr",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Nürnberg-Gostenhof",
-    "street": "Georg-Hennch-Straße 25"
+    "street": "Georg-Hennch-Straße 25",
+    "lat": 49.4531128,
+    "lon": 11.0395673,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6859-db-regio-ag.html",
@@ -3510,7 +4360,10 @@
     "city": "Nürnberg, Mittelfr",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Nürnberg, Regensburger Str.",
-    "street": "Regensburger Straße 23"
+    "street": "Regensburger Straße 23",
+    "lat": 49.4460875,
+    "lon": 11.0944,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6860-db-regio-ag.html",
@@ -3522,7 +4375,8 @@
     "city": "Plochingen",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Plochingen",
-    "street": "Am Nordseekai 36 / 1-3"
+    "street": "Am Nordseekai 36 / 1-3",
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6861-db-regio-ag.html",
@@ -3534,7 +4388,10 @@
     "city": "Stuttgart",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Stuttgart-Stadtpark",
-    "street": "Abstellbahnhof 32"
+    "street": "Abstellbahnhof 32",
+    "lat": 48.798878,
+    "lon": 9.1865335,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6862-db-regio-ag.html",
@@ -3546,7 +4403,10 @@
     "city": "Stuttgart",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Stuttgart-Rosenstein",
-    "street": "Ehmannstraße 56"
+    "street": "Ehmannstraße 56",
+    "lat": 48.801197,
+    "lon": 9.199498,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6863-db-regio-ag.html",
@@ -3558,7 +4418,10 @@
     "city": "Weil am Rhein",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Haltingen",
-    "street": "Werkstättenplatz 5"
+    "street": "Werkstättenplatz 5",
+    "lat": 47.6088749,
+    "lon": 7.6149128,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6864-db-regio-ag.html",
@@ -3570,7 +4433,10 @@
     "city": "Freiburg",
     "country": "Breisg) (Deutschland",
     "workshop_name": "Werkstatt Freiburg",
-    "street": "Basler Straße 103"
+    "street": "Basler Straße 103",
+    "lat": 47.98572,
+    "lon": 7.83137,
+    "website": "http://www.db-regio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6866-db-fernverkehr-ag.html",
@@ -3582,7 +4448,12 @@
     "city": "München",
     "country": "Deutschland",
     "workshop_name": "Werk München Hbf",
-    "street": "Landsberger Straße 158"
+    "street": "Landsberger Straße 158",
+    "phone": "+49 89 1308-3091",
+    "fax": "+49 69 26091-4530",
+    "lat": 48.14084,
+    "lon": 11.52766,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6867-db-fernverkehr-ag.html",
@@ -3594,7 +4465,12 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "workshop_name": "Werk Leipzig Hbf",
-    "street": "Rackwitzer Straße 33"
+    "street": "Rackwitzer Straße 33",
+    "phone": "+49 341 59401-500",
+    "fax": "+49 341 59401-503",
+    "lat": 51.3551192,
+    "lon": 12.3954182,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6868-db-fernverkehr-ag.html",
@@ -3606,7 +4482,12 @@
     "city": "Köln",
     "country": "Deutschland",
     "workshop_name": "Werk Köln Bbf",
-    "street": "Gladbacher Wall 100"
+    "street": "Gladbacher Wall 100",
+    "phone": "+49 221 141-1923",
+    "fax": "+49 221 141-60245",
+    "lat": 50.953027,
+    "lon": 6.947731,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6869-db-fernverkehr-ag.html",
@@ -3618,7 +4499,10 @@
     "city": "Hannover",
     "country": "Deutschland",
     "workshop_name": "Werk Hannover",
-    "street": "Clausewitzstraße 10"
+    "street": "Clausewitzstraße 10",
+    "lat": 52.37241,
+    "lon": 9.774,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6870-db-fernverkehr-ag.html",
@@ -3630,7 +4514,12 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werk Hamburg-Langenfelde",
-    "street": "Försterweg 119 A"
+    "street": "Försterweg 119 A",
+    "phone": "+49 40 3918-4683",
+    "fax": "+49 40 3918-4743",
+    "lat": 53.5870702,
+    "lon": 9.9209567,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6871-db-fernverkehr-ag.html",
@@ -3642,7 +4531,12 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werk Hamburg-Eidelstedt",
-    "street": "Elbgaustraße 110a"
+    "street": "Elbgaustraße 110a",
+    "phone": "+49 40 3918-4725",
+    "fax": "+49 40 3918-4743",
+    "lat": 53.6066775,
+    "lon": 9.9017917,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6872-db-fernverkehr-ag.html",
@@ -3654,7 +4548,12 @@
     "city": "Frankfurt a.M.",
     "country": "Deutschland",
     "workshop_name": "Werk Frankfurt-Griesheim",
-    "street": "Griesheimer Stadtweg 8"
+    "street": "Griesheimer Stadtweg 8",
+    "phone": "+49 69 265-42300",
+    "fax": "+49 69 265-42393",
+    "lat": 50.0918812,
+    "lon": 8.6204855999999,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6873-db-fernverkehr-ag.html",
@@ -3666,7 +4565,12 @@
     "city": "Dortmund",
     "country": "Deutschland",
     "workshop_name": "Werk Dortmund-Spähenfelde",
-    "street": "Werkmeisterstraße 15"
+    "street": "Werkmeisterstraße 15",
+    "phone": "+49 231 729-3600",
+    "fax": "+49 231 729-53804",
+    "lat": 51.5238,
+    "lon": 7.4917,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6874-db-fernverkehr-ag.html",
@@ -3678,7 +4582,12 @@
     "city": "Berlin",
     "country": "Deutschland",
     "workshop_name": "Werk Berlin-Rummelsburg",
-    "street": "Saganer Straße 3"
+    "street": "Saganer Straße 3",
+    "phone": "+49 30 297-18792",
+    "fax": "+49 30 297-18791",
+    "lat": 52.49505,
+    "lon": 13.4897798,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6875-db-fernverkehr-ag.html",
@@ -3690,7 +4599,11 @@
     "city": "Basel",
     "country": "Schweiz",
     "workshop_name": "Werk Basel",
-    "street": "Im Surinam 175"
+    "street": "Im Surinam 175",
+    "phone": "+49 7621 5831-492",
+    "lat": 47.5714135,
+    "lon": 7.6059253,
+    "website": "http://www.deutschebahn.com/site/bahn/de/konzern/geschaeftsfelder/dbbahnfernverkehr/beteiligungen/dbfernverkehr.html"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6876-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3702,7 +4615,9 @@
     "city": "Meiningen",
     "country": "Deutschland",
     "workshop_name": "Dampflokwerk Meiningen - Produktbereich Historische Fahrzeuge",
-    "street": "Am Flutgraben 2"
+    "street": "Am Flutgraben 2",
+    "lat": 50.5822828,
+    "lon": 10.4236531
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6877-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3714,7 +4629,9 @@
     "city": "Zwickau",
     "country": "Deutschland",
     "workshop_name": "Servicewerkstatt Zwickau",
-    "street": "Bülaustrasse 43"
+    "street": "Bülaustrasse 43",
+    "lat": 50.7133,
+    "lon": 12.44965
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6878-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3726,7 +4643,9 @@
     "city": "Wittenberge, Prignitz",
     "country": "Deutschland",
     "workshop_name": "Werk Wittenberge - Produktbereich Personenwagen",
-    "street": "Bresser Straße 1"
+    "street": "Bresser Straße 1",
+    "lat": 53.0042704,
+    "lon": 11.7474679
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6879-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3738,7 +4657,9 @@
     "city": "Paderborn",
     "country": "Deutschland",
     "workshop_name": "Werk Paderborn",
-    "street": "Hermann-Kirchhoff-Straße 4"
+    "street": "Hermann-Kirchhoff-Straße 4",
+    "lat": 51.7351691,
+    "lon": 8.7483461
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6880-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3750,7 +4671,9 @@
     "city": "Neumünster, Holst",
     "country": "Deutschland",
     "workshop_name": "Produktbereich Reisezugwagen",
-    "street": "Kieler Straße 119"
+    "street": "Kieler Straße 119",
+    "lat": 54.0886459,
+    "lon": 9.9862869
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6881-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3762,7 +4685,9 @@
     "city": "München",
     "country": "Deutschland",
     "workshop_name": "Werk München - Produktbereich Komponenten",
-    "street": "Papinstraße 53"
+    "street": "Papinstraße 53",
+    "lat": 48.137355,
+    "lon": 11.4179883
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6882-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3786,7 +4711,9 @@
     "city": "Fulda",
     "country": "Deutschland",
     "workshop_name": "Werk Fulda - Produktbereich Komponenten",
-    "street": "An der Richthalle 1"
+    "street": "An der Richthalle 1",
+    "lat": 50.5555058,
+    "lon": 9.6848865
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6885-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3798,7 +4725,9 @@
     "city": "Eberswalde",
     "country": "Deutschland",
     "workshop_name": "Werk Eberswalde",
-    "street": "Eisenbahnstraße 37"
+    "street": "Eisenbahnstraße 37",
+    "lat": 52.8334392,
+    "lon": 13.8035762
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6886-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3810,7 +4739,9 @@
     "city": "Dessau, Anh",
     "country": "Deutschland",
     "workshop_name": "Werk Dessau - Produktbereich Lokomotiven",
-    "street": "Peterholzstraße 15"
+    "street": "Peterholzstraße 15",
+    "lat": 51.8047937,
+    "lon": 12.2331047
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6887-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3822,7 +4753,9 @@
     "city": "Cottbus",
     "country": "Deutschland",
     "workshop_name": "Werk Cottbus",
-    "street": "Waisenstraße 21"
+    "street": "Waisenstraße 21",
+    "lat": 51.7553975,
+    "lon": 14.314287
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6888-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3834,7 +4767,9 @@
     "city": "Chemnitz, Sachs",
     "country": "Deutschland",
     "workshop_name": "Werk Chemnitz - Produktbereich Dieseltriebzüge",
-    "street": "Emilienstraße 45"
+    "street": "Emilienstraße 45",
+    "lat": 50.851555,
+    "lon": 12.938697
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6889-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3846,7 +4781,9 @@
     "city": "Bremen",
     "country": "Deutschland",
     "workshop_name": "Werk Bremen",
-    "street": "Am Wasserturm 10"
+    "street": "Am Wasserturm 10",
+    "lat": 53.05215,
+    "lon": 8.91474
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6890-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3858,7 +4795,9 @@
     "city": "Nürnberg, Mittelfr",
     "country": "Deutschland",
     "workshop_name": "Werk Nürnberg - Produktbereich Elektrische Triebwagen",
-    "street": "Ingolstätter Straße 259"
+    "street": "Ingolstätter Straße 259",
+    "lat": 49.42127,
+    "lon": 11.08985
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6891-db-fahrzeuginstandhaltung-gmbh.html",
@@ -3870,7 +4809,9 @@
     "city": "Krefeld",
     "country": "Deutschland",
     "workshop_name": "Produktbereich ICE/VT/ET",
-    "street": "Breitenbachstrasse 69"
+    "street": "Breitenbachstrasse 69",
+    "lat": 51.33233,
+    "lon": 6.61788
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6893-db-bahnbau-gruppe-gmbh.html",
@@ -3882,7 +4823,8 @@
     "city": "Königsborn b Magdeburg",
     "country": "Deutschland",
     "workshop_name": "Sparte Maschinentechnik",
-    "street": "Ladestrasse 8"
+    "street": "Ladestrasse 8",
+    "website": "http://www.bahnbaugruppe.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6896-db-autozug-gmbh.html",
@@ -3894,7 +4836,9 @@
     "city": "Niebüll",
     "country": "Deutschland",
     "workshop_name": "Werk Niebüll",
-    "street": "Robert-Bosch-Straße 4"
+    "street": "Robert-Bosch-Straße 4",
+    "lat": 54.7972966,
+    "lon": 8.8351409
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6899-d-d-eisenbahngesellschaft-mbh.html",
@@ -3905,7 +4849,10 @@
     "postal_code": "19230",
     "city": "Hagenow-Land",
     "country": "Deutschland",
-    "street": "Friedrich-List-Straße 13"
+    "street": "Friedrich-List-Straße 13",
+    "lat": 53.4149327,
+    "lon": 11.2202075,
+    "website": "http://www.dud-eisenbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6933-borkumer-kleinbahn-und-dampfschiffahrt-gmbh.html",
@@ -3916,7 +4863,10 @@
     "postal_code": "26757",
     "city": "Borkum",
     "country": "Deutschland",
-    "street": "Georg-Schütte-Platz 8"
+    "street": "Georg-Schütte-Platz 8",
+    "lat": 53.58718,
+    "lon": 6.66245,
+    "website": "http://www.borkumer-kleinbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6935-bombardier-transportation-gmbh.html",
@@ -3928,7 +4878,10 @@
     "city": "Kassel, Hess",
     "country": "Deutschland",
     "workshop_name": "Werk Kassel",
-    "street": "Holländische Straße 195"
+    "street": "Holländische Straße 195",
+    "lat": 51.33341,
+    "lon": 9.48313,
+    "website": "http://www.transportation.bombardier.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6939-bls-ag.html",
@@ -3940,7 +4893,10 @@
     "city": "Oberburg",
     "country": "Schweiz",
     "workshop_name": "Werkstätte Oberburg",
-    "street": "Lochbachstrasse 50"
+    "street": "Lochbachstrasse 50",
+    "lat": 47.0357969,
+    "lon": 7.6333003,
+    "website": "http://www.bls.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6940-bls-ag.html",
@@ -3952,7 +4908,10 @@
     "city": "Bern",
     "country": "Schweiz",
     "workshop_name": "Werkstätte Bern Aebimatt",
-    "street": "Depotstrasse 43"
+    "street": "Depotstrasse 43",
+    "lat": 46.9516036,
+    "lon": 7.4251021,
+    "website": "http://www.bls.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6941-bls-ag.html",
@@ -3964,7 +4923,10 @@
     "city": "Bönigen",
     "country": "Schweiz",
     "workshop_name": "Werkstätte Bönigen",
-    "street": "Interlakenstrasse 34"
+    "street": "Interlakenstrasse 34",
+    "lat": 46.6887575,
+    "lon": 7.8885209,
+    "website": "http://www.bls.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6942-bls-ag.html",
@@ -3976,7 +4938,10 @@
     "city": "Spiez",
     "country": "Schweiz",
     "workshop_name": "Werkstätte Spiez",
-    "street": "Krattigstrasse 1A"
+    "street": "Krattigstrasse 1A",
+    "lat": 46.6806844,
+    "lon": 7.6866725,
+    "website": "http://www.bls.ch"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6959-bentheimer-eisenbahn-ag.html",
@@ -3987,7 +4952,10 @@
     "postal_code": "48455",
     "city": "Bad Bentheim",
     "country": "Deutschland",
-    "street": "Bahnhofstraße 24"
+    "street": "Bahnhofstraße 24",
+    "lat": 52.30987,
+    "lon": 7.16023,
+    "website": "http://www.bentheimer-eisenbahn.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6966-bayernhafen-gmbh-co-kg.html",
@@ -3999,7 +4967,10 @@
     "city": "Aschaffenburg",
     "country": "Deutschland",
     "workshop_name": "bayernhafen Aschaffenburg / Aschaffenburger Hafenbahn",
-    "street": "Hafenbahnhofstraße 27"
+    "street": "Hafenbahnhofstraße 27",
+    "lat": 49.9698602,
+    "lon": 9.1162044,
+    "website": "http://www.mainhafen.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6968-bayernbahn-betriebsgesellschaft-mbh.html",
@@ -4010,7 +4981,10 @@
     "postal_code": "86720",
     "city": "Nördlingen",
     "country": "Deutschland",
-    "street": "Am Hohen Weg 6a"
+    "street": "Am Hohen Weg 6a",
+    "lat": 48.8517595,
+    "lon": 10.4991263,
+    "website": "http://www.bayernbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6972-bayerische-instandhaltungsgesellschaft-fuer-schienenfahrzeuge-mbh.html",
@@ -4022,7 +4996,9 @@
     "city": "Lenggries",
     "country": "Deutschland",
     "workshop_name": "Bahnbetriebswerk Lenggries",
-    "street": "Demmeljochstraße 4"
+    "street": "Demmeljochstraße 4",
+    "lat": 47.67736,
+    "lon": 11.57392
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6978-bahnbetriebswerk-zittau-gmbh.html",
@@ -4033,7 +5009,10 @@
     "postal_code": "02782",
     "city": "Zittau",
     "country": "Deutschland",
-    "street": "Bahnhofstraße 39a"
+    "street": "Bahnhofstraße 39a",
+    "lat": 50.90368,
+    "lon": 14.80117,
+    "website": "http://www.bahnbetriebswerk-zittau.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6981-augsburger-localbahn-gmbh.html",
@@ -4044,7 +5023,10 @@
     "postal_code": "86161",
     "city": "Augsburg",
     "country": "Deutschland",
-    "street": "Friedberger Straße 43"
+    "street": "Friedberger Straße 43",
+    "lat": 48.3560102,
+    "lon": 10.9163076,
+    "website": "http://www.augsburger-localbahn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6984-ateliers-d-orval-s-a.html",
@@ -4055,7 +5037,10 @@
     "postal_code": "18200",
     "city": "Saint-Amand-Montrond",
     "country": "Frankreich",
-    "workshop_name": "Route de l'ombrée"
+    "workshop_name": "Route de l'ombrée",
+    "lat": 46.7309012,
+    "lon": 2.4746255,
+    "website": "http://www.ateliers-orval.fr"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7000-alstom-transport-sa.html",
@@ -4067,7 +5052,12 @@
     "city": "Wolverhampton",
     "country": "Grossbritannien",
     "workshop_name": "Wolverhampton (Midlands) Traincare Centre",
-    "street": "Jones Road, Oxley"
+    "street": "Jones Road, Oxley",
+    "phone": "+44 1902 485612",
+    "fax": "+44 1902 485628",
+    "lat": 52.6030788,
+    "lon": -2.132469,
+    "website": "http://www.alstom.com/countries/uk/our-locations"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7009-alstom-transport-deutschland-gmbh.html",
@@ -4078,7 +5068,10 @@
     "postal_code": "38229",
     "city": "Salzgitter",
     "country": "Deutschland",
-    "street": "Linke-Hofmann-Busch-Straße 1"
+    "street": "Linke-Hofmann-Busch-Straße 1",
+    "lat": 52.13814,
+    "lon": 10.41108,
+    "website": "http://www.alstom.com/de/countries/germany/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7018-alstom-lokomotiven-service-gmbh.html",
@@ -4089,7 +5082,10 @@
     "postal_code": "39576",
     "city": "Stendal",
     "country": "Deutschland",
-    "street": "Tangermünderstrasse 23A"
+    "street": "Tangermünderstrasse 23A",
+    "lat": 52.59857,
+    "lon": 11.86719,
+    "website": "http://www.alstom.com/countries/germany/our-locations/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7024-albtal-verkehrs-gesellschaft-mbh.html",
@@ -4101,7 +5097,10 @@
     "city": "Ettlingen",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Ettlingen",
-    "street": "Im Ferning 17 - 21"
+    "street": "Im Ferning 17 - 21",
+    "lat": 48.93757,
+    "lon": 8.4111800000001,
+    "website": "http://www.avg.info"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7025-akn-eisenbahn-ag.html",
@@ -4113,7 +5112,10 @@
     "city": "Hamburg",
     "country": "Deutschland",
     "workshop_name": "Werkstatt",
-    "street": "Grusonstraße 46"
+    "street": "Grusonstraße 46",
+    "lat": 53.5290947,
+    "lon": 10.0752812,
+    "website": "http://www.akn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7026-akn-eisenbahn-ag.html",
@@ -4124,7 +5126,10 @@
     "postal_code": "24568",
     "city": "Kaltenkirchen, Holst",
     "country": "Deutschland",
-    "street": "Rudolf-Diesel-Straße 2"
+    "street": "Rudolf-Diesel-Straße 2",
+    "lat": 53.83011,
+    "lon": 9.97471,
+    "website": "http://www.akn.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7031-achenseebahn-ag.html",
@@ -4135,7 +5140,10 @@
     "postal_code": "6200",
     "city": "Jenbach",
     "country": "Österreich",
-    "street": "Bahnhofstraße 1-3"
+    "street": "Bahnhofstraße 1-3",
+    "lat": 47.3873708,
+    "lon": 11.7737618,
+    "website": "http://www.achenseebahn.at"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7032-acc-ingenierie-et-maintenance.html",
@@ -4146,7 +5154,10 @@
     "postal_code": "63017",
     "city": "Clermont Ferrand",
     "country": "Frankreich",
-    "workshop_name": "32 Rue du Pré la Reine"
+    "workshop_name": "32 Rue du Pré la Reine",
+    "lat": 45.7829243,
+    "lon": 3.1132738,
+    "website": "http://www.accim.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7033-acc-ingenierie-et-maintenance.html",
@@ -4157,7 +5168,10 @@
     "postal_code": "63017",
     "city": "Clermont Ferrand",
     "country": "Frankreich",
-    "workshop_name": "22 Rue Jules Verne Zone Industrielle du Brézet"
+    "workshop_name": "22 Rue Jules Verne Zone Industrielle du Brézet",
+    "lat": 33.2507144,
+    "lon": -8.5044209,
+    "website": "http://www.accim.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7034-abrf-industries.html",
@@ -4169,7 +5183,8 @@
     "city": "Chateaubriant",
     "country": "Frankreich",
     "workshop_name": "Châteaubriant plant",
-    "street": "Zone industrielle - Rue Lafayette - BP19"
+    "street": "Zone industrielle - Rue Lafayette - BP19",
+    "website": "http://www.abrfi.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7036-abellio-rail-nrw-gmbh.html",
@@ -4181,7 +5196,10 @@
     "city": "Hagen, Westf",
     "country": "Deutschland",
     "workshop_name": "Werkstatt Hagen",
-    "street": "Eckeseyer Straße 110"
+    "street": "Eckeseyer Straße 110",
+    "lat": 51.3724846,
+    "lon": 7.4570956,
+    "website": "http://www.abellio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7038-ab-motala-verkstad.html",
@@ -4192,7 +5210,10 @@
     "postal_code": "591 29",
     "city": "Motala",
     "country": "Schweden",
-    "workshop_name": "Linjegatan"
+    "workshop_name": "Linjegatan",
+    "lat": 58.5569915,
+    "lon": 15.0704819,
+    "website": "http://www.motalaverkstad.se"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7074-stadler-netherlands-b-v.html",
@@ -4203,7 +5224,10 @@
     "postal_code": "7391",
     "city": "AK Twello",
     "country": "Niederlande",
-    "street": "Koppelstraat 3"
+    "street": "Koppelstraat 3",
+    "lat": 52.221529,
+    "lon": 6.0843622,
+    "website": "http://www.stadlerrail.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7082-abellio-rail-mitteldeutschland-gmbh.html",
@@ -4215,7 +5239,10 @@
     "city": "Sangerhausen",
     "country": "Deutschland",
     "workshop_name": "Servicezentrum",
-    "street": "Lengefelder Straße 17"
+    "street": "Lengefelder Straße 17",
+    "lat": 51.4777177,
+    "lon": 11.2886729,
+    "website": "http://www.abellio.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7092-kuenstler-bahntechnik-gmbh.html",
@@ -4227,7 +5254,12 @@
     "city": "Chemnitz",
     "country": "Deutschland",
     "workshop_name": "Standort Chemnitz",
-    "street": "Otto-Schmerbach-Straße 19"
+    "street": "Otto-Schmerbach-Straße 19",
+    "phone": "+49 371 866 2621",
+    "fax": "+49 371 866 2630",
+    "lat": 50.8118394,
+    "lon": 12.8488008,
+    "website": "http://www.kuenstler-bahntechnik.de/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7096-swemaint-ab.html",
@@ -4238,7 +5270,12 @@
     "postal_code": "415 07",
     "city": "Göteborg",
     "country": "Schweden",
-    "street": "Utbyvägen 151"
+    "street": "Utbyvägen 151",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 10 36 69",
+    "lat": 57.7400521,
+    "lon": 12.076504,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7097-swemaint-ab.html",
@@ -4250,7 +5287,12 @@
     "city": "Kiruna",
     "country": "Schweden",
     "workshop_name": "Kirunavara Godsbangård",
-    "street": "Södra Infarten 15"
+    "street": "Södra Infarten 15",
+    "phone": "+46 10 492 96 51",
+    "fax": "+46 31 26 86 06",
+    "lat": 67.797052,
+    "lon": 19.857788,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7098-swemaint-ab.html",
@@ -4262,7 +5304,12 @@
     "city": "Luleå",
     "country": "Schweden",
     "workshop_name": "Luleå Vagnunderhåll",
-    "street": "Lokstallsvägen 2"
+    "street": "Lokstallsvägen 2",
+    "phone": "+46 10 492 96 51",
+    "fax": "+46 31 26 86 06",
+    "lat": 65.5787083,
+    "lon": 22.1821885,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7099-swemaint-ab.html",
@@ -4274,7 +5321,12 @@
     "city": "Umeå",
     "country": "Schweden",
     "workshop_name": "Umeå Mobilgrupp",
-    "street": "Fraktvägen 8"
+    "street": "Fraktvägen 8",
+    "phone": "+46 10 492 96 25",
+    "fax": "+46 31 26 86 06",
+    "lat": 63.849308,
+    "lon": 20.2238123,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7100-swemaint-ab.html",
@@ -4286,7 +5338,12 @@
     "city": "Gävle",
     "country": "Schweden",
     "workshop_name": "Gävle Vagnunderhåll",
-    "street": "Upplandsgatan 18"
+    "street": "Upplandsgatan 18",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 60.666357,
+    "lon": 17.1703363,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7101-swemaint-ab.html",
@@ -4298,7 +5355,12 @@
     "city": "Borlänge",
     "country": "Schweden",
     "workshop_name": "Borlänge Vagnunderhåll",
-    "street": "Ritargatan 11"
+    "street": "Ritargatan 11",
+    "phone": "+46 10 492 95 98",
+    "fax": "+46 31 26 86 06",
+    "lat": 60.4737337,
+    "lon": 15.4107317,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7102-swemaint-ab.html",
@@ -4310,7 +5372,12 @@
     "city": "Hallsberg",
     "country": "Schweden",
     "workshop_name": "Hallsberg Vagnunderhåll",
-    "street": "Rangergatan 1"
+    "street": "Rangergatan 1",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 59.0619647,
+    "lon": 15.0706027,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7103-swemaint-ab.html",
@@ -4322,7 +5389,12 @@
     "city": "Norrköping",
     "country": "Schweden",
     "workshop_name": "Norrköping Mobilgrupp",
-    "street": "Norra Promenaden 84"
+    "street": "Norra Promenaden 84",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 58.598038,
+    "lon": 16.1974036,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7104-swemaint-ab.html",
@@ -4334,7 +5406,12 @@
     "city": "Nässjö",
     "country": "Schweden",
     "workshop_name": "Nässjö Vagnunderhåll",
-    "street": "Sjöbergsvägen"
+    "street": "Sjöbergsvägen",
+    "phone": "+46 10 492 95 66",
+    "fax": "+46 31 26 86 06",
+    "lat": 57.6598125,
+    "lon": 14.6686702,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7105-swemaint-ab.html",
@@ -4346,7 +5423,12 @@
     "city": "Malmö",
     "country": "Schweden",
     "workshop_name": "Malmö Vagnunderhåll",
-    "street": "Jörgen Kocksgatan 77"
+    "street": "Jörgen Kocksgatan 77",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 55.6124631,
+    "lon": 13.0266395,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7106-swemaint-ab.html",
@@ -4358,7 +5440,12 @@
     "city": "Helsingborg",
     "country": "Schweden",
     "workshop_name": "Helsingborg Vagnunderhåll",
-    "street": "Östra Sandgatan 8"
+    "street": "Östra Sandgatan 8",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 56.0321941,
+    "lon": 12.7104091,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7107-swemaint-ab.html",
@@ -4370,7 +5457,12 @@
     "city": "Kil",
     "country": "Schweden",
     "workshop_name": "Kil Vagnunderhåll",
-    "street": "Storgatan"
+    "street": "Storgatan",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 56.0454244,
+    "lon": 12.6989472,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7108-swemaint-ab.html",
@@ -4382,7 +5474,12 @@
     "city": "Drammen",
     "country": "Norwegen",
     "workshop_name": "Drammen Vagnunderhåll",
-    "street": "Skogliveien 4"
+    "street": "Skogliveien 4",
+    "phone": "+46 10 492 95 00",
+    "fax": "+46 31 26 86 06",
+    "lat": 59.7404888,
+    "lon": 10.1635654,
+    "website": "http://www.swemaint.se/en-us/start/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7110-euromaint-rail-ab.html",
@@ -4393,7 +5490,11 @@
     "postal_code": "521 32",
     "city": "Falköping",
     "country": "Schweden",
-    "street": "Spårvägen 1"
+    "street": "Spårvägen 1",
+    "phone": "+46 8-515 15 000",
+    "lat": 58.1836899,
+    "lon": 13.5584211,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7111-euromaint-rail-gmbh.html",
@@ -4405,7 +5506,11 @@
     "city": "KH Rotterdam Pernis",
     "country": "Niederlande",
     "workshop_name": "Mobiler Service Benelux",
-    "street": "Propaanweg 91"
+    "street": "Propaanweg 91",
+    "phone": "+ 31 10 303 7223",
+    "lat": 51.8912454,
+    "lon": 4.3682302,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7112-euromaint-rail-gmbh.html",
@@ -4417,7 +5522,11 @@
     "city": "Antwerpen",
     "country": "Niederlande",
     "workshop_name": "Mobiler Service Benelux",
-    "street": "Emdenweg 1"
+    "street": "Emdenweg 1",
+    "phone": "+31 64236 2666",
+    "lat": 51.25792,
+    "lon": 4.3743899999999,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7114-euromaint-rail-sia.html",
@@ -4428,7 +5537,12 @@
     "postal_code": "3008",
     "city": "Jelgava",
     "country": "Lettland",
-    "street": "Rupniecibas iela 39"
+    "street": "Rupniecibas iela 39",
+    "phone": "+371 630 48 760",
+    "fax": "+371 630 48 765",
+    "lat": 56.6369297,
+    "lon": 23.7155113,
+    "website": "http://www.euromaint.com"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7115-euromaint-rail-gmbh.html",
@@ -4440,7 +5554,12 @@
     "city": "Duisburg",
     "country": "Deutschland",
     "workshop_name": "Werk Duisburg",
-    "street": "Wintgensstraße 91"
+    "street": "Wintgensstraße 91",
+    "phone": "+49 203 305 000",
+    "fax": "+49 203 933 13 94",
+    "lat": 51.44302,
+    "lon": 6.79063,
+    "website": "http://www.euromaint.com/de/EuroMaint-Rail/Kontakt/Deutschland/Duisburg1/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7121-logistik-service-gmbh.html",
@@ -4452,7 +5571,12 @@
     "city": "Linz",
     "country": "Österreich",
     "workshop_name": "Werkstätte Rolling Stock",
-    "street": "Werksbahnweg 2"
+    "street": "Werksbahnweg 2",
+    "phone": "+43 (732) 6598-2000",
+    "fax": "+43 (732) 6980-2000",
+    "lat": 48.269688,
+    "lon": 14.3224171,
+    "website": "http://www.logserv.at"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7124-regental-fahrzeugwerkstaetten-gmbh.html",
@@ -4464,7 +5588,10 @@
     "city": "Neumark, Sachs",
     "country": "Deutschland",
     "workshop_name": "Standort Neumark Vogtlandbahn",
-    "street": "Ohmstrasse 2"
+    "street": "Ohmstrasse 2",
+    "lat": 50.66892,
+    "lon": 12.3597,
+    "website": "http://www.netinera.de/de/geschaeftsaktivitaeten/service/standorte/"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7135-neg-niebuell-gmbh-1.html",
@@ -4476,7 +5603,10 @@
     "city": "Neumünster",
     "country": "Deutschland",
     "workshop_name": "Standort Neumünster",
-    "street": "Brückenstraße 5"
+    "street": "Brückenstraße 5",
+    "lat": 54.0891987,
+    "lon": 9.9801454999999,
+    "website": "http://www.neg-niebuell.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7136-neg-niebuell-gmbh-2.html",
@@ -4488,7 +5618,10 @@
     "city": "Padborg",
     "country": "Dänemark",
     "workshop_name": "Standort Padborg (DK)",
-    "street": "Industrivej 2B"
+    "street": "Industrivej 2B",
+    "lat": 54.821698,
+    "lon": 9.35776,
+    "website": "http://www.neg-niebuell.de"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7139-stadler-service-sweden-ab-1.html",
@@ -4499,6 +5632,9 @@
     "postal_code": "170 63",
     "city": "Solna",
     "country": "Schweden",
-    "street": "Växlarevägen 27"
+    "street": "Växlarevägen 27",
+    "lat": 59.3766184,
+    "lon": 17.9995971,
+    "website": "http://www.stadlerrail.com/de/ueber-uns/standorte/stadler-service-sweden-ab/"
   }
 ]
