@@ -1,6 +1,6 @@
 [
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5964-basler-verkehrs-betriebe.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5964-basler-verkehrs-betriebe.html",
     "id": 5964,
     "name": "Basler Verkehrs-Betriebe",
     "address_raw": "Hauptwerkstätte und Materialeinkauf | Klybeckstrasse 212 | CH-4057 Basel (Schweiz)",
@@ -12,7 +12,7 @@
     "street": "Klybeckstrasse 212"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5965-basler-verkehrs-betriebe.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5965-basler-verkehrs-betriebe.html",
     "id": 5965,
     "name": "Basler Verkehrs-Betriebe",
     "address_raw": "Depot Wiesenplatz | Wiesenplatz 7 | CH-4057 Basel (Schweiz)",
@@ -24,7 +24,7 @@
     "street": "Wiesenplatz 7"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5966-basler-verkehrs-betriebe.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5966-basler-verkehrs-betriebe.html",
     "id": 5966,
     "name": "Basler Verkehrs-Betriebe",
     "address_raw": "Depot Allschwil | Allschwilerstrasse 123 | CH-4055 Basel (Schweiz)",
@@ -36,7 +36,7 @@
     "street": "Allschwilerstrasse 123"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5967-basler-verkehrs-betriebe.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5967-basler-verkehrs-betriebe.html",
     "id": 5967,
     "name": "Basler Verkehrs-Betriebe",
     "address_raw": "Depot Dreispitz | Münchensteinerstasse 101 | CH-4052 Basel (Schweiz)",
@@ -48,7 +48,7 @@
     "street": "Münchensteinerstasse 101"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5971-netinera-werke-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5971-netinera-werke-gmbh.html",
     "id": 5971,
     "name": "NETINERA Werke GmbH",
     "address_raw": "Bahnwerk Neustrelitz | Adolf-Friedrich-Straße 21 | DE-17235 Neustrelitz (Schweiz)",
@@ -60,7 +60,7 @@
     "street": "Adolf-Friedrich-Straße 21"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5990-rhaetische-bahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5990-rhaetische-bahn-ag.html",
     "id": 5990,
     "name": "Rhätische Bahn AG",
     "address_raw": "Betriebswerkstätte Samedan | CH-7503 Samedan (Deutschland)",
@@ -71,7 +71,7 @@
     "workshop_name": "Betriebswerkstätte Samedan"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5991-rhaetische-bahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5991-rhaetische-bahn-ag.html",
     "id": 5991,
     "name": "Rhätische Bahn AG",
     "address_raw": "Betriebswerkstätte Poschiavo | CH-7742 Poschiavo (Deutschland)",
@@ -82,7 +82,7 @@
     "workshop_name": "Betriebswerkstätte Poschiavo"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5992-rhaetische-bahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5992-rhaetische-bahn-ag.html",
     "id": 5992,
     "name": "Rhätische Bahn AG",
     "address_raw": "Betriebswerkstätte Klosters-Selfranga | CH-7250 Klosters (Deutschland)",
@@ -93,7 +93,7 @@
     "workshop_name": "Betriebswerkstätte Klosters-Selfranga"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5993-rhaetische-bahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5993-rhaetische-bahn-ag.html",
     "id": 5993,
     "name": "Rhätische Bahn AG",
     "address_raw": "Betriebswerkstätte Landquart | RhB Strasse 1 | CH-7302 Landquart (Schweiz)",
@@ -105,7 +105,7 @@
     "street": "RhB Strasse 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/5994-rhaetische-bahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/5994-rhaetische-bahn-ag.html",
     "id": 5994,
     "name": "Rhätische Bahn AG",
     "address_raw": "Hauptwerkstätte Landquart | RhB Strasse 1 | CH-7302 Landquart (Schweiz)",
@@ -117,7 +117,7 @@
     "street": "RhB Strasse 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6004-rigi-bahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6004-rigi-bahnen-ag.html",
     "id": 6004,
     "name": "RIGI BAHNEN AG",
     "address_raw": "CH-6354 Vitznau (Schweiz)",
@@ -127,7 +127,7 @@
     "country": "Schweiz"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6009-faiveley-transport-leipzig-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6009-faiveley-transport-leipzig-gmbh-co-kg.html",
     "id": 6009,
     "name": "Faiveley Transport Leipzig GmbH & Co. KG",
     "address_raw": "Industriestraße 60 | DE-04435 Schkeuditz (Deutschland)",
@@ -138,7 +138,7 @@
     "street": "Industriestraße 60"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6010-cantus-verkehrsgesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6010-cantus-verkehrsgesellschaft-mbh.html",
     "id": 6010,
     "name": "cantus Verkehrsgesellschaft mbH",
     "address_raw": "Druseltalstraße 1a | DE-34119 Kassel, Hess (Deutschland)",
@@ -149,7 +149,7 @@
     "street": "Druseltalstraße 1a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6019-knorr-bremse-systeme.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6019-knorr-bremse-systeme.html",
     "id": 6019,
     "name": "Knorr-Bremse Systeme",
     "address_raw": "Moosacher Straße 80 | DE-80809 München (Deutschland)",
@@ -160,18 +160,7 @@
     "street": "Moosacher Straße 80"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6021-zeppelin-power-systems-gmbh-co-kg.html",
-    "id": 6021,
-    "name": "Zeppelin Power Systems Gmbh & Co. KG",
-    "address_raw": "Ruhrstraße 158 | DE-22761 Hamburg (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "22761",
-    "city": "Hamburg",
-    "country": "Deutschland",
-    "street": "Ruhrstraße 158"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6022-mtu-friedrichshafen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6022-mtu-friedrichshafen-gmbh.html",
     "id": 6022,
     "name": "MTU Friedrichshafen GmbH",
     "address_raw": "Maybachplatz 1 | DE-88045 Friedrichshafen (Deutschland)",
@@ -182,18 +171,7 @@
     "street": "Maybachplatz 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6024-deutz-ag.html",
-    "id": 6024,
-    "name": "Deutz AG",
-    "address_raw": "Nicolaus-Otto-Straße 25 | DE-89079 Ulm, Donau (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "89079",
-    "city": "Ulm, Donau",
-    "country": "Deutschland",
-    "street": "Nicolaus-Otto-Straße 25"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6029-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6029-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
     "id": 6029,
     "name": "ODIG Ostdeutsche Instandhaltungsgesellschaft mbH",
     "address_raw": "Betriebswerkstatt Eberswalde | Reichenbacher Straße 1 | DE-02827 Görlitz (Deutschland)",
@@ -205,7 +183,7 @@
     "street": "Reichenbacher Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6030-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6030-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
     "id": 6030,
     "name": "ODIG Ostdeutsche Instandhaltungsgesellschaft mbH",
     "address_raw": "Betriebswerkstatt Eberswalde | Möderitzer Weg 61 | DE-19370 Parchim (Deutschland)",
@@ -217,7 +195,7 @@
     "street": "Möderitzer Weg 61"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6031-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6031-odig-ostdeutsche-instandhaltungsgesellschaft-mbh.html",
     "id": 6031,
     "name": "ODIG Ostdeutsche Instandhaltungsgesellschaft mbH",
     "address_raw": "Betriebswerkstatt Eberswalde | Am Containerbahnhof 10 | DE-16225 Eberswalde (Deutschland)",
@@ -229,7 +207,7 @@
     "street": "Am Containerbahnhof 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6032-zweiweg-international-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6032-zweiweg-international-gmbh-co-kg.html",
     "id": 6032,
     "name": "ZWEIWEG International GmbH & Co. KG",
     "address_raw": "Oberbüscherhof 50 | DE-42799 Leichlingen (Rheinland) (Deutschland)",
@@ -237,10 +215,10 @@
     "postal_code": "42799",
     "city": "Leichlingen",
     "country": "Rheinland) (Deutschland",
-    "workshop_name": "Oberbüscherhof 50"
+    "street": "Oberbüscherhof 50"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6033-zagro-bahn-und-baumaschinen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6033-zagro-bahn-und-baumaschinen-gmbh.html",
     "id": 6033,
     "name": "ZAGRO Bahn- und Baumaschinen GmbH",
     "address_raw": "Mühlstraße 11-15 | DE-74906 Bad Rappenau (Deutschland)",
@@ -251,7 +229,7 @@
     "street": "Mühlstraße 11-15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6034-hafen-hannover-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6034-hafen-hannover-gmbh.html",
     "id": 6034,
     "name": "Hafen Hannover GmbH",
     "address_raw": "Städtische Häfen Hannover | Hansastraße 38 | DE-30419 Hannover (Deutschland)",
@@ -263,7 +241,7 @@
     "street": "Hansastraße 38"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6039-schienenfahrzeugbau-grossbeeren-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6039-schienenfahrzeugbau-grossbeeren-gmbh.html",
     "id": 6039,
     "name": "SCHIENENFAHRZEUGBAU GROSSBEEREN GmbH",
     "address_raw": "Märkische Allee 39/41 / Güterverkehrszentrum (GVZ) Berlin Süd | DE-14979 Großbeeren (Deutschland)",
@@ -274,7 +252,7 @@
     "street": "Märkische Allee 39/41 / Güterverkehrszentrum (GVZ) Berlin Süd"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6040-krabas-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6040-krabas-gmbh.html",
     "id": 6040,
     "name": "KRABAS GmbH",
     "address_raw": "Schulstraße 6b | DE-14774 Brandenburg a. d. Havel (Deutschland)",
@@ -285,7 +263,7 @@
     "street": "Schulstraße 6b"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6041-jumbotec-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6041-jumbotec-gmbh.html",
     "id": 6041,
     "name": "JumboTec GmbH",
     "address_raw": "Standort Schwarze Pumpe | An der Heide | DE-03139 Schwarze Pumpe (Deutschland)",
@@ -297,7 +275,7 @@
     "street": "An der Heide"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6043-hlb-basis-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6043-hlb-basis-ag.html",
     "id": 6043,
     "name": "HLB Basis AG",
     "address_raw": "Standort Kassel | Wilhelmshöher Allee 252 | DE-34119 Kassel, Hess (Deutschland)",
@@ -309,7 +287,7 @@
     "street": "Wilhelmshöher Allee 252"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6044-hlb-basis-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6044-hlb-basis-ag.html",
     "id": 6044,
     "name": "HLB Basis AG",
     "address_raw": "Standort Königstein | Bahnstraße 13 | DE-61462 Königstein im Taunus (Deutschland)",
@@ -321,7 +299,7 @@
     "street": "Bahnstraße 13"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6045-hfm-managementgesellschaft-fuer-hafen-und-markt-frankfurt-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6045-hfm-managementgesellschaft-fuer-hafen-und-markt-frankfurt-mbh.html",
     "id": 6045,
     "name": "HFM Managementgesellschaft für Hafen und Markt Frankfurt mbH",
     "address_raw": "Hanauer Landstrasse | DE-60314 Frankfurt a.M. (Deutschland)",
@@ -329,10 +307,10 @@
     "postal_code": "60314",
     "city": "Frankfurt a.M.",
     "country": "Deutschland",
-    "workshop_name": "Hanauer Landstrasse"
+    "street": "Hanauer Landstrasse"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6046-eisenbahnwerkstatt-gesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6046-eisenbahnwerkstatt-gesellschaft-mbh.html",
     "id": 6046,
     "name": "Eisenbahnwerkstatt-Gesellschaft mbH",
     "address_raw": "Rödemisfeld 2a | DE-25813 Husum, Nordsee (Deutschland)",
@@ -340,10 +318,10 @@
     "postal_code": "25813",
     "city": "Husum, Nordsee",
     "country": "Deutschland",
-    "workshop_name": "Rödemisfeld 2a"
+    "street": "Rödemisfeld 2a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6047-bvo-verkehrsbetriebe-erzgebirge-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6047-bvo-verkehrsbetriebe-erzgebirge-gmbh.html",
     "id": 6047,
     "name": "BVO Verkehrsbetriebe Erzgebirge GmbH",
     "address_raw": "Werkstatt Marienberg | Reitzenheimer Straße 35 | DE-09496 Marienberg, Erzgeb (Deutschland)",
@@ -355,78 +333,7 @@
     "street": "Reitzenheimer Straße 35"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6050-ghh-radsatz-international-holding-gmbh.html",
-    "id": 6050,
-    "name": "GHH Radsatz International Holding GmbH",
-    "address_raw": "Gartenstraße 40 | DE-46145 Oberhausen, Rheinl (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "46145",
-    "city": "Oberhausen, Rheinl",
-    "country": "Deutschland",
-    "street": "Gartenstraße 40"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6051-sncb-technics.html",
-    "id": 6051,
-    "name": "SNCB Technics",
-    "address_raw": "CRR Mobile Kinkempois | Route d’Ougrée | BE-4031 Angleur (Belgien)",
-    "country_code": "BE",
-    "postal_code": "4031",
-    "city": "Angleur",
-    "country": "Belgien",
-    "workshop_name": "CRR Mobile Kinkempois",
-    "street": "Route d’Ougrée"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6052-sncb-technics.html",
-    "id": 6052,
-    "name": "SNCB Technics",
-    "address_raw": "Mobiele WSH Zeebrugge | Baron de Maerelaan 103 | BE-8380 Zeebrugge (Belgien)",
-    "country_code": "BE",
-    "postal_code": "8380",
-    "city": "Zeebrugge",
-    "country": "Belgien",
-    "workshop_name": "Mobiele WSH Zeebrugge",
-    "street": "Baron de Maerelaan 103"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6053-sncb-technics.html",
-    "id": 6053,
-    "name": "SNCB Technics",
-    "address_raw": "Mobiele WSH Merelbeke | Nonnenwegel | BE-9090 Melle (Belgien)",
-    "country_code": "BE",
-    "postal_code": "9090",
-    "city": "Melle",
-    "country": "Belgien",
-    "workshop_name": "Mobiele WSH Merelbeke",
-    "street": "Nonnenwegel"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6054-sncb-technics.html",
-    "id": 6054,
-    "name": "SNCB Technics",
-    "address_raw": "Mobiele WSH Antwerpen | Noorderlaan 630 | BE-2030 Antwerpen (Belgien)",
-    "country_code": "BE",
-    "postal_code": "2030",
-    "city": "Antwerpen",
-    "country": "Belgien",
-    "workshop_name": "Mobiele WSH Antwerpen",
-    "street": "Noorderlaan 630"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6055-sncb-technics.html",
-    "id": 6055,
-    "name": "SNCB Technics",
-    "address_raw": "CRR Mobile Schaerbeek / SNCB CRRM Schaerbeek | Prinses Elisabethplein 6 | BE-1030 Brüssel (Belgien)",
-    "country_code": "BE",
-    "postal_code": "1030",
-    "city": "Brüssel",
-    "country": "Belgien",
-    "workshop_name": "CRR Mobile Schaerbeek / SNCB CRRM Schaerbeek",
-    "street": "Prinses Elisabethplein 6"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6056-sncb-technics.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6056-sncb-technics.html",
     "id": 6056,
     "name": "SNCB Technics",
     "address_raw": "CHW Monceau | Rue de Marchienne 13 | BE-6044 Roux (Belgien)",
@@ -438,7 +345,7 @@
     "street": "Rue de Marchienne 13"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6057-sncb-technics.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6057-sncb-technics.html",
     "id": 6057,
     "name": "SNCB Technics",
     "address_raw": "CHW Antwerpen | Noorderlaan 630 | BE-2030 Antwerpen (Belgien)",
@@ -450,7 +357,7 @@
     "street": "Noorderlaan 630"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6058-sncb-technics.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6058-sncb-technics.html",
     "id": 6058,
     "name": "SNCB Technics",
     "address_raw": "CW Gentbrugge | Brusselsesteenweg 602 | BE-9050 Gentbrugge (Belgien)",
@@ -462,41 +369,7 @@
     "street": "Brusselsesteenweg 602"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6059-sncb-technics.html",
-    "id": 6059,
-    "name": "SNCB Technics",
-    "address_raw": "Avenue de la Porte de Hal 40 | BE-1060 Brüssel (Belgien)",
-    "country_code": "BE",
-    "postal_code": "1060",
-    "city": "Brüssel",
-    "country": "Belgien",
-    "workshop_name": "Avenue de la Porte de Hal 40"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6060-shunter-wagenbedrijf-nederland-b-v.html",
-    "id": 6060,
-    "name": "Shunter Wagenbedrijf Nederland B.V.",
-    "address_raw": "Werkplaats | Albert Plesmanweg 87 | 3088 GC Rotterdam (Niederlande)",
-    "country_code": "NL",
-    "postal_code": "3088 GC",
-    "city": "Rotterdam",
-    "country": "Niederlande",
-    "workshop_name": "Werkplaats",
-    "street": "Albert Plesmanweg 87"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6061-valdunes.html",
-    "id": 6061,
-    "name": "VALDUNES",
-    "address_raw": "Rue Jules Guesde BP 12 | FR-59125 Trith-St-Léger (Frankreich)",
-    "country_code": "FR",
-    "postal_code": "59125",
-    "city": "Trith-St-Léger",
-    "country": "Frankreich",
-    "workshop_name": "Rue Jules Guesde BP 12"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6062-rail-traction-international-sa.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6062-rail-traction-international-sa.html",
     "id": 6062,
     "name": "RAIL & TRACTION INTERNATIONAL SA",
     "address_raw": "Bahnhofstrasse 70 | BE-4730 Raeren (Belgien)",
@@ -504,32 +377,10 @@
     "postal_code": "4730",
     "city": "Raeren",
     "country": "Belgien",
-    "workshop_name": "Bahnhofstrasse 70"
+    "street": "Bahnhofstrasse 70"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6063-edlion-sedra-gmbh.html",
-    "id": 6063,
-    "name": "edlion)(sedra GmbH",
-    "address_raw": "Kistlerhofstraße 168 | DE-81379 München (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "81379",
-    "city": "München",
-    "country": "Deutschland",
-    "street": "Kistlerhofstraße 168"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6065-marpobel-nv.html",
-    "id": 6065,
-    "name": "Marpobel NV",
-    "address_raw": "Blauwe Weg 7 / Haven 261 | BE-2030 Antwerpen (Belgien)",
-    "country_code": "BE",
-    "postal_code": "2030",
-    "city": "Antwerpen",
-    "country": "Belgien",
-    "street": "Blauwe Weg 7 / Haven 261"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6068-deutsche-plasser-bahnbaumaschinen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6068-deutsche-plasser-bahnbaumaschinen-gmbh.html",
     "id": 6068,
     "name": "Deutsche Plasser Bahnbaumaschinen GmbH",
     "address_raw": "Instandhaltungswerk Leipzig/Engelsdorf | Werkstättenstraße 4 | DE-04319 Leipzig (Deutschland)",
@@ -541,7 +392,7 @@
     "street": "Werkstättenstraße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6069-deutsche-plasser-bahnbaumaschinen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6069-deutsche-plasser-bahnbaumaschinen-gmbh.html",
     "id": 6069,
     "name": "Deutsche Plasser Bahnbaumaschinen GmbH",
     "address_raw": "Instandhaltungswerk Buchloe | Schwabenstraße 1 | DE-86807 Buchloe (Deutschland)",
@@ -553,7 +404,7 @@
     "street": "Schwabenstraße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6070-deutsche-plasser-bahnbaumaschinen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6070-deutsche-plasser-bahnbaumaschinen-gmbh.html",
     "id": 6070,
     "name": "Deutsche Plasser Bahnbaumaschinen GmbH",
     "address_raw": "Instandhaltungswerk Leverkusen/Opladen | Quettinger Straße 250 | DE-51381 Leverkusen (Deutschland)",
@@ -565,7 +416,7 @@
     "street": "Quettinger Straße 250"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6071-deutsche-plasser-bahnbaumaschinen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6071-deutsche-plasser-bahnbaumaschinen-gmbh.html",
     "id": 6071,
     "name": "Deutsche Plasser Bahnbaumaschinen GmbH",
     "address_raw": "Friedrich-Eckart-Straße 35 | DE-81929 München (Deutschland)",
@@ -576,18 +427,7 @@
     "street": "Friedrich-Eckart-Straße 35"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6072-ets-ersatz-teile-schienenfahrzeuge-gmbh.html",
-    "id": 6072,
-    "name": "ETS Ersatz-Teile Schienenfahrzeuge GmbH",
-    "address_raw": "Rudolf-Diesel-Straße 10 | DE-59199 Bönen (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "59199",
-    "city": "Bönen",
-    "country": "Deutschland",
-    "street": "Rudolf-Diesel-Straße 10"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6073-cmi-maintenance-liege.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6073-cmi-maintenance-liege.html",
     "id": 6073,
     "name": "CMI Maintenance Liège",
     "address_raw": "Avenue Greiner 1 | BE-4100 Seraing (Belgien)",
@@ -595,34 +435,10 @@
     "postal_code": "4100",
     "city": "Seraing",
     "country": "Belgien",
-    "workshop_name": "Avenue Greiner 1"
+    "street": "Avenue Greiner 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6074-van-wezel-gmbh.html",
-    "id": 6074,
-    "name": "Van Wezel GmbH",
-    "address_raw": "Unipart Rail Niederlassung Deutschland | Südfeld 7a | DE-59174 Kamen, Westf (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "59174",
-    "city": "Kamen, Westf",
-    "country": "Deutschland",
-    "workshop_name": "Unipart Rail Niederlassung Deutschland",
-    "street": "Südfeld 7a"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6080-bombardier-transportation-switzerland-ag.html",
-    "id": 6080,
-    "name": "Bombardier Transportation (Switzerland) AG",
-    "address_raw": "Werk Winterthur | Zürcher Strasse 39 | CH-8400 Winterthur (Schweiz)",
-    "country_code": "CH",
-    "postal_code": "8400",
-    "city": "Winterthur",
-    "country": "Schweiz",
-    "workshop_name": "Werk Winterthur",
-    "street": "Zürcher Strasse 39"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6089-bombardier-transportation-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6089-bombardier-transportation-gmbh.html",
     "id": 6089,
     "name": "Bombardier Transportation GmbH",
     "address_raw": "Werk Aachen | Jülicher Straße 213-237 | DE-52070 Aachen (Deutschland)",
@@ -634,7 +450,7 @@
     "street": "Jülicher Straße 213-237"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6091-s-c-bega-reparatii-vagoane-s-a.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6091-s-c-bega-reparatii-vagoane-s-a.html",
     "id": 6091,
     "name": "S.C. \tBega Reparatii Vagoane S.A.",
     "address_raw": "Strada Garii, nr. 2 | RO-30016 Timisoara (Rumänien)",
@@ -642,21 +458,10 @@
     "postal_code": "30016",
     "city": "Timisoara",
     "country": "Rumänien",
-    "workshop_name": "Strada Garii, nr. 2"
+    "street": "Strada Garii, nr. 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6092-bahntek-gmbh.html",
-    "id": 6092,
-    "name": "bahntek GmbH",
-    "address_raw": "Neuendorfstraße 17 | DE-16761 Hennigsdorf (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "16761",
-    "city": "Hennigsdorf",
-    "country": "Deutschland",
-    "street": "Neuendorfstraße 17"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6093-bahnbetriebswerk-krefeld-betriebs-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6093-bahnbetriebswerk-krefeld-betriebs-gmbh-co-kg.html",
     "id": 6093,
     "name": "Bahnbetriebswerk Krefeld Betriebs-GmbH & Co. KG",
     "address_raw": "Dießemer Straße 18 | DE-47799 Krefeld (Deutschland)",
@@ -667,15 +472,18 @@
     "street": "Dießemer Straße 18"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6094-axiom-rail.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6094-axiom-rail.html",
     "id": 6094,
     "name": "Axiom Rail",
     "address_raw": "Carolina Way  / Lakeside Business Park | GB-DN4 5PN Doncaster ()",
-    "workshop_name": "Carolina Way  / Lakeside Business Park",
-    "street": "GB-DN4 5PN Doncaster ()"
+    "country_code": "GB",
+    "postal_code": "DN4 5PN",
+    "city": "Doncaster ()",
+    "country": "",
+    "workshop_name": "Carolina Way  / Lakeside Business Park"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6095-as-eesti-raudtee.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6095-as-eesti-raudtee.html",
     "id": 6095,
     "name": "AS Eesti Raudtee",
     "address_raw": "AS EVR Cargo | Tapa depots | 31 Hommiku | EE-45108 Tapa ()",
@@ -687,7 +495,7 @@
     "street": "Tapa depots"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6096-alfred-hoffmann-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6096-alfred-hoffmann-gmbh-co-kg.html",
     "id": 6096,
     "name": "Alfred Hoffmann GmbH & Co. KG",
     "address_raw": "Eiserntalstraße 329 | DE-57080 Siegen (Deutschland)",
@@ -698,7 +506,7 @@
     "street": "Eiserntalstraße 329"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6097-mgw-service-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6097-mgw-service-gmbh-co-kg.html",
     "id": 6097,
     "name": "mgw Service GmbH & Co. KG",
     "address_raw": "Raabestraße 14 | DE-34119 Kassel, Hess (Deutschland)",
@@ -709,18 +517,7 @@
     "street": "Raabestraße 14"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6098-ajax-loktechnik-gmbh-co-kg.html",
-    "id": 6098,
-    "name": "ajax Loktechnik GmbH & Co. KG",
-    "address_raw": "Vogelreth 2-4 | DE-20457 Hamburg (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "20457",
-    "city": "Hamburg",
-    "country": "Deutschland",
-    "workshop_name": "Vogelreth 2-4"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6099-ahub-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6099-ahub-gmbh.html",
     "id": 6099,
     "name": "AHUB GmbH",
     "address_raw": "Dubener Bahnhofstraße 7 | DE-15926 Luckau (Deutschland)",
@@ -731,7 +528,7 @@
     "street": "Dubener Bahnhofstraße 7"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6100-eskomoravska-zelezni-ni-opravna-s-r-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6100-eskomoravska-zelezni-ni-opravna-s-r-o.html",
     "id": 6100,
     "name": "?eskomoravská Zelezni?ní opravna s.r.o.",
     "address_raw": "Kojetínská 358/71 | CZ-751 52 Prerov ()",
@@ -739,10 +536,10 @@
     "postal_code": "751 52",
     "city": "Prerov ()",
     "country": "",
-    "workshop_name": "Kojetínská 358/71"
+    "street": "Kojetínská 358/71"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6101-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6101-schweizerische-bundesbahnen-ag.html",
     "id": 6101,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Serviceanlage Zürich-Herdern | Aargauaerstrasse 15 | CH-8048 Zürich (Schweiz)",
@@ -754,7 +551,7 @@
     "street": "Aargauaerstrasse 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6102-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6102-schweizerische-bundesbahnen-ag.html",
     "id": 6102,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Reparaturcenter Zürich-Alstetten | Hohlstrasse 400 | CH-8048 Zürich (Schweiz)",
@@ -766,7 +563,7 @@
     "street": "Hohlstrasse 400"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6103-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6103-schweizerische-bundesbahnen-ag.html",
     "id": 6103,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Industriewerk Yverdon-les-Bains | Quai des Ateliers | CH-1400 Yverdon-les-Bains (Schweiz)",
@@ -778,7 +575,7 @@
     "street": "Quai des Ateliers"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6104-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6104-schweizerische-bundesbahnen-ag.html",
     "id": 6104,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Serviceanlage Oberwinterthur | Flugplatzstrasse 7 | CH-8404 Winterthur (Schweiz)",
@@ -790,7 +587,7 @@
     "street": "Flugplatzstrasse 7"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6105-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6105-schweizerische-bundesbahnen-ag.html",
     "id": 6105,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Präventivunterhalts-Standort Lausanne | Place de la gare 16 | CH-1003 Lausanne (Schweiz)",
@@ -802,7 +599,7 @@
     "street": "Place de la gare 16"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6106-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6106-schweizerische-bundesbahnen-ag.html",
     "id": 6106,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Unterhaltsstelle Brig | Tunnelstrasse 148 | CH-3900 Brig BZ (Schweiz)",
@@ -814,7 +611,7 @@
     "street": "Tunnelstrasse 148"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6107-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6107-schweizerische-bundesbahnen-ag.html",
     "id": 6107,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Depot Biel/Bienne | Brüggstrasse 47a | CH-2503 Biel BZ (Schweiz)",
@@ -826,7 +623,7 @@
     "street": "Brüggstrasse 47a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6108-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6108-schweizerische-bundesbahnen-ag.html",
     "id": 6108,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Industriewerk Biel/Bienne | Oberer Quai 140 | CH-2501 Biel BZ (Schweiz)",
@@ -838,7 +635,7 @@
     "street": "Oberer Quai 140"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6109-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6109-schweizerische-bundesbahnen-ag.html",
     "id": 6109,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Industriewerk Bellinzona | Viale Officina 18 | CH-6500 Bellinzona (Schweiz)",
@@ -850,7 +647,7 @@
     "street": "Viale Officina 18"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6111-schweizerische-bundesbahnen-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6111-schweizerische-bundesbahnen-ag.html",
     "id": 6111,
     "name": "Schweizerische Bundesbahnen AG",
     "address_raw": "Industriewerk Olten | Industriestrasse 153 | CH-4600 Olten (Schweiz)",
@@ -862,7 +659,7 @@
     "street": "Industriestrasse 153"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6113-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6113-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
     "id": 6113,
     "name": "DB ZugBus Regionalverkehr Alb-Bodensee GmbH",
     "address_raw": "Werkstatt Tübingen | Europastraße 61 | DE-72072 Tübingen (Deutschland)",
@@ -874,7 +671,7 @@
     "street": "Europastraße 61"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6114-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6114-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
     "id": 6114,
     "name": "DB ZugBus Regionalverkehr Alb-Bodensee GmbH",
     "address_raw": "Werkstatt Ulm, Am Wall | Am Wall | DE-89077 Ulm, Donau (Deutschland)",
@@ -886,7 +683,7 @@
     "street": "Am Wall"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6115-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6115-db-zugbus-regionalverkehr-alb-bodensee-gmbh.html",
     "id": 6115,
     "name": "DB ZugBus Regionalverkehr Alb-Bodensee GmbH",
     "address_raw": "Werkstatt Ulm, Beringerbrücke | Beringerbrücke | DE-89075 Ulm, Donau (Deutschland)",
@@ -898,7 +695,7 @@
     "street": "Beringerbrücke"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6117-s-bahn-hamburg-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6117-s-bahn-hamburg-gmbh.html",
     "id": 6117,
     "name": "S-Bahn Hamburg GmbH",
     "address_raw": "Werkstatt Hamburg-Poppenbüttel | Saseler Damm 37a | DE-22395 Hamburg (Deutschland)",
@@ -910,7 +707,7 @@
     "street": "Saseler Damm 37a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6118-s-bahn-hamburg-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6118-s-bahn-hamburg-gmbh.html",
     "id": 6118,
     "name": "S-Bahn Hamburg GmbH",
     "address_raw": "Werkstatt Hamburg-Ohlsdorf | Sommerkamp 31 | DE-22335 Hamburg (Deutschland)",
@@ -922,7 +719,7 @@
     "street": "Sommerkamp 31"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6119-s-bahn-hamburg-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6119-s-bahn-hamburg-gmbh.html",
     "id": 6119,
     "name": "S-Bahn Hamburg GmbH",
     "address_raw": "Werkstatt Hamburg, Elbgaustraße | Elbgaustraße, Alpenrosenweg 62 | DE-22523 Hamburg (Deutschland)",
@@ -934,7 +731,7 @@
     "street": "Elbgaustraße, Alpenrosenweg 62"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6120-s-bahn-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6120-s-bahn-berlin-gmbh.html",
     "id": 6120,
     "name": "S-Bahn Berlin GmbH",
     "address_raw": "Werkstatt Erkner | Fichtenauer Weg 53 | DE-15537 Erkner (Deutschland)",
@@ -946,7 +743,7 @@
     "street": "Fichtenauer Weg 53"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6121-s-bahn-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6121-s-bahn-berlin-gmbh.html",
     "id": 6121,
     "name": "S-Bahn Berlin GmbH",
     "address_raw": "Werk Schöneweide | Adlergestell 143 | DE-12439 Berlin (Deutschland)",
@@ -958,7 +755,7 @@
     "street": "Adlergestell 143"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6131-regionalverkehr-bern-solothurn-rbs.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6131-regionalverkehr-bern-solothurn-rbs.html",
     "id": 6131,
     "name": "Regionalverkehr Bern-Solothurn RBS",
     "address_raw": "Werkstatt Worb\n\nRBS-Werkstatt Worb | Bodengasse 5 | CH-3076 Worb (Schweiz)",
@@ -970,7 +767,7 @@
     "street": "Bodengasse 5"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6132-harzer-schmalspurbahnen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6132-harzer-schmalspurbahnen-gmbh.html",
     "id": 6132,
     "name": "Harzer Schmalspurbahnen GmbH",
     "address_raw": "Werkstatt Westerntor | Bahnhof Wernigerode Westerntor | DE-38855 Wernigerode (Deutschland)",
@@ -982,7 +779,7 @@
     "street": "Bahnhof Wernigerode Westerntor"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6133-swietelsky-baugesellschaft-m-b-h.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6133-swietelsky-baugesellschaft-m-b-h.html",
     "id": 6133,
     "name": "SWIETELSKY Baugesellschaft m.b.H.",
     "address_raw": "Bahnbau - Bauhof | Klein Neusiedlerstraße 29 | AT-2401 Fischamend (Österreich)",
@@ -994,26 +791,18 @@
     "street": "Klein Neusiedlerstraße 29"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6135-pesa-bydgoszcz-sa.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6135-pesa-bydgoszcz-sa.html",
     "id": 6135,
     "name": "PESA Bydgoszcz SA",
     "address_raw": "ul. Zygmunta Augusta 11 | PL-85-082 Bydgoszcz (Polen)",
-    "workshop_name": "ul. Zygmunta Augusta 11",
-    "street": "PL-85-082 Bydgoszcz (Polen)"
+    "country_code": "PL",
+    "postal_code": "85-082",
+    "city": "Bydgoszcz",
+    "country": "Polen",
+    "street": "ul. Zygmunta Augusta 11"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6136-elh-eisenbahnlaufwerke-halle-gmbh-co-kg.html",
-    "id": 6136,
-    "name": "ELH Eisenbahnlaufwerke Halle GmbH & Co. KG",
-    "address_raw": "Hans-Dietrich-Genscher-Straße 34 | DE-06188 Landsberg b Halle, Saale (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "06188",
-    "city": "Landsberg b Halle, Saale",
-    "country": "Deutschland",
-    "street": "Hans-Dietrich-Genscher-Straße 34"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6137-maschinenbau-und-service-gmbh-ammendorf.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6137-maschinenbau-und-service-gmbh-ammendorf.html",
     "id": 6137,
     "name": "Maschinenbau und Service GmbH Ammendorf",
     "address_raw": "Eisenbahnstraße 3 | DE-06132 Halle (Saale) (Deutschland)",
@@ -1024,7 +813,7 @@
     "street": "Eisenbahnstraße 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6138-deutsche-gleis-und-tiefbau-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6138-deutsche-gleis-und-tiefbau-gmbh.html",
     "id": 6138,
     "name": "Deutsche Gleis- und Tiefbau GmbH",
     "address_raw": "Bereich Maschinenpool | Ladestraße 8 | DE-39175 Königsborn b Magdeburg (Deutschland)",
@@ -1036,7 +825,7 @@
     "street": "Ladestraße 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6140-trans-tec-vetschau-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6140-trans-tec-vetschau-gmbh.html",
     "id": 6140,
     "name": "Trans Tec Vetschau GmbH",
     "address_raw": "Juri-Gagarin-Straße 10 | DE-03226 Vetschau /Spreewald (Deutschland)",
@@ -1047,7 +836,7 @@
     "street": "Juri-Gagarin-Straße 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6141-db-bahnbau-gruppe-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6141-db-bahnbau-gruppe-gmbh.html",
     "id": 6141,
     "name": "DB Bahnbau Gruppe GmbH",
     "address_raw": "NL Augsburg | Oberer Schleisweg 11 | DE-86156 Augsburg, Bay (Deutschland)",
@@ -1059,7 +848,7 @@
     "street": "Oberer Schleisweg 11"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6142-ag-der-dillinger-huettenwerke.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6142-ag-der-dillinger-huettenwerke.html",
     "id": 6142,
     "name": "AG der Dillinger Hüttenwerke",
     "address_raw": "Abt. Zentrale Werkstätten | Werkstraße 1 | DE-66763 Dillingen, Saar (Deutschland)",
@@ -1071,7 +860,7 @@
     "street": "Werkstraße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6143-gutehoffnungshuette-radsatz-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6143-gutehoffnungshuette-radsatz-gmbh.html",
     "id": 6143,
     "name": "Gutehoffnungshütte Radsatz GmbH",
     "address_raw": "Gartenstraße 40 | DE-46145 Oberhausen, Rheinl (Deutschland)",
@@ -1082,7 +871,7 @@
     "street": "Gartenstraße 40"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6144-hansebahn-bremen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6144-hansebahn-bremen-gmbh.html",
     "id": 6144,
     "name": "Hansebahn Bremen GmbH",
     "address_raw": "Waggon-und Torpedowerkstatt | DE-28237 Bremen (Deutschland)",
@@ -1093,7 +882,7 @@
     "workshop_name": "Waggon-und Torpedowerkstatt"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6145-hansebahn-bremen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6145-hansebahn-bremen-gmbh.html",
     "id": 6145,
     "name": "Hansebahn Bremen GmbH",
     "address_raw": "Lokomotivwerkstatt | DE-28237 Bremen (Deutschland)",
@@ -1104,7 +893,7 @@
     "workshop_name": "Lokomotivwerkstatt"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6147-twe-bahnbetriebs-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6147-twe-bahnbetriebs-gmbh.html",
     "id": 6147,
     "name": "TWE Bahnbetriebs GmbH",
     "address_raw": "Zentralwerkstatt | Lienener Straße 100 | DE-49525 Lengerich, Westf (Deutschland)",
@@ -1116,7 +905,7 @@
     "street": "Lienener Straße 100"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6148-bombardier-transportation-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6148-bombardier-transportation-gmbh.html",
     "id": 6148,
     "name": "Bombardier Transportation GmbH",
     "address_raw": "Werk Siegen / Netphen | Siegstraße 27 | DE-57250 Netphen (Deutschland)",
@@ -1128,7 +917,7 @@
     "street": "Siegstraße 27"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6149-bayerische-oberlandbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6149-bayerische-oberlandbahn-gmbh.html",
     "id": 6149,
     "name": "Bayerische Oberlandbahn GmbH",
     "address_raw": "Bahnbetriebswerk Lenggries | Demmeljochstraße 4 | DE-83661 Lenggries (Deutschland)",
@@ -1140,7 +929,7 @@
     "street": "Demmeljochstraße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6150-thyssenkrupp-industrieservice-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6150-thyssenkrupp-industrieservice-gmbh.html",
     "id": 6150,
     "name": "ThyssenKrupp Industrieservice GmbH",
     "address_raw": "Niederlassung Brieske | Franz-Mehring-Straße 21 | DE-01968 Senftenberg, NL (Deutschland)",
@@ -1152,7 +941,7 @@
     "street": "Franz-Mehring-Straße 21"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6151-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6151-euromaint-rail-ab.html",
     "id": 6151,
     "name": "EuroMaint Rail AB",
     "address_raw": "S. Grev Rosengatan 1 | SE-701 15 Örebro (Schweden)",
@@ -1160,10 +949,10 @@
     "postal_code": "701 15",
     "city": "Örebro",
     "country": "Schweden",
-    "workshop_name": "S. Grev Rosengatan 1"
+    "street": "S. Grev Rosengatan 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6152-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6152-euromaint-rail-ab.html",
     "id": 6152,
     "name": "EuroMaint Rail AB",
     "address_raw": "Västra Bangatan 2 | SE-662 27 Amal (Schweden)",
@@ -1171,10 +960,10 @@
     "postal_code": "662 27",
     "city": "Amal",
     "country": "Schweden",
-    "workshop_name": "Västra Bangatan 2"
+    "street": "Västra Bangatan 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6153-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6153-euromaint-rail-ab.html",
     "id": 6153,
     "name": "EuroMaint Rail AB",
     "address_raw": "Kölgatan 4 | SE-724 65 Västeras (Schweden)",
@@ -1182,10 +971,10 @@
     "postal_code": "724 65",
     "city": "Västeras",
     "country": "Schweden",
-    "workshop_name": "Kölgatan 4"
+    "street": "Kölgatan 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6154-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6154-euromaint-rail-ab.html",
     "id": 6154,
     "name": "EuroMaint Rail AB",
     "address_raw": "Västra Järnvägsgatan 8 | SE-911 34 Vännäs (Schweden)",
@@ -1193,10 +982,10 @@
     "postal_code": "911 34",
     "city": "Vännäs",
     "country": "Schweden",
-    "workshop_name": "Västra Järnvägsgatan 8"
+    "street": "Västra Järnvägsgatan 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6155-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6155-euromaint-rail-ab.html",
     "id": 6155,
     "name": "EuroMaint Rail AB",
     "address_raw": "Parkgatan 5 | SE-852 29 Sundsvall (Schweden)",
@@ -1204,10 +993,10 @@
     "postal_code": "852 29",
     "city": "Sundsvall",
     "country": "Schweden",
-    "workshop_name": "Parkgatan 5"
+    "street": "Parkgatan 5"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6156-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6156-euromaint-rail-ab.html",
     "id": 6156,
     "name": "EuroMaint Rail AB",
     "address_raw": "Varuvägen 34 | SE-125 30 Älvsjö (Schweden)",
@@ -1215,10 +1004,10 @@
     "postal_code": "125 30",
     "city": "Älvsjö",
     "country": "Schweden",
-    "workshop_name": "Varuvägen 34"
+    "street": "Varuvägen 34"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6157-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6157-euromaint-rail-ab.html",
     "id": 6157,
     "name": "EuroMaint Rail AB",
     "address_raw": "Södertäljedepån | Svalängsvägen 2A | SE-151 38 Södertälje (Schweden)",
@@ -1230,7 +1019,7 @@
     "street": "Svalängsvägen 2A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6158-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6158-euromaint-rail-ab.html",
     "id": 6158,
     "name": "EuroMaint Rail AB",
     "address_raw": "Slakthusdepån | Hallvägen 48 | SE-121 07 Stockholm (Schweden)",
@@ -1242,7 +1031,7 @@
     "street": "Hallvägen 48"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6159-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6159-euromaint-rail-ab.html",
     "id": 6159,
     "name": "EuroMaint Rail AB",
     "address_raw": "Mörbydepån | Vendevägen 93 | SE-182 32 Danderyd (Schweden)",
@@ -1254,7 +1043,7 @@
     "street": "Vendevägen 93"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6160-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6160-euromaint-rail-ab.html",
     "id": 6160,
     "name": "EuroMaint Rail AB",
     "address_raw": "Hammarbydepån | Garagevägen 18 G | SE-121 07 Stockholm (Schweden)",
@@ -1266,7 +1055,7 @@
     "street": "Garagevägen 18 G"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6161-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6161-euromaint-rail-ab.html",
     "id": 6161,
     "name": "EuroMaint Rail AB",
     "address_raw": "Stockholm - Hagalund | Stinsvägen 15 | SE-170 63 Solna (Schweden)",
@@ -1278,7 +1067,7 @@
     "street": "Stinsvägen 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6162-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6162-euromaint-rail-ab.html",
     "id": 6162,
     "name": "EuroMaint Rail AB",
     "address_raw": "S. Bulltoftavägen 51 | SE-200 22 Malmö (Schweden)",
@@ -1286,10 +1075,10 @@
     "postal_code": "200 22",
     "city": "Malmö",
     "country": "Schweden",
-    "workshop_name": "S. Bulltoftavägen 51"
+    "street": "S. Bulltoftavägen 51"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6163-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6163-euromaint-rail-ab.html",
     "id": 6163,
     "name": "EuroMaint Rail AB",
     "address_raw": "Luleå - Svartön | Lokstallsvägen 2 | SE-972 45 Lulea (Schweden)",
@@ -1301,7 +1090,7 @@
     "street": "Lokstallsvägen 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6164-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6164-euromaint-rail-ab.html",
     "id": 6164,
     "name": "EuroMaint Rail AB",
     "address_raw": "Luleå - Notviken | Kontorsgatan 37 | SE-973 53 Lulea (Schweden)",
@@ -1313,7 +1102,7 @@
     "street": "Kontorsgatan 37"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6165-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6165-euromaint-rail-ab.html",
     "id": 6165,
     "name": "EuroMaint Rail AB",
     "address_raw": "Södra Oskarsgatan 2 | SE-582 73 Linköping (Schweden)",
@@ -1321,10 +1110,10 @@
     "postal_code": "582 73",
     "city": "Linköping",
     "country": "Schweden",
-    "workshop_name": "Södra Oskarsgatan 2"
+    "street": "Södra Oskarsgatan 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6166-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6166-euromaint-rail-ab.html",
     "id": 6166,
     "name": "EuroMaint Rail AB",
     "address_raw": "Fartygsgatan 40 | SE-261 35 Landskrona (Schweden)",
@@ -1332,10 +1121,10 @@
     "postal_code": "261 35",
     "city": "Landskrona",
     "country": "Schweden",
-    "workshop_name": "Fartygsgatan 40"
+    "street": "Fartygsgatan 40"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6167-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6167-euromaint-rail-ab.html",
     "id": 6167,
     "name": "EuroMaint Rail AB",
     "address_raw": "Lokvägen 2 | SE-694 35 Hallsberg (Schweden)",
@@ -1343,10 +1132,10 @@
     "postal_code": "694 35",
     "city": "Hallsberg",
     "country": "Schweden",
-    "workshop_name": "Lokvägen 2"
+    "street": "Lokvägen 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6168-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6168-euromaint-rail-ab.html",
     "id": 6168,
     "name": "EuroMaint Rail AB",
     "address_raw": "Minuthandelsgatan 15 | SE-411 04 Göteborg (Schweden)",
@@ -1354,10 +1143,10 @@
     "postal_code": "411 04",
     "city": "Göteborg",
     "country": "Schweden",
-    "workshop_name": "Minuthandelsgatan 15"
+    "street": "Minuthandelsgatan 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6169-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6169-euromaint-rail-ab.html",
     "id": 6169,
     "name": "EuroMaint Rail AB",
     "address_raw": "Lötängsgatan | SE-803 01 Gävle (Schweden)",
@@ -1368,7 +1157,7 @@
     "workshop_name": "Lötängsgatan"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6170-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6170-euromaint-rail-ab.html",
     "id": 6170,
     "name": "EuroMaint Rail AB",
     "address_raw": "Bangårdsgatan 8 | SE-781 71 Borlänge (Schweden)",
@@ -1376,10 +1165,10 @@
     "postal_code": "781 71",
     "city": "Borlänge",
     "country": "Schweden",
-    "workshop_name": "Bangårdsgatan 8"
+    "street": "Bangårdsgatan 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6172-db-regionetz-verkehrs-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6172-db-regionetz-verkehrs-gmbh.html",
     "id": 6172,
     "name": "DB RegioNetz Verkehrs GmbH",
     "address_raw": "SüdostBayern Bahn - Werkstatt Mühldorf | Bischof-von-Ketteler-Straße 1 | DE-84453 Mühldorf a. Inn (Deutschland)",
@@ -1391,7 +1180,7 @@
     "street": "Bischof-von-Ketteler-Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6174-gl-spezialverglasung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6174-gl-spezialverglasung-gmbh.html",
     "id": 6174,
     "name": "GL Spezialverglasung GmbH",
     "address_raw": "Servicestation Wien | Wiener Straße 720 | AT-2203 Großebersdorf, Niederösterreich (Österreich)",
@@ -1403,7 +1192,7 @@
     "street": "Wiener Straße 720"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6175-gl-spezialverglasung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6175-gl-spezialverglasung-gmbh.html",
     "id": 6175,
     "name": "GL Spezialverglasung GmbH",
     "address_raw": "Servicestation München | Hürderstraße 4 | DE-85551 Kirchheim b. München (Deutschland)",
@@ -1415,7 +1204,7 @@
     "street": "Hürderstraße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6176-gl-spezialverglasung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6176-gl-spezialverglasung-gmbh.html",
     "id": 6176,
     "name": "GL Spezialverglasung GmbH",
     "address_raw": "Servicestation Kassel | Leipziger Straße 359 | DE-34123 Kassel, Hess (Deutschland)",
@@ -1427,7 +1216,7 @@
     "street": "Leipziger Straße 359"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6177-gl-spezialverglasung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6177-gl-spezialverglasung-gmbh.html",
     "id": 6177,
     "name": "GL Spezialverglasung GmbH",
     "address_raw": "Servicestation Krefeld | Parkstraße 10 | DE-47829 Krefeld (Deutschland)",
@@ -1439,7 +1228,7 @@
     "street": "Parkstraße 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6178-gl-spezialverglasung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6178-gl-spezialverglasung-gmbh.html",
     "id": 6178,
     "name": "GL Spezialverglasung GmbH",
     "address_raw": "Servicestation Berlin-Hennigsdorf | Am Rathenaupark | DE-16761 Hennigsdorf (Deutschland)",
@@ -1451,7 +1240,7 @@
     "street": "Am Rathenaupark"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6188-zentralwerkstatt-fuer-verkehrsmittel-mannheim-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6188-zentralwerkstatt-fuer-verkehrsmittel-mannheim-gmbh.html",
     "id": 6188,
     "name": "Zentralwerkstatt für Verkehrsmittel Mannheim GmbH",
     "address_raw": "Schienenwerkstatt | Möhlstraße 12 | DE-68165 Mannheim (Deutschland)",
@@ -1463,7 +1252,7 @@
     "street": "Möhlstraße 12"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6189-zb-zentralbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6189-zb-zentralbahn-ag.html",
     "id": 6189,
     "name": "zb Zentralbahn AG",
     "address_raw": "Stanserstraße 2 | CH-6362 Stansstad (Schweiz)",
@@ -1474,7 +1263,7 @@
     "street": "Stanserstraße 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6191-wrs-westdeutsche-rail-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6191-wrs-westdeutsche-rail-service-gmbh.html",
     "id": 6191,
     "name": "WRS Westdeutsche Rail Service GmbH",
     "address_raw": "Wintgensstraße 91 | DE-47058 Duisburg (Deutschland)",
@@ -1485,7 +1274,7 @@
     "street": "Wintgensstraße 91"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6192-wls-waggon-und-lokreparatur-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6192-wls-waggon-und-lokreparatur-service-gmbh.html",
     "id": 6192,
     "name": "WLS Waggon und Lokreparatur Service GmbH",
     "address_raw": "Baerler Straße 70 | DE-47441 Moers (Deutschland)",
@@ -1496,7 +1285,7 @@
     "street": "Baerler Straße 70"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6193-westfaelische-landes-eisenbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6193-westfaelische-landes-eisenbahn-gmbh.html",
     "id": 6193,
     "name": "Westfälische Landes-Eisenbahn GmbH",
     "address_raw": "Beckumer Straße 70 | DE-59555 Lippstadt (Deutschland)",
@@ -1507,7 +1296,7 @@
     "street": "Beckumer Straße 70"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6202-westfaelische-lokomotiv-fabrik-karl-reuschling-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6202-westfaelische-lokomotiv-fabrik-karl-reuschling-gmbh-co-kg.html",
     "id": 6202,
     "name": "Westfälische Lokomotiv-Fabrik Karl Reuschling GmbH & Co. KG",
     "address_raw": "Eickener Straße 45 | DE-45525 Hattingen, Ruhr (Deutschland)",
@@ -1518,7 +1307,7 @@
     "street": "Eickener Straße 45"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6214-waggonwerk-bruehl-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6214-waggonwerk-bruehl-gmbh.html",
     "id": 6214,
     "name": "Waggonwerk Brühl GmbH",
     "address_raw": "Werk Brühl | Brühler Straße 330 | DE-50389 Wesseling, Rheinl (Deutschland)",
@@ -1530,7 +1319,7 @@
     "street": "Brühler Straße 330"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6215-waggonbau-graaff-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6215-waggonbau-graaff-gmbh.html",
     "id": 6215,
     "name": "Waggonbau Graaff GmbH",
     "address_raw": "Heinrich-Nagel-Straße 1 | DE-31008 Elze, Leine (Deutschland)",
@@ -1541,7 +1330,7 @@
     "street": "Heinrich-Nagel-Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6220-vps-verkehrsbetriebe-peine-salzgitter-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6220-vps-verkehrsbetriebe-peine-salzgitter-gmbh.html",
     "id": 6220,
     "name": "VPS Verkehrsbetriebe Peine - Salzgitter GmbH",
     "address_raw": "Am Hillenholz 28 | DE-38229 Salzgitter (Deutschland)",
@@ -1549,10 +1338,10 @@
     "postal_code": "38229",
     "city": "Salzgitter",
     "country": "Deutschland",
-    "workshop_name": "Am Hillenholz 28"
+    "street": "Am Hillenholz 28"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6222-vossloh-locomotives-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6222-vossloh-locomotives-gmbh.html",
     "id": 6222,
     "name": "Vossloh Locomotives GmbH",
     "address_raw": "Service-Zentrum Moers | Baerler Straße 100 | DE-47441 Moers (Deutschland)",
@@ -1564,7 +1353,7 @@
     "street": "Baerler Straße 100"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6229-vis-verkehrs-industrie-systeme-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6229-vis-verkehrs-industrie-systeme-gmbh.html",
     "id": 6229,
     "name": "VIS Verkehrs Industrie Systeme GmbH",
     "address_raw": "Magdeburger Straße 29 | DE-38820 Halberstadt (Deutschland)",
@@ -1575,7 +1364,7 @@
     "street": "Magdeburger Straße 29"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6230-vias-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6230-vias-gmbh.html",
     "id": 6230,
     "name": "VIAS GmbH",
     "address_raw": "BW Michelstadt | Hammerweg 45a | DE-64720 Michelstadt (Deutschland)",
@@ -1587,7 +1376,7 @@
     "street": "Hammerweg 45a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6250-uestra-hannoversche-verkehrsbetriebe-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6250-uestra-hannoversche-verkehrsbetriebe-ag.html",
     "id": 6250,
     "name": "üstra Hannoversche Verkehrsbetriebe AG",
     "address_raw": "Stadtbahnwerkstätten | Friedrich-Lehner-Weg 1 | DE-30025 Hannover (Deutschland)",
@@ -1599,7 +1388,7 @@
     "street": "Friedrich-Lehner-Weg 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6271-talgo-deutschland-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6271-talgo-deutschland-gmbh.html",
     "id": 6271,
     "name": "TALGO (Deutschland) GmbH",
     "address_raw": "Revaler Straße 99 | DE-10245 Berlin (Deutschland)",
@@ -1610,7 +1399,7 @@
     "street": "Revaler Straße 99"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6272-sz-centralne-delavnice-ljubljana-d-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6272-sz-centralne-delavnice-ljubljana-d-o-o.html",
     "id": 6272,
     "name": "SŽ - Centralne delavnice Ljubljana, d. o. o.",
     "address_raw": "Proizvodnja Diva?a | Ul. Ludvika Požrlja 22 | SL-6215 Divaca (Slowenien)",
@@ -1622,7 +1411,7 @@
     "street": "Ul. Ludvika Požrlja 22"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6273-sz-centralne-delavnice-ljubljana-d-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6273-sz-centralne-delavnice-ljubljana-d-o-o.html",
     "id": 6273,
     "name": "SŽ - Centralne delavnice Ljubljana, d. o. o.",
     "address_raw": "Proizvodnja Dobova | Ul.15. Aprila 23 | SL-8257 Dobova (Slowenien)",
@@ -1634,7 +1423,7 @@
     "street": "Ul.15. Aprila 23"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6274-sz-centralne-delavnice-ljubljana-d-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6274-sz-centralne-delavnice-ljubljana-d-o-o.html",
     "id": 6274,
     "name": "SŽ - Centralne delavnice Ljubljana, d. o. o.",
     "address_raw": "Proizvodnja Ptuj | Osojnikova cesta 6 | SL-2250 Ptuj (Slowenien)",
@@ -1646,7 +1435,7 @@
     "street": "Osojnikova cesta 6"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6275-sz-centralne-delavnice-ljubljana-d-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6275-sz-centralne-delavnice-ljubljana-d-o-o.html",
     "id": 6275,
     "name": "SŽ - Centralne delavnice Ljubljana, d. o. o.",
     "address_raw": "Proizvodnja Maribor | Kurilniška ulica 8 | SL-2000 Maribor (Slowenien)",
@@ -1658,7 +1447,7 @@
     "street": "Kurilniška ulica 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6276-sz-centralne-delavnice-ljubljana-d-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6276-sz-centralne-delavnice-ljubljana-d-o-o.html",
     "id": 6276,
     "name": "SŽ - Centralne delavnice Ljubljana, d. o. o.",
     "address_raw": "Proizvodnja Ljubljana | Zaloška cesta 217 | SL-1000 Ljubljana (Slowenien)",
@@ -1670,7 +1459,7 @@
     "street": "Zaloška cesta 217"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6284-stern-hafferl-verkehrsgesellschaft-m-b-h.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6284-stern-hafferl-verkehrsgesellschaft-m-b-h.html",
     "id": 6284,
     "name": "Stern & Hafferl Verkehrsgesellschaft m.b.H.",
     "address_raw": "Hauptwerkstätte | Bahnweg 7 | AT-4655 Vorchdorf (Österreich)",
@@ -1682,7 +1471,7 @@
     "street": "Bahnweg 7"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6295-stadler-winterthur-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6295-stadler-winterthur-ag.html",
     "id": 6295,
     "name": "Stadler Winterthur AG",
     "address_raw": "Sulzer-Allee 11 | CH-8404 Winterthur (Schweiz)",
@@ -1693,7 +1482,7 @@
     "street": "Sulzer-Allee 11"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6296-stadler-szolnok-kft.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6296-stadler-szolnok-kft.html",
     "id": 6296,
     "name": "Stadler Szolnok Kft.",
     "address_raw": "0397/115 hrsz. | HU-5002 Szolnok (Ungarn)",
@@ -1704,27 +1493,18 @@
     "workshop_name": "0397/115 hrsz."
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6297-stadler-rail-ag.html",
-    "id": 6297,
-    "name": "Stadler Rail AG",
-    "address_raw": "IBS-Zentrum Erlen | Silbermoosstrasse 6 | CH-8586 Erlen (Schweiz)",
-    "country_code": "CH",
-    "postal_code": "8586",
-    "city": "Erlen",
-    "country": "Schweiz",
-    "workshop_name": "IBS-Zentrum Erlen",
-    "street": "Silbermoosstrasse 6"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6298-stadler-polska-sp-z-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6298-stadler-polska-sp-z-o-o.html",
     "id": 6298,
     "name": "Stadler Polska Sp. z o.o.",
     "address_raw": "ul. Targowa 50 | PL-08-110 Siedlce (Polen)",
-    "workshop_name": "ul. Targowa 50",
-    "street": "PL-08-110 Siedlce (Polen)"
+    "country_code": "PL",
+    "postal_code": "08-110",
+    "city": "Siedlce",
+    "country": "Polen",
+    "street": "ul. Targowa 50"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6299-stadler-pankow-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6299-stadler-pankow-gmbh.html",
     "id": 6299,
     "name": "Stadler Pankow GmbH",
     "address_raw": "Lessingstrasse 102 | DE-13158 Berlin (Deutschland)",
@@ -1732,10 +1512,10 @@
     "postal_code": "13158",
     "city": "Berlin",
     "country": "Deutschland",
-    "workshop_name": "Lessingstrasse 102"
+    "street": "Lessingstrasse 102"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6300-stadler-bussnang-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6300-stadler-bussnang-ag.html",
     "id": 6300,
     "name": "Stadler Bussnang AG",
     "address_raw": "Ernst-Stadler-Strasse 1 | CH-9565 Bussnang (Schweiz)",
@@ -1743,10 +1523,10 @@
     "postal_code": "9565",
     "city": "Bussnang",
     "country": "Schweiz",
-    "workshop_name": "Ernst-Stadler-Strasse 1"
+    "street": "Ernst-Stadler-Strasse 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6301-stadler-altenrhein-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6301-stadler-altenrhein-ag.html",
     "id": 6301,
     "name": "Stadler Altenrhein AG",
     "address_raw": "Park Altenrhein für Industrie und Gewerbe | CH-9423 Altenrhein (Schweiz)",
@@ -1757,7 +1537,7 @@
     "workshop_name": "Park Altenrhein für Industrie und Gewerbe"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6302-stadler-algerie-eurl.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6302-stadler-algerie-eurl.html",
     "id": 6302,
     "name": "Stadler Algérie Eurl",
     "address_raw": "Villa W7 | DZ- 16108 Kouba Alger (Algerien)",
@@ -1765,7 +1545,7 @@
     "street": "DZ- 16108 Kouba Alger (Algerien)"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6304-srs-rail-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6304-srs-rail-service-gmbh.html",
     "id": 6304,
     "name": "SRS Rail Service GmbH",
     "address_raw": "Neuoffingen 3 | DE-89362 Offingen, Donau (Deutschland)",
@@ -1773,10 +1553,10 @@
     "postal_code": "89362",
     "city": "Offingen, Donau",
     "country": "Deutschland",
-    "workshop_name": "Neuoffingen 3"
+    "street": "Neuoffingen 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6316-siemens-ag-transportation-systems.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6316-siemens-ag-transportation-systems.html",
     "id": 6316,
     "name": "Siemens AG Transportation Systems",
     "address_raw": "Werkstatt West | Königsberger Straße 100 | DE-40231 Düsseldorf (Deutschland)",
@@ -1788,7 +1568,7 @@
     "street": "Königsberger Straße 100"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6318-shunter-wagenbedrijf-nederland-b-v.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6318-shunter-wagenbedrijf-nederland-b-v.html",
     "id": 6318,
     "name": "Shunter Wagenbedrijf Nederland B.V.",
     "address_raw": "SATI Werkplaats wagons Antwerpen | Vrieskaai 34 | BE-2030 Antwerpen (Belgien)",
@@ -1800,7 +1580,7 @@
     "street": "Vrieskaai 34"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6319-shunter-wagenbedrijf-nederland-b-v.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6319-shunter-wagenbedrijf-nederland-b-v.html",
     "id": 6319,
     "name": "Shunter Wagenbedrijf Nederland B.V.",
     "address_raw": "Werkplaats wagons Roosendaal | Bosstraat 24 | NL-4704 RL Roosendaal (Niederlande)",
@@ -1812,7 +1592,7 @@
     "street": "Bosstraat 24"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6320-shunter-wagenbedrijf-nederland-b-v.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6320-shunter-wagenbedrijf-nederland-b-v.html",
     "id": 6320,
     "name": "Shunter Wagenbedrijf Nederland B.V.",
     "address_raw": "Werkplaats wagons Rotterdam | 2e Rosestraat 10 | NL-3074 JK Rotterdam (Niederlande)",
@@ -1824,7 +1604,7 @@
     "street": "2e Rosestraat 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6321-shunter-wagenbedrijf-nederland-b-v.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6321-shunter-wagenbedrijf-nederland-b-v.html",
     "id": 6321,
     "name": "Shunter Wagenbedrijf Nederland B.V.",
     "address_raw": "Werkplaats locomotieven Rotterdam | Albert Plesmanweg 87 | NL-3088 GC Rotterdam (Niederlande)",
@@ -1836,7 +1616,7 @@
     "street": "Albert Plesmanweg 87"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6324-sema-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6324-sema-ag.html",
     "id": 6324,
     "name": "SEMA AG",
     "address_raw": "Service Manufaktur für den Schienenverkehr | Neuenhäuser Straße 6-8 | DE-29221 Celle (Deutschland)",
@@ -1848,7 +1628,7 @@
     "street": "Neuenhäuser Straße 6-8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6331-schweizerische-suedostbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6331-schweizerische-suedostbahn-ag.html",
     "id": 6331,
     "name": "Schweizerische Südostbahn AG",
     "address_raw": "Werkstätte Samstagern | Stationsstrasse | CH-8833 Samstagern (Schweiz)",
@@ -1860,7 +1640,7 @@
     "street": "Stationsstrasse"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6332-schweizerische-suedostbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6332-schweizerische-suedostbahn-ag.html",
     "id": 6332,
     "name": "Schweizerische Südostbahn AG",
     "address_raw": "Werkstätte Herisau | St. Gallerstrasse | CH-9100 Herisau (Schweiz)",
@@ -1872,7 +1652,7 @@
     "street": "St. Gallerstrasse"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6343-s-bahn-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6343-s-bahn-berlin-gmbh.html",
     "id": 6343,
     "name": "S-Bahn Berlin GmbH",
     "address_raw": "Betriebswerkstatt Oranienburg | Andrè-Pican-Straße 41c | DE-16515 Oranienburg (Deutschland)",
@@ -1884,7 +1664,7 @@
     "street": "Andrè-Pican-Straße 41c"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6344-s-bahn-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6344-s-bahn-berlin-gmbh.html",
     "id": 6344,
     "name": "S-Bahn Berlin GmbH",
     "address_raw": "Betriebswerkstatt Wannsee | Bismarckstraße 29c | DE-14109 Berlin (Deutschland)",
@@ -1896,7 +1676,7 @@
     "street": "Bismarckstraße 29c"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6345-s-bahn-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6345-s-bahn-berlin-gmbh.html",
     "id": 6345,
     "name": "S-Bahn Berlin GmbH",
     "address_raw": "Betriebswerkstatt Grünau | Adlergestell 573 | DE-12527 Berlin (Deutschland)",
@@ -1908,7 +1688,7 @@
     "street": "Adlergestell 573"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6346-s-bahn-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6346-s-bahn-berlin-gmbh.html",
     "id": 6346,
     "name": "S-Bahn Berlin GmbH",
     "address_raw": "Betriebswerkstatt Friedrichsfelde | Rosenfelder Straße 30 | DE-10317 Berlin (Deutschland)",
@@ -1920,7 +1700,7 @@
     "street": "Rosenfelder Straße 30"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6350-saechsisch-oberlausitzer-eisenbahngesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6350-saechsisch-oberlausitzer-eisenbahngesellschaft-mbh.html",
     "id": 6350,
     "name": "Sächsisch-Oberlausitzer Eisenbahngesellschaft mbH",
     "address_raw": "Bahnhofstraße 41 | DE-02763 Zittau (Deutschland)",
@@ -1931,7 +1711,7 @@
     "street": "Bahnhofstraße 41"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6357-s-c-astra-vagoane-c-l-tori-s-a.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6357-s-c-astra-vagoane-c-l-tori-s-a.html",
     "id": 6357,
     "name": "S.C. ASTRA Vagoane C?l?tori S.A.",
     "address_raw": "Str. Petru Rare? 1-3 | RO-310210 Arad (Rumänien)",
@@ -1939,10 +1719,10 @@
     "postal_code": "310210",
     "city": "Arad",
     "country": "Rumänien",
-    "workshop_name": "Str. Petru Rare? 1-3"
+    "street": "Str. Petru Rare? 1-3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6359-rurtalbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6359-rurtalbahn-gmbh.html",
     "id": 6359,
     "name": "Rurtalbahn GmbH",
     "address_raw": "Kölner Landstraße 271 | DE-52351 Düren, Rheinl (Deutschland)",
@@ -1953,7 +1733,7 @@
     "street": "Kölner Landstraße 271"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6364-rse-rhein-sieg-eisenbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6364-rse-rhein-sieg-eisenbahn-gmbh.html",
     "id": 6364,
     "name": "RSE Rhein-Sieg-Eisenbahn GmbH",
     "address_raw": "Siebengebirgsstraße 152 | DE-53229 Bonn (Deutschland)",
@@ -1964,7 +1744,7 @@
     "street": "Siebengebirgsstraße 152"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6365-rsb-rail-service-benelux-b-v.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6365-rsb-rail-service-benelux-b-v.html",
     "id": 6365,
     "name": "RSB Rail Service Benelux b.v.",
     "address_raw": "Moezelweg 136 A | NL-3198 LS Europoort (Niederlande)",
@@ -1975,7 +1755,7 @@
     "street": "Moezelweg 136 A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6390-regiobahn-bitterfeld-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6390-regiobahn-bitterfeld-gmbh.html",
     "id": 6390,
     "name": "Regiobahn Bitterfeld GmbH",
     "address_raw": "Werkstatt Bitterfeld | Zörbiger Straße | DE-06749 Bitterfeld (Deutschland)",
@@ -1987,7 +1767,7 @@
     "street": "Zörbiger Straße"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6391-regiobahn-bitterfeld-berlin-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6391-regiobahn-bitterfeld-berlin-gmbh.html",
     "id": 6391,
     "name": "Regiobahn Bitterfeld Berlin GmbH",
     "address_raw": "Straße am Landgraben 5 / ChemiePark, Areal C | DE-06749 Bitterfeld (Deutschland)",
@@ -1998,7 +1778,7 @@
     "street": "Straße am Landgraben 5 / ChemiePark, Areal C"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6394-regental-fahrzeugwerkstaetten-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6394-regental-fahrzeugwerkstaetten-gmbh.html",
     "id": 6394,
     "name": "Regental Fahrzeugwerkstätten GmbH",
     "address_raw": "Standort Schwandorf | Birkenlohstraße 9 | DE-92421 Schwandorf, Bay (Deutschland)",
@@ -2010,7 +1790,7 @@
     "street": "Birkenlohstraße 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6396-regental-fahrzeugwerkstaetten-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6396-regental-fahrzeugwerkstaetten-gmbh.html",
     "id": 6396,
     "name": "Regental Fahrzeugwerkstätten GmbH",
     "address_raw": "Standort Viechtach | Bahnhofplatz 1 | DE-94234 Viechtach (Deutschland)",
@@ -2022,7 +1802,7 @@
     "street": "Bahnhofplatz 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6400-rbh-logistics-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6400-rbh-logistics-gmbh.html",
     "id": 6400,
     "name": "RBH Logistics GmbH",
     "address_raw": "Talstraße 7 | DE-45966 Gladbeck (Deutschland)",
@@ -2033,7 +1813,7 @@
     "street": "Talstraße 7"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6401-rar-rent-a-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6401-rar-rent-a-rail-gmbh.html",
     "id": 6401,
     "name": "RAR Rent-a-Rail GmbH",
     "address_raw": "Neuoffingen 3a | DE-89362 Offingen, Donau (Deutschland)",
@@ -2041,21 +1821,10 @@
     "postal_code": "89362",
     "city": "Offingen, Donau",
     "country": "Deutschland",
-    "workshop_name": "Neuoffingen 3a"
+    "street": "Neuoffingen 3a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6412-rail-service-net.html",
-    "id": 6412,
-    "name": "Rail Service Net",
-    "address_raw": "Gulkenrodestraat 7 / bus 8a | BE-2160 Antwerpen (Belgien)",
-    "country_code": "BE",
-    "postal_code": "2160",
-    "city": "Antwerpen",
-    "country": "Belgien",
-    "workshop_name": "Gulkenrodestraat 7 / bus 8a"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/6414-radsatzfabrik-ilsenburg-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6414-radsatzfabrik-ilsenburg-gmbh.html",
     "id": 6414,
     "name": "Radsatzfabrik Ilsenburg GmbH",
     "address_raw": "Schmiedestrasse 16 / 17 | DE-38871 Ilsenburg (Deutschland)",
@@ -2063,10 +1832,10 @@
     "postal_code": "38871",
     "city": "Ilsenburg",
     "country": "Deutschland",
-    "workshop_name": "Schmiedestrasse 16 / 17"
+    "street": "Schmiedestrasse 16 / 17"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6415-r-b-s-kirchweyhe-reinigen-beschichten-strahlen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6415-r-b-s-kirchweyhe-reinigen-beschichten-strahlen-gmbh.html",
     "id": 6415,
     "name": "R.B.S. Kirchweyhe Reinigen - Beschichten - Strahlen GmbH",
     "address_raw": "Richtweg 85 | DE-28844 Weyhe-Leeste (Deutschland)",
@@ -2077,7 +1846,7 @@
     "street": "Richtweg 85"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6432-osthannoversche-eisenbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6432-osthannoversche-eisenbahn-ag.html",
     "id": 6432,
     "name": "Osthannoversche Eisenbahn AG",
     "address_raw": "Bw Uelzen | Am Dannenberger Bergbogen | DE-29525 Uelzen (Deutschland)",
@@ -2089,7 +1858,7 @@
     "street": "Am Dannenberger Bergbogen"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6433-osthannoversche-eisenbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6433-osthannoversche-eisenbahn-ag.html",
     "id": 6433,
     "name": "Osthannoversche Eisenbahn AG",
     "address_raw": "EAW Bleckede | Am Bleckwerk 13 | DE-21354 Bleckede (Deutschland)",
@@ -2101,7 +1870,7 @@
     "street": "Am Bleckwerk 13"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6434-osthannoversche-eisenbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6434-osthannoversche-eisenbahn-ag.html",
     "id": 6434,
     "name": "Osthannoversche Eisenbahn AG",
     "address_raw": "Biermannstraße 44 | DE-29221 Celle (Deutschland)",
@@ -2112,7 +1881,7 @@
     "street": "Biermannstraße 44"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6441-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6441-oebb-technische-services-gmbh.html",
     "id": 6441,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wörgl | Ferdinand Raimundstraße 15 | AT-6300 Wörgl (Österreich)",
@@ -2124,7 +1893,7 @@
     "street": "Ferdinand Raimundstraße 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6442-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6442-oebb-technische-services-gmbh.html",
     "id": 6442,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wolfurt | Senderstraße 8b | AT-6960 Wolfurt-Bahnhof (Österreich)",
@@ -2136,7 +1905,7 @@
     "street": "Senderstraße 8b"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6443-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6443-oebb-technische-services-gmbh.html",
     "id": 6443,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wolfsberg | Kirchbichelstraße 1 | AT-9400 Wolfsberg, Kärnten (Österreich)",
@@ -2148,7 +1917,7 @@
     "street": "Kirchbichelstraße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6444-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6444-oebb-technische-services-gmbh.html",
     "id": 6444,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wr. Neustadt | Neunkirchnerstraße 82 | AT-2700 Wiener Neustadt (Österreich)",
@@ -2160,7 +1929,7 @@
     "street": "Neunkirchnerstraße 82"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6446-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6446-oebb-technische-services-gmbh.html",
     "id": 6446,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "Geschäftsfeld Güterwagen, Werk Jedlersdorf | Winkeläckerweg 1 | AT-1210 Wien (Österreich)",
@@ -2172,7 +1941,7 @@
     "street": "Winkeläckerweg 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6447-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6447-oebb-technische-services-gmbh.html",
     "id": 6447,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wien FJB | Spittelauerlände 33 | AT-1090 Wien (Österreich)",
@@ -2184,7 +1953,7 @@
     "street": "Spittelauerlände 33"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6448-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6448-oebb-technische-services-gmbh.html",
     "id": 6448,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wien Kledering | Ruthnergasse 2a | AT-1210 Wien (Österreich)",
@@ -2196,7 +1965,7 @@
     "street": "Ruthnergasse 2a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6449-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6449-oebb-technische-services-gmbh.html",
     "id": 6449,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wien Matzleinsdorf | Margaretengürtel 35 | AT-1100 Wien (Österreich)",
@@ -2208,7 +1977,7 @@
     "street": "Margaretengürtel 35"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6450-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6450-oebb-technische-services-gmbh.html",
     "id": 6450,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "Werk Wien Simmering | Grillgasse 48 | AT-1410 Wien (Österreich)",
@@ -2220,7 +1989,7 @@
     "street": "Grillgasse 48"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6451-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6451-oebb-technische-services-gmbh.html",
     "id": 6451,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wien West | Avediktstraße 2 | AT-1150 Wien (Österreich)",
@@ -2232,7 +2001,7 @@
     "street": "Avediktstraße 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6452-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6452-oebb-technische-services-gmbh.html",
     "id": 6452,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Wels | Flugplatzstraße 12a | AT-4600 Wels (Österreich)",
@@ -2244,7 +2013,7 @@
     "street": "Flugplatzstraße 12a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6453-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6453-oebb-technische-services-gmbh.html",
     "id": 6453,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Waidhofen/Ybbs | Wiener Straße 45b | AT-3340 Waidhofen/Ybbs (Österreich)",
@@ -2256,7 +2025,7 @@
     "street": "Wiener Straße 45b"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6454-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6454-oebb-technische-services-gmbh.html",
     "id": 6454,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Villach | Heizhausstraße 49 | AT-9500 Villach (Österreich)",
@@ -2268,7 +2037,7 @@
     "street": "Heizhausstraße 49"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6455-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6455-oebb-technische-services-gmbh.html",
     "id": 6455,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS St. Pölten | Werkstättenstraße  17 | AT-3100 St. Pölten (Österreich)",
@@ -2280,7 +2049,7 @@
     "street": "Werkstättenstraße  17"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6456-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6456-oebb-technische-services-gmbh.html",
     "id": 6456,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Salzburg | Röcklbrunnerstraße 12 | AT-5020 Salzburg (Österreich)",
@@ -2292,7 +2061,7 @@
     "street": "Röcklbrunnerstraße 12"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6457-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6457-oebb-technische-services-gmbh.html",
     "id": 6457,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "Werk Linz | Unionstraße 24 | AT-4020 Linz (Österreich)",
@@ -2304,7 +2073,7 @@
     "street": "Unionstraße 24"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6458-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6458-oebb-technische-services-gmbh.html",
     "id": 6458,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Krems | Am Frachtenbahnhof 5 | AT-3500 Krems an der Donau (Österreich)",
@@ -2316,7 +2085,7 @@
     "street": "Am Frachtenbahnhof 5"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6459-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6459-oebb-technische-services-gmbh.html",
     "id": 6459,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "Werk Knittelfeld - Radsätze | Lobmingerstraße 1 | AT-8720 Knittelfeld (Österreich)",
@@ -2328,7 +2097,7 @@
     "street": "Lobmingerstraße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6460-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6460-oebb-technische-services-gmbh.html",
     "id": 6460,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Kledering | Ostbahnstraße 1 | AT-2320 Kledering (Österreich)",
@@ -2340,7 +2109,7 @@
     "street": "Ostbahnstraße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6461-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6461-oebb-technische-services-gmbh.html",
     "id": 6461,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Innsbruck | Wiltenberg 1a | AT-6020 Innsbruck (Österreich)",
@@ -2352,7 +2121,7 @@
     "street": "Wiltenberg 1a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6462-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6462-oebb-technische-services-gmbh.html",
     "id": 6462,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Graz | Bahnhofgürtel 40 | AT-8020 Graz (Österreich)",
@@ -2364,7 +2133,7 @@
     "street": "Bahnhofgürtel 40"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6463-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6463-oebb-technische-services-gmbh.html",
     "id": 6463,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Gmünd | Emmerich Bergerstraße 1 | AT-3950 Gmünd, Niederösterreich (Österreich)",
@@ -2376,7 +2145,7 @@
     "street": "Emmerich Bergerstraße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6464-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6464-oebb-technische-services-gmbh.html",
     "id": 6464,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Feldkirch | Beim Levner Weiher 4 | AT-6800 Feldkirch (Österreich)",
@@ -2388,7 +2157,7 @@
     "street": "Beim Levner Weiher 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6465-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6465-oebb-technische-services-gmbh.html",
     "id": 6465,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Bruck a. d. Mur | Gustav Kramer Straße 32 | AT-8600 Bruck an der Mur (Österreich)",
@@ -2400,7 +2169,7 @@
     "street": "Gustav Kramer Straße 32"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6466-oebb-technische-services-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6466-oebb-technische-services-gmbh.html",
     "id": 6466,
     "name": "ÖBB-Technische Services GmbH",
     "address_raw": "SVS Bludenz | Moksystraße 26 | AT-6700 Bludenz (Österreich)",
@@ -2412,7 +2181,7 @@
     "street": "Moksystraße 26"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6468-northrail-technical-services-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6468-northrail-technical-services-gmbh-co-kg.html",
     "id": 6468,
     "name": "northrail technical services GmbH & Co. KG",
     "address_raw": "Diedrichstraße 9 | DE-24143 Kiel, Ostsee (Deutschland)",
@@ -2423,7 +2192,7 @@
     "street": "Diedrichstraße 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6472-nordic-rail-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6472-nordic-rail-service-gmbh.html",
     "id": 6472,
     "name": "Nordic Rail Service GmbH",
     "address_raw": "Hafenstraße 1b | DE-23568 Lübeck (Deutschland)",
@@ -2434,7 +2203,7 @@
     "street": "Hafenstraße 1b"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6482-neuss-duesseldorfer-haefen-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6482-neuss-duesseldorfer-haefen-gmbh-co-kg.html",
     "id": 6482,
     "name": "Neuss-Düsseldorfer Häfen GmbH & Co. KG",
     "address_raw": "Werkstatt Neusser Eisenbahnen | Heerdterbuschstraße 1a | DE-41460 Neuss (Deutschland)",
@@ -2446,7 +2215,7 @@
     "street": "Heerdterbuschstraße 1a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6484-nesa-eisenbahn-betriebsgesellschaft-neckar-schwarzwald-alb-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6484-nesa-eisenbahn-betriebsgesellschaft-neckar-schwarzwald-alb-mbh.html",
     "id": 6484,
     "name": "NeSA Eisenbahn- Betriebsgesellschaft Neckar-Schwarzwald-Alb mbH",
     "address_raw": "Bahnhof 10/1 | DE-78628 Rottweil (Deutschland)",
@@ -2454,10 +2223,10 @@
     "postal_code": "78628",
     "city": "Rottweil",
     "country": "Deutschland",
-    "workshop_name": "Bahnhof 10/1"
+    "street": "Bahnhof 10/1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6485-neg-niebuell-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6485-neg-niebuell-gmbh.html",
     "id": 6485,
     "name": "neg Niebüll GmbH",
     "address_raw": "Bahnhofstraße 6 | DE-25899 Niebüll (Deutschland)",
@@ -2468,7 +2237,7 @@
     "street": "Bahnhofstraße 6"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6534-mitteldeutsche-eisenbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6534-mitteldeutsche-eisenbahn-gmbh.html",
     "id": 6534,
     "name": "Mitteldeutsche Eisenbahn GmbH",
     "address_raw": "Bau A 103 bei Dow Olefinverbund GmbH | DE-06258 Schkopau (Deutschland)",
@@ -2479,7 +2248,7 @@
     "workshop_name": "Bau A 103 bei Dow Olefinverbund GmbH"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6535-mindener-kreisbahnen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6535-mindener-kreisbahnen-gmbh.html",
     "id": 6535,
     "name": "Mindener Kreisbahnen GmbH",
     "address_raw": "Karlstraße 48 | DE-32423 Minden, Westf (Deutschland)",
@@ -2490,7 +2259,7 @@
     "street": "Karlstraße 48"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6543-malowa-bahnwerkstatt-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6543-malowa-bahnwerkstatt-gmbh.html",
     "id": 6543,
     "name": "MaLoWa Bahnwerkstatt GmbH",
     "address_raw": "Hauptstraße 10 | DE-06308 Benndorf (Deutschland)",
@@ -2501,7 +2270,7 @@
     "street": "Hauptstraße 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6548-lth-railservice-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6548-lth-railservice-gmbh.html",
     "id": 6548,
     "name": "LTH Railservice GmbH",
     "address_raw": "Am Saalehafen 1 | DE-06118 Halle (Saale) (Deutschland)",
@@ -2509,18 +2278,21 @@
     "postal_code": "06118",
     "city": "Halle",
     "country": "Saale) (Deutschland",
-    "workshop_name": "Am Saalehafen 1"
+    "street": "Am Saalehafen 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6550-lrs-polska-sp-z-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6550-lrs-polska-sp-z-o-o.html",
     "id": 6550,
     "name": "LRS Polska sp. z o.o.",
     "address_raw": "ul. Sikorskiego 15 | PL-55-200 Olawa (Polen)",
-    "workshop_name": "ul. Sikorskiego 15",
-    "street": "PL-55-200 Olawa (Polen)"
+    "country_code": "PL",
+    "postal_code": "55-200",
+    "city": "Olawa",
+    "country": "Polen",
+    "street": "ul. Sikorskiego 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6556-logistik-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6556-logistik-service-gmbh.html",
     "id": 6556,
     "name": "Logistik Service GmbH",
     "address_raw": "Zentrale | Lunzerstraße 41 | AT-4031 Linz (Österreich)",
@@ -2532,7 +2304,7 @@
     "street": "Lunzerstraße 41"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6559-leonhard-weiss-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6559-leonhard-weiss-gmbh-co-kg.html",
     "id": 6559,
     "name": "Leonhard Weiss GmbH & Co. KG",
     "address_raw": "Leonhard-Weiss-Straße 22 | DE-73037 Göppingen (Deutschland)",
@@ -2543,7 +2315,7 @@
     "street": "Leonhard-Weiss-Straße 22"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6572-kuenstler-bahntechnik-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6572-kuenstler-bahntechnik-gmbh.html",
     "id": 6572,
     "name": "Künstler Bahntechnik GmbH",
     "address_raw": "Schäferkampstrasse 48 | DE-59439 Holzwickede (Deutschland)",
@@ -2551,10 +2323,10 @@
     "postal_code": "59439",
     "city": "Holzwickede",
     "country": "Deutschland",
-    "workshop_name": "Schäferkampstrasse 48"
+    "street": "Schäferkampstrasse 48"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6578-ksw-kreisbahn-siegen-wittgenstein-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6578-ksw-kreisbahn-siegen-wittgenstein-gmbh.html",
     "id": 6578,
     "name": "KSW Kreisbahn Siegen Wittgenstein GmbH",
     "address_raw": "Betriebstelle Eintracht | Bahnhof Eintracht | DE-57072 Siegen (Deutschland)",
@@ -2566,7 +2338,7 @@
     "street": "Bahnhof Eintracht"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6587-kahlgrund-verkehrs-gesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6587-kahlgrund-verkehrs-gesellschaft-mbh.html",
     "id": 6587,
     "name": "Kahlgrund-Verkehrs-Gesellschaft mbH",
     "address_raw": "Zentrale | Am Bahnhof 12 | DE-63825 Schöllkrippen (Deutschland)",
@@ -2578,7 +2350,7 @@
     "street": "Am Bahnhof 12"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6589-josef-meyer-rail-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6589-josef-meyer-rail-ag.html",
     "id": 6589,
     "name": "JOSEF MEYER RAIL AG",
     "address_raw": "Industrie Ost | CH-4310 Rheinfelden (Schweiz)",
@@ -2589,7 +2361,7 @@
     "workshop_name": "Industrie Ost"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6595-itl-eisenbahngesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6595-itl-eisenbahngesellschaft-mbh.html",
     "id": 6595,
     "name": "ITL Eisenbahngesellschaft mbH",
     "address_raw": "Werkstatt Kamenz | Weinbergstraße 19 | DE-01917 Kamenz (Deutschland)",
@@ -2601,7 +2373,7 @@
     "street": "Weinbergstraße 19"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6601-infraleuna-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6601-infraleuna-gmbh.html",
     "id": 6601,
     "name": "InfraLeuna GmbH",
     "address_raw": "An Haupttor | DE-62306 Leuna (Deutschland)",
@@ -2612,7 +2384,7 @@
     "workshop_name": "An Haupttor"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6636-hamburg-port-authority-aoer-1.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6636-hamburg-port-authority-aoer-1.html",
     "id": 6636,
     "name": "Hamburg Port Authority AöR",
     "address_raw": "Werkstatt der Hafenbahn | Brandenburger Straße 19 | DE-20457 Hamburg (Deutschland)",
@@ -2624,7 +2396,7 @@
     "street": "Brandenburger Straße 19"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6640-haefen-und-gueterverkehr-koeln-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6640-haefen-und-gueterverkehr-koeln-ag.html",
     "id": 6640,
     "name": "Häfen und Güterverkehr Köln AG",
     "address_raw": "Bahnbetriebswerk Brühl-Vochem | Am Volkspark | DE-50321 Brühl, Vochem (Deutschland)",
@@ -2636,7 +2408,7 @@
     "street": "Am Volkspark"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6645-h-f-wiebe-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6645-h-f-wiebe-gmbh-co-kg.html",
     "id": 6645,
     "name": "H.F. Wiebe GmbH & Co. KG",
     "address_raw": "Stöckser Straße 3 | DE-31582 Nienburg (Weser) (Deutschland)",
@@ -2647,7 +2419,7 @@
     "street": "Stöckser Straße 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6653-gmeinder-lokomotivenfabrik-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6653-gmeinder-lokomotivenfabrik-gmbh.html",
     "id": 6653,
     "name": "Gmeinder Lokomotivenfabrik GmbH",
     "address_raw": "Anton-Gmeinder-Straße 5 | DE-74821 Mosbach, Baden (Deutschland)",
@@ -2658,7 +2430,7 @@
     "street": "Anton-Gmeinder-Straße 5"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6654-gmeinder-getriebe-und-maschinenfabrik-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6654-gmeinder-getriebe-und-maschinenfabrik-gmbh.html",
     "id": 6654,
     "name": "Gmeinder Getriebe- und Maschinenfabrik GmbH",
     "address_raw": "Anton-Gmeinder-Straße 9 | DE-74821 Mosbach, Baden (Deutschland)",
@@ -2669,7 +2441,7 @@
     "street": "Anton-Gmeinder-Straße 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6665-gbm-gleisbaumechanik-brandenburg-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6665-gbm-gleisbaumechanik-brandenburg-gmbh.html",
     "id": 6665,
     "name": "GBM Gleisbaumechanik Brandenburg GmbH",
     "address_raw": "Adlerstraße 2 | DE-14774 Brandenburg a. d. Havel (Deutschland)",
@@ -2680,7 +2452,7 @@
     "street": "Adlerstraße 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6667-fwm-fahrzeugwerke-miraustrasse-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6667-fwm-fahrzeugwerke-miraustrasse-gmbh.html",
     "id": 6667,
     "name": "FWM-Fahrzeugwerke Miraustrasse GmbH",
     "address_raw": "Holzhauserstraße 156 | DE-13509 Berlin (Deutschland)",
@@ -2691,7 +2463,7 @@
     "street": "Holzhauserstraße 156"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6669-ftd-fahrzeugtechnik-dessau-gmbh-ctf.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6669-ftd-fahrzeugtechnik-dessau-gmbh-ctf.html",
     "id": 6669,
     "name": "FTD Fahrzeugtechnik Bahnen Dessau GmbH",
     "address_raw": "Am Waggonbau 11 | DE-06844 Dessau, Anh (Deutschland)",
@@ -2699,18 +2471,21 @@
     "postal_code": "06844",
     "city": "Dessau, Anh",
     "country": "Deutschland",
-    "workshop_name": "Am Waggonbau 11"
+    "street": "Am Waggonbau 11"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6674-franz-kaminski-waggonbau-polska-sp-z-o-o.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6674-franz-kaminski-waggonbau-polska-sp-z-o-o.html",
     "id": 6674,
     "name": "Franz Kaminski Waggonbau-Polska Sp.z.o.o.",
     "address_raw": "ul. J.U. Niemcewicza 4 | PL-48-300 Nysa (Polen)",
-    "workshop_name": "ul. J.U. Niemcewicza 4",
-    "street": "PL-48-300 Nysa (Polen)"
+    "country_code": "PL",
+    "postal_code": "48-300",
+    "city": "Nysa",
+    "country": "Polen",
+    "street": "ul. J.U. Niemcewicza 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6675-franz-kaminski-waggonbau-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6675-franz-kaminski-waggonbau-gmbh.html",
     "id": 6675,
     "name": "Franz Kaminski Waggonbau GmbH",
     "address_raw": "Werk Kirchweyhe | Brückenstraße 66 | DE-28857 Syke (Deutschland)",
@@ -2722,7 +2497,7 @@
     "street": "Brückenstraße 66"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6676-franz-kaminski-waggonbau-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6676-franz-kaminski-waggonbau-gmbh.html",
     "id": 6676,
     "name": "Franz Kaminski Waggonbau GmbH",
     "address_raw": "Hauptwerk | Kuhbrückenstraße 25 | DE-31785 Hameln (Deutschland)",
@@ -2734,7 +2509,7 @@
     "street": "Kuhbrückenstraße 25"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6677-franz-kaminksi-waggonbau-hungaria-kft.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6677-franz-kaminksi-waggonbau-hungaria-kft.html",
     "id": 6677,
     "name": "Franz Kaminski Waggonbau-Hungária Kft.",
     "address_raw": "Lötèr u. 2-4 | HU-4002 Debrecen (Ungarn)",
@@ -2742,10 +2517,10 @@
     "postal_code": "4002",
     "city": "Debrecen",
     "country": "Ungarn",
-    "workshop_name": "Lötèr u. 2-4"
+    "street": "Lötèr u. 2-4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6684-fka-fahrzeugkompetenzzentrum-augsburg-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6684-fka-fahrzeugkompetenzzentrum-augsburg-gmbh.html",
     "id": 6684,
     "name": "FKA Fahrzeugkompetenzzentrum Augsburg GmbH",
     "address_raw": "Werkstattbereich W43 | Friedberger Straße 43 | DE-86161 Augsburg (Deutschland)",
@@ -2757,7 +2532,7 @@
     "street": "Friedberger Straße 43"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6687-feldbinder-spezialfahrzeugwerke-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6687-feldbinder-spezialfahrzeugwerke-gmbh.html",
     "id": 6687,
     "name": "Feldbinder Spezialfahrzeugwerke GmbH",
     "address_raw": "Belziger Straße 1 | DE-06886 Lutherstadt Wittenberg (Deutschland)",
@@ -2768,7 +2543,7 @@
     "street": "Belziger Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6690-fahrzeugwerk-niedersachswerfen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6690-fahrzeugwerk-niedersachswerfen-gmbh.html",
     "id": 6690,
     "name": "Fahrzeugwerk Niedersachswerfen GmbH",
     "address_raw": "Straße der Freundschaft 1c | DE-99755 Ellrich (Deutschland)",
@@ -2779,7 +2554,7 @@
     "street": "Straße der Freundschaft 1c"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6691-fahrzeug-und-entwicklungswerk-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6691-fahrzeug-und-entwicklungswerk-gmbh.html",
     "id": 6691,
     "name": "Fahrzeug- und Entwicklungswerk GmbH",
     "address_raw": "Weinbergstraße 22 | DE-38889 Blankenburg (Harz) (Deutschland)",
@@ -2790,7 +2565,7 @@
     "street": "Weinbergstraße 22"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6693-fahrzeugfabrik-f-kiffe-soehne-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6693-fahrzeugfabrik-f-kiffe-soehne-gmbh.html",
     "id": 6693,
     "name": "Fahrzeugfabrik F. Kiffe Söhne GmbH",
     "address_raw": "Siemensstraße 35 | DE-48153 Münster, Westf (Deutschland)",
@@ -2801,7 +2576,7 @@
     "street": "Siemensstraße 35"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6698-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6698-euromaint-rail-gmbh.html",
     "id": 6698,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Fullservice-Werkstatt Oberhausen/Bayern | Sinninger Straße 11 | DE-86697 Oberhausen b Neuburg a d Donau (Deutschland)",
@@ -2813,7 +2588,7 @@
     "street": "Sinninger Straße 11"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6699-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6699-euromaint-rail-gmbh.html",
     "id": 6699,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Standort Leipzig | Werkstättenstraße 4 | DE-04319 Leipzig (Deutschland)",
@@ -2825,7 +2600,7 @@
     "street": "Werkstättenstraße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6700-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6700-euromaint-rail-gmbh.html",
     "id": 6700,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Werkstatt Kaiserslautern | Pariser Straße 300 | DE-67663 Kaiserslautern (Deutschland)",
@@ -2837,7 +2612,7 @@
     "street": "Pariser Straße 300"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6701-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6701-euromaint-rail-gmbh.html",
     "id": 6701,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Werk Delitzsch | Karl-Marx-Straße 39 | DE-04509 Delitzsch (Deutschland)",
@@ -2849,7 +2624,7 @@
     "street": "Karl-Marx-Straße 39"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6704-etz-betriebs-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6704-etz-betriebs-gmbh.html",
     "id": 6704,
     "name": "ETZ Betriebs GmbH",
     "address_raw": "ETZ - Eisenbahn Technik Zentrum Herne | Am Westhafen 27 | DE-44653 Herne, Westf (Deutschland)",
@@ -2861,7 +2636,7 @@
     "street": "Am Westhafen 27"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6709-erfurter-bahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6709-erfurter-bahn-gmbh.html",
     "id": 6709,
     "name": "Erfurter Bahn GmbH",
     "address_raw": "Am Rasenrain 16 | DE-99089 Erfurt (Deutschland)",
@@ -2869,10 +2644,10 @@
     "postal_code": "99089",
     "city": "Erfurt",
     "country": "Deutschland",
-    "workshop_name": "Am Rasenrain 16"
+    "street": "Am Rasenrain 16"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6724-eisenbahnwerkstatt-gesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6724-eisenbahnwerkstatt-gesellschaft-mbh.html",
     "id": 6724,
     "name": "Eisenbahnwerkstatt-Gesellschaft mbH",
     "address_raw": "Warliner Straße 27 | DE-17024 Neubrandenburg, Meckl (Deutschland)",
@@ -2883,7 +2658,7 @@
     "street": "Warliner Straße 27"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6731-eisenbahnen-und-verkehrsbetriebe-elbe-weser-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6731-eisenbahnen-und-verkehrsbetriebe-elbe-weser-gmbh.html",
     "id": 6731,
     "name": "Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH",
     "address_raw": "Bahnhofstraße 67 | DE-27404 Zeven (Deutschland)",
@@ -2894,7 +2669,7 @@
     "street": "Bahnhofstraße 67"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6732-eisenbahnen-und-verkehrsbetriebe-elbe-weser-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6732-eisenbahnen-und-verkehrsbetriebe-elbe-weser-gmbh.html",
     "id": 6732,
     "name": "Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH",
     "address_raw": "Eisenbahnwartungsstützpunkt Bremervörde | Am Bahnhof 1 | DE-27432 Bremervörde (Deutschland)",
@@ -2906,14 +2681,14 @@
     "street": "Am Bahnhof 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6738-eisenbahn-und-haefen-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6738-eisenbahn-und-haefen-gmbh.html",
     "id": 6738,
     "name": "Eisenbahn und Häfen GmbH",
     "address_raw": "(Deutschland)",
     "workshop_name": "(Deutschland)"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6753-dortmunder-stadtwerke-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6753-dortmunder-stadtwerke-ag.html",
     "id": 6753,
     "name": "Dortmunder Stadtwerke AG",
     "address_raw": "Werkstatt Dorstfeld | Dorstfelder Hellweg 73 | DE-44149 Dortmund (Deutschland)",
@@ -2925,7 +2700,7 @@
     "street": "Dorstfelder Hellweg 73"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6754-dortmunder-eisenbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6754-dortmunder-eisenbahn-gmbh.html",
     "id": 6754,
     "name": "Dortmunder Eisenbahn GmbH",
     "address_raw": "Speicherstraße 23 | DE-44147 Dortmund (Deutschland)",
@@ -2936,7 +2711,7 @@
     "street": "Speicherstraße 23"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6770-delmenhorst-harpstedter-eisenbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6770-delmenhorst-harpstedter-eisenbahn-gmbh.html",
     "id": 6770,
     "name": "Delmenhorst-Harpstedter Eisenbahn GmbH",
     "address_raw": "Am Bahnhof 3 | DE-27243 Harpstedt (Deutschland)",
@@ -2944,10 +2719,10 @@
     "postal_code": "27243",
     "city": "Harpstedt",
     "country": "Deutschland",
-    "workshop_name": "Am Bahnhof 3"
+    "street": "Am Bahnhof 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6779-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6779-db-schenker-rail-deutschland-ag.html",
     "id": 6779,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Bebra | Weiteröder Weg 1 | DE-36179 Bebra (Deutschland)",
@@ -2959,7 +2734,7 @@
     "street": "Weiteröder Weg 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6780-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6780-db-schenker-rail-deutschland-ag.html",
     "id": 6780,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Senftenberg | Sprembergerstr. / Abzweig Reppist | DE-01968 Senftenberg, NL (Deutschland)",
@@ -2971,7 +2746,7 @@
     "street": "Sprembergerstr. / Abzweig Reppist"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6781-db-cargo-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6781-db-cargo-ag.html",
     "id": 6781,
     "name": "DB Cargo AG",
     "address_raw": "Servicestelle Maschen | Hörstener Straße 100 | DE-21220 Seevetal (Deutschland)",
@@ -2983,7 +2758,7 @@
     "street": "Hörstener Straße 100"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6782-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6782-db-schenker-rail-deutschland-ag.html",
     "id": 6782,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Seelze | Lange-Feld-Straße 121a | DE-30926 Seelze (Deutschland)",
@@ -2995,7 +2770,7 @@
     "street": "Lange-Feld-Straße 121a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6783-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6783-db-schenker-rail-deutschland-ag.html",
     "id": 6783,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Lohnde | Werftstraße 1a | DE-30926 Seelze (Deutschland)",
@@ -3007,7 +2782,7 @@
     "street": "Werftstraße 1a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6784-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6784-db-schenker-rail-deutschland-ag.html",
     "id": 6784,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Seddin | Weg zum Wasserturm | DE-14554 Seddiner See (Deutschland)",
@@ -3019,7 +2794,7 @@
     "street": "Weg zum Wasserturm"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6785-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6785-db-schenker-rail-deutschland-ag.html",
     "id": 6785,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Saarbrücken | An der Johannisbrücke 39 | DE-66113 Saarbrücken (Deutschland)",
@@ -3031,7 +2806,7 @@
     "street": "An der Johannisbrücke 39"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6786-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6786-db-schenker-rail-deutschland-ag.html",
     "id": 6786,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Saalfeld | Hinterm Bahnhof 2 | DE-07318 Saalfeld /Saale (Deutschland)",
@@ -3043,7 +2818,7 @@
     "street": "Hinterm Bahnhof 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6787-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6787-db-schenker-rail-deutschland-ag.html",
     "id": 6787,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Rostock | Petersdorfer Straße 30 | DE-18147 Rostock (Deutschland)",
@@ -3055,7 +2830,7 @@
     "street": "Petersdorfer Straße 30"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6788-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6788-db-schenker-rail-deutschland-ag.html",
     "id": 6788,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Osnabrück | Bremer Straße 49 | DE-49084 Osnabrück (Deutschland)",
@@ -3067,7 +2842,7 @@
     "street": "Bremer Straße 49"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6789-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6789-db-schenker-rail-deutschland-ag.html",
     "id": 6789,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Offenburg | Rammersweier Straße 1 | DE-77654 Offenburg (Deutschland)",
@@ -3079,7 +2854,7 @@
     "street": "Rammersweier Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6790-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6790-db-schenker-rail-deutschland-ag.html",
     "id": 6790,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Oberhausen-Osterfeld | Cheruskerstraße 25 | DE-46117 Oberhausen, Rheinl (Deutschland)",
@@ -3091,7 +2866,7 @@
     "street": "Cheruskerstraße 25"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6791-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6791-db-schenker-rail-deutschland-ag.html",
     "id": 6791,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Mukran | Mittelweg | DE-18546 Sassnitz-Mukran (Deutschland)",
@@ -3103,7 +2878,7 @@
     "street": "Mittelweg"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6792-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6792-db-schenker-rail-deutschland-ag.html",
     "id": 6792,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Gremberg | Rather Straße 1 | DE-51149 Köln (Deutschland)",
@@ -3115,7 +2890,7 @@
     "street": "Rather Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6793-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6793-db-schenker-rail-deutschland-ag.html",
     "id": 6793,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Hagen-Eckesey | Sedanstraße 40 | DE-58089 Hagen, Westf (Deutschland)",
@@ -3127,7 +2902,7 @@
     "street": "Sedanstraße 40"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6794-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6794-db-schenker-rail-deutschland-ag.html",
     "id": 6794,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Nürnberg | Rangierbahnhof Ausfahrt Bau 9 | DE-90469 Nürnberg, Mittelfr (Deutschland)",
@@ -3139,7 +2914,7 @@
     "street": "Rangierbahnhof Ausfahrt Bau 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6795-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6795-db-schenker-rail-deutschland-ag.html",
     "id": 6795,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle München-Nord | Ludwigsfelder Straße 85 | DE-80997 München (Deutschland)",
@@ -3151,7 +2926,7 @@
     "street": "Ludwigsfelder Straße 85"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6796-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6796-db-schenker-rail-deutschland-ag.html",
     "id": 6796,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Mannheim (Gw) | Pfingstweidstraße 68 | DE-68199 Mannheim (Deutschland)",
@@ -3163,7 +2938,7 @@
     "street": "Pfingstweidstraße 68"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6797-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6797-db-schenker-rail-deutschland-ag.html",
     "id": 6797,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Mannheim (Tfz) | Pfingstweidstraße 68 | DE-68199 Mannheim (Deutschland)",
@@ -3175,7 +2950,7 @@
     "street": "Pfingstweidstraße 68"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6798-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6798-db-schenker-rail-deutschland-ag.html",
     "id": 6798,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Magdeburg-Rothensee | Windmühlenstraße 70 | DE-39126 Magdeburg (Deutschland)",
@@ -3187,7 +2962,7 @@
     "street": "Windmühlenstraße 70"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6799-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6799-db-schenker-rail-deutschland-ag.html",
     "id": 6799,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Kornwestheim (Gw) | Rangierbahnhof 50 | DE-70806 Kornwestheim (Deutschland)",
@@ -3199,7 +2974,7 @@
     "street": "Rangierbahnhof 50"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6800-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6800-db-schenker-rail-deutschland-ag.html",
     "id": 6800,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Kornwestheim (Tfz) | Stammheimer Straße 100 | DE-70806 Kornwestheim (Deutschland)",
@@ -3211,7 +2986,7 @@
     "street": "Stammheimer Straße 100"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6801-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6801-db-schenker-rail-deutschland-ag.html",
     "id": 6801,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Ingolstadt | Martin-Hemm-Straße 4 | DE-85053 Ingolstadt, Donau (Deutschland)",
@@ -3223,7 +2998,7 @@
     "street": "Martin-Hemm-Straße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6802-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6802-db-schenker-rail-deutschland-ag.html",
     "id": 6802,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Halle | Berliner Straße 16 | DE-06612 Halle (Saale) (Deutschland)",
@@ -3235,7 +3010,7 @@
     "street": "Berliner Straße 16"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6803-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6803-db-schenker-rail-deutschland-ag.html",
     "id": 6803,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Hagen | Westpreußenstraße 8a | DE-58095 Hagen, Westf (Deutschland)",
@@ -3247,7 +3022,7 @@
     "street": "Westpreußenstraße 8a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6804-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6804-db-schenker-rail-deutschland-ag.html",
     "id": 6804,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Frankfurt (Oder) | Bahnhofsstraße 6-7 | DE-15230 Frankfurt/Oder (Deutschland)",
@@ -3259,7 +3034,7 @@
     "street": "Bahnhofsstraße 6-7"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6805-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6805-db-schenker-rail-deutschland-ag.html",
     "id": 6805,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Emden | Am Eisenbahndock 15 | DE-26571 Emden, Ostfriesland (Deutschland)",
@@ -3271,7 +3046,7 @@
     "street": "Am Eisenbahndock 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6806-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6806-db-schenker-rail-deutschland-ag.html",
     "id": 6806,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Dresden | Hamburger Straße  39b | DE-01067 Dresden (Deutschland)",
@@ -3283,7 +3058,7 @@
     "street": "Hamburger Straße  39b"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6807-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6807-db-schenker-rail-deutschland-ag.html",
     "id": 6807,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Bremen | Mählandsweg 1 | DE-28239 Bremen (Deutschland)",
@@ -3295,7 +3070,7 @@
     "street": "Mählandsweg 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6808-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6808-db-schenker-rail-deutschland-ag.html",
     "id": 6808,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Braunschweig | Lindenbergallee | DE-38126 Braunschweig (Deutschland)",
@@ -3307,7 +3082,7 @@
     "street": "Lindenbergallee"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6809-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6809-db-schenker-rail-deutschland-ag.html",
     "id": 6809,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Servicestelle Mainz-Bischofsheim | Am Alten Gerauer Weg 14 | DE-65474 Bischofsheim b Rüsselsheim (Deutschland)",
@@ -3319,7 +3094,7 @@
     "street": "Am Alten Gerauer Weg 14"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6810-db-schenker-rail-deutschland-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6810-db-schenker-rail-deutschland-ag.html",
     "id": 6810,
     "name": "DB Schenker Rail Deutschland AG",
     "address_raw": "Rheinstraße 2 | DE-55116 Mainz a Rhein (Deutschland)",
@@ -3330,7 +3105,7 @@
     "street": "Rheinstraße 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6826-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6826-db-regio-ag.html",
     "id": 6826,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Kaiserslautern | Logenstraße 39 | DE-67555 Kaiserslautern (Deutschland)",
@@ -3342,7 +3117,7 @@
     "street": "Logenstraße 39"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6827-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6827-db-regio-ag.html",
     "id": 6827,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Mayen | Am Wasserturm 2a | DE-56727 Mayen (Deutschland)",
@@ -3354,7 +3129,7 @@
     "street": "Am Wasserturm 2a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6828-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6828-db-regio-ag.html",
     "id": 6828,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Trier | Avelsbacher Straße | DE-54295 Trier (Deutschland)",
@@ -3366,7 +3141,7 @@
     "street": "Avelsbacher Straße"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6829-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6829-db-regio-ag.html",
     "id": 6829,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Erfurt | Am Wasserturm 3 | DE-99085 Erfurt (Deutschland)",
@@ -3378,7 +3153,7 @@
     "street": "Am Wasserturm 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6830-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6830-db-regio-ag.html",
     "id": 6830,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Leipzig Süd | Rosa-Luxemburg-Straße 72 | DE-04315 Leipzig (Deutschland)",
@@ -3390,7 +3165,7 @@
     "street": "Rosa-Luxemburg-Straße 72"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6831-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6831-db-regio-ag.html",
     "id": 6831,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Leipzig, Geithainer Str. | Geithainer Straße 24f | DE-04328 Leipzig (Deutschland)",
@@ -3402,7 +3177,7 @@
     "street": "Geithainer Straße 24f"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6832-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6832-db-regio-ag.html",
     "id": 6832,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Dresden Altstadt | Zwickauer Straße 86 | DE-01069 Dresden (Deutschland)",
@@ -3414,7 +3189,7 @@
     "street": "Zwickauer Straße 86"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6833-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6833-db-regio-ag.html",
     "id": 6833,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Magdeburg-Buckau | Schanzenweg 6 | DE-39104 Magdeburg (Deutschland)",
@@ -3426,7 +3201,7 @@
     "street": "Schanzenweg 6"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6834-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6834-db-regio-ag.html",
     "id": 6834,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Halle, Volkmannstr. | Volkmannstraße 39 | DE-06112 Halle (Saale) (Deutschland)",
@@ -3438,7 +3213,7 @@
     "street": "Volkmannstraße 39"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6835-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6835-db-regio-ag.html",
     "id": 6835,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Ludwigshafen | Oskar-Vongerichten-Straße 7b | DE-67061 Ludwigshafen am Rhein (Deutschland)",
@@ -3450,7 +3225,7 @@
     "street": "Oskar-Vongerichten-Straße 7b"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6836-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6836-db-regio-ag.html",
     "id": 6836,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Karlsruhe | Petergraben 2A | DE-76135 Karlsruhe, Baden (Deutschland)",
@@ -3462,7 +3237,7 @@
     "street": "Petergraben 2A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6837-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6837-db-regio-ag.html",
     "id": 6837,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Berlin-Lichtenberg | Buchberger Straße 19 | DE-10365 Berlin (Deutschland)",
@@ -3474,7 +3249,7 @@
     "street": "Buchberger Straße 19"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6838-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6838-db-regio-ag.html",
     "id": 6838,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Neuruppin | Nymburkring 20 | DE-16186 Neuruppin (Deutschland)",
@@ -3486,7 +3261,7 @@
     "street": "Nymburkring 20"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6839-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6839-db-regio-ag.html",
     "id": 6839,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Cottbus | Sachsendorfer Straße 41 | DE-03048 Cottbus (Deutschland)",
@@ -3498,7 +3273,7 @@
     "street": "Sachsendorfer Straße 41"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6840-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6840-db-regio-ag.html",
     "id": 6840,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Rostock | Dalwitzhofer Weg 9 | DE-18059 Rostock (Deutschland)",
@@ -3510,7 +3285,7 @@
     "street": "Dalwitzhofer Weg 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6841-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6841-db-regio-ag.html",
     "id": 6841,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Kiel | Alte Lübecker Chaussee 15 | DE-24114 Kiel, Ostsee (Deutschland)",
@@ -3522,7 +3297,7 @@
     "street": "Alte Lübecker Chaussee 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6842-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6842-db-regio-ag.html",
     "id": 6842,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Bremen, Theodor-Heuss-Allee | Theodor-Heuss-Allee 10c | DE-28215 Bremen (Deutschland)",
@@ -3534,7 +3309,7 @@
     "street": "Theodor-Heuss-Allee 10c"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6843-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6843-db-regio-ag.html",
     "id": 6843,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Bremen Hbf | Parkallee 9 | DE-28209 Bremen (Deutschland)",
@@ -3546,7 +3321,7 @@
     "street": "Parkallee 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6844-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6844-db-regio-ag.html",
     "id": 6844,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Braunschweig, Brodweg | Brodweg | DE-38104 Braunschweig (Deutschland)",
@@ -3558,7 +3333,7 @@
     "street": "Brodweg"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6845-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6845-db-regio-ag.html",
     "id": 6845,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Braunschweig, Ackerstr. | Ackerstraße 75 | DE-38126 Braunschweig (Deutschland)",
@@ -3570,7 +3345,7 @@
     "street": "Ackerstraße 75"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6846-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6846-db-regio-ag.html",
     "id": 6846,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Hannover | Einbecker Straße 1A | DE-30419 Hannover (Deutschland)",
@@ -3582,7 +3357,7 @@
     "street": "Einbecker Straße 1A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6847-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6847-db-regio-ag.html",
     "id": 6847,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Kassel, Franz-Ulrich-Str. | Franz-Ulrich-Straße 20 | DE-34127 Kassel, Hess (Deutschland)",
@@ -3594,7 +3369,7 @@
     "street": "Franz-Ulrich-Straße 20"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6848-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6848-db-regio-ag.html",
     "id": 6848,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Kassel Hbf | Angersbachstraße 29 | DE-34127 Kassel, Hess (Deutschland)",
@@ -3606,7 +3381,7 @@
     "street": "Angersbachstraße 29"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6849-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6849-db-regio-ag.html",
     "id": 6849,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Limburg | Joseph Schneider Straße 2 | DE-65549 Limburg a d Lahn (Deutschland)",
@@ -3618,7 +3393,7 @@
     "street": "Joseph Schneider Straße 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6850-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6850-db-regio-ag.html",
     "id": 6850,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Frankfurt-Griesheim | Erzberger Str. | DE-65933 Frankfurt a.M. (Deutschland)",
@@ -3630,7 +3405,7 @@
     "street": "Erzberger Str."
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6851-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6851-db-regio-ag.html",
     "id": 6851,
     "name": "DB Regio AG",
     "address_raw": "S-Bahn-Werkstatt Frankfurt | Mainzer Landstraße 187 | DE-60327 Frankfurt a.M. (Deutschland)",
@@ -3642,7 +3417,7 @@
     "street": "Mainzer Landstraße 187"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6852-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6852-db-regio-ag.html",
     "id": 6852,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt München-Steinhausen | Kronstadter Straße 50 | DE-81677 München (Deutschland)",
@@ -3654,7 +3429,7 @@
     "street": "Kronstadter Straße 50"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6853-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6853-db-regio-ag.html",
     "id": 6853,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Kempten | Eicher Straße 9 | DE-87435 Kempten (Allgäu) (Deutschland)",
@@ -3666,7 +3441,7 @@
     "street": "Eicher Straße 9"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6854-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6854-db-regio-ag.html",
     "id": 6854,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt München-Pasing | Bergsonstraße 110 | DE-81245 München (Deutschland)",
@@ -3678,7 +3453,7 @@
     "street": "Bergsonstraße 110"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6855-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6855-db-regio-ag.html",
     "id": 6855,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Regensburg | Kirchmeierstraße 12 | DE-93051 Regensburg (Deutschland)",
@@ -3690,7 +3465,7 @@
     "street": "Kirchmeierstraße 12"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6856-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6856-db-regio-ag.html",
     "id": 6856,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Würzburg | Steinstraße 4 | DE-97080 Würzburg (Deutschland)",
@@ -3702,7 +3477,7 @@
     "street": "Steinstraße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6857-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6857-db-regio-ag.html",
     "id": 6857,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Hof | Am Bahnbetriebswerk 20 | DE-95028 Hof, Saale (Deutschland)",
@@ -3714,7 +3489,7 @@
     "street": "Am Bahnbetriebswerk 20"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6858-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6858-db-regio-ag.html",
     "id": 6858,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Nürnberg-Gostenhof | Georg-Hennch-Straße 25 | DE-90431 Nürnberg, Mittelfr (Deutschland)",
@@ -3726,7 +3501,7 @@
     "street": "Georg-Hennch-Straße 25"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6859-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6859-db-regio-ag.html",
     "id": 6859,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Nürnberg, Regensburger Str. | Regensburger Straße 23 | DE-90478 Nürnberg, Mittelfr (Deutschland)",
@@ -3738,7 +3513,7 @@
     "street": "Regensburger Straße 23"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6860-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6860-db-regio-ag.html",
     "id": 6860,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Plochingen | Am Nordseekai 36 / 1-3 | DE-73207 Plochingen (Deutschland)",
@@ -3750,7 +3525,7 @@
     "street": "Am Nordseekai 36 / 1-3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6861-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6861-db-regio-ag.html",
     "id": 6861,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Stuttgart-Stadtpark | Abstellbahnhof 32 | DE-70191 Stuttgart (Deutschland)",
@@ -3762,7 +3537,7 @@
     "street": "Abstellbahnhof 32"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6862-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6862-db-regio-ag.html",
     "id": 6862,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Stuttgart-Rosenstein | Ehmannstraße 56 | DE-70191 Stuttgart (Deutschland)",
@@ -3774,7 +3549,7 @@
     "street": "Ehmannstraße 56"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6863-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6863-db-regio-ag.html",
     "id": 6863,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Haltingen | Werkstättenplatz 5 | DE-79576 Weil am Rhein (Deutschland)",
@@ -3786,7 +3561,7 @@
     "street": "Werkstättenplatz 5"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6864-db-regio-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6864-db-regio-ag.html",
     "id": 6864,
     "name": "DB Regio AG",
     "address_raw": "Werkstatt Freiburg | Basler Straße 103 | DE-79100 Freiburg (Breisg) (Deutschland)",
@@ -3798,7 +3573,7 @@
     "street": "Basler Straße 103"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6866-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6866-db-fernverkehr-ag.html",
     "id": 6866,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk München Hbf | Landsberger Straße 158 | DE-80687 München (Deutschland)",
@@ -3810,7 +3585,7 @@
     "street": "Landsberger Straße 158"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6867-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6867-db-fernverkehr-ag.html",
     "id": 6867,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Leipzig Hbf | Rackwitzer Straße 33 | DE-04347 Leipzig (Deutschland)",
@@ -3822,7 +3597,7 @@
     "street": "Rackwitzer Straße 33"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6868-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6868-db-fernverkehr-ag.html",
     "id": 6868,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Köln Bbf | Gladbacher Wall 100 | DE-50670 Köln (Deutschland)",
@@ -3834,7 +3609,7 @@
     "street": "Gladbacher Wall 100"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6869-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6869-db-fernverkehr-ag.html",
     "id": 6869,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Hannover | Clausewitzstraße 10 | DE-30175 Hannover (Deutschland)",
@@ -3846,7 +3621,7 @@
     "street": "Clausewitzstraße 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6870-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6870-db-fernverkehr-ag.html",
     "id": 6870,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Hamburg-Langenfelde | Försterweg 119 A | DE-22525 Hamburg (Deutschland)",
@@ -3858,7 +3633,7 @@
     "street": "Försterweg 119 A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6871-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6871-db-fernverkehr-ag.html",
     "id": 6871,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Hamburg-Eidelstedt | Elbgaustraße 110a | DE-22523 Hamburg (Deutschland)",
@@ -3870,7 +3645,7 @@
     "street": "Elbgaustraße 110a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6872-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6872-db-fernverkehr-ag.html",
     "id": 6872,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Frankfurt-Griesheim | Griesheimer Stadtweg 8 | DE-65933 Frankfurt a.M. (Deutschland)",
@@ -3882,7 +3657,7 @@
     "street": "Griesheimer Stadtweg 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6873-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6873-db-fernverkehr-ag.html",
     "id": 6873,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Dortmund-Spähenfelde | Werkmeisterstraße 15 | DE-44145 Dortmund (Deutschland)",
@@ -3894,7 +3669,7 @@
     "street": "Werkmeisterstraße 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6874-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6874-db-fernverkehr-ag.html",
     "id": 6874,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Berlin-Rummelsburg | Saganer Straße 3 | DE-10317 Berlin (Deutschland)",
@@ -3906,7 +3681,7 @@
     "street": "Saganer Straße 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6875-db-fernverkehr-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6875-db-fernverkehr-ag.html",
     "id": 6875,
     "name": "DB Fernverkehr AG",
     "address_raw": "Werk Basel | Im Surinam 175 | CH-4058 Basel (Schweiz)",
@@ -3918,7 +3693,7 @@
     "street": "Im Surinam 175"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6876-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6876-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6876,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Dampflokwerk Meiningen - Produktbereich Historische Fahrzeuge | Am Flutgraben 2 | DE-98617 Meiningen (Deutschland)",
@@ -3930,7 +3705,7 @@
     "street": "Am Flutgraben 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6877-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6877-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6877,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Servicewerkstatt Zwickau | Bülaustrasse 43 | DE-08060 Zwickau (Deutschland)",
@@ -3942,7 +3717,7 @@
     "street": "Bülaustrasse 43"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6878-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6878-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6878,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Wittenberge - Produktbereich Personenwagen | Bresser Straße 1 | DE-19322 Wittenberge, Prignitz (Deutschland)",
@@ -3954,7 +3729,7 @@
     "street": "Bresser Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6879-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6879-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6879,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Paderborn | Hermann-Kirchhoff-Straße 4 | DE-33102 Paderborn (Deutschland)",
@@ -3966,7 +3741,7 @@
     "street": "Hermann-Kirchhoff-Straße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6880-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6880-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6880,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Produktbereich Reisezugwagen | Kieler Straße 119 | DE-24536 Neumünster, Holst (Deutschland)",
@@ -3978,7 +3753,7 @@
     "street": "Kieler Straße 119"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6881-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6881-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6881,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk München - Produktbereich Komponenten | Papinstraße 53 | DE-81249 München (Deutschland)",
@@ -3990,7 +3765,7 @@
     "street": "Papinstraße 53"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6882-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6882-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6882,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Kassel - Produktbereich Dieseltriebzüge | Frasenweg 20-36 | DE-34128 Kassel, Hess (Deutschland)",
@@ -4002,7 +3777,7 @@
     "street": "Frasenweg 20-36"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6883-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6883-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6883,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Fulda - Produktbereich Komponenten | An der Richthalle 1 | DE-36037 Fulda (Deutschland)",
@@ -4014,7 +3789,7 @@
     "street": "An der Richthalle 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6885-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6885-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6885,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Eberswalde | Eisenbahnstraße 37 | DE-16225 Eberswalde (Deutschland)",
@@ -4026,7 +3801,7 @@
     "street": "Eisenbahnstraße 37"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6886-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6886-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6886,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Dessau - Produktbereich Lokomotiven | Peterholzstraße 15 | DE-06849 Dessau, Anh (Deutschland)",
@@ -4038,7 +3813,7 @@
     "street": "Peterholzstraße 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6887-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6887-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6887,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Cottbus | Waisenstraße 21 | DE-03046 Cottbus (Deutschland)",
@@ -4050,7 +3825,7 @@
     "street": "Waisenstraße 21"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6888-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6888-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6888,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Chemnitz - Produktbereich Dieseltriebzüge | Emilienstraße 45 | DE-09131 Chemnitz, Sachs (Deutschland)",
@@ -4062,7 +3837,7 @@
     "street": "Emilienstraße 45"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6889-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6889-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6889,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Bremen | Am Wasserturm 10 | DE-28309 Bremen (Deutschland)",
@@ -4074,7 +3849,7 @@
     "street": "Am Wasserturm 10"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6890-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6890-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6890,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Werk Nürnberg - Produktbereich Elektrische Triebwagen | Ingolstätter Straße 259 | DE-90461 Nürnberg, Mittelfr (Deutschland)",
@@ -4086,7 +3861,7 @@
     "street": "Ingolstätter Straße 259"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6891-db-fahrzeuginstandhaltung-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6891-db-fahrzeuginstandhaltung-gmbh.html",
     "id": 6891,
     "name": "DB Fahrzeuginstandhaltung GmbH",
     "address_raw": "Produktbereich ICE/VT/ET | Breitenbachstrasse 69 | DE-47809 Krefeld (Deutschland)",
@@ -4098,7 +3873,7 @@
     "street": "Breitenbachstrasse 69"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6893-db-bahnbau-gruppe-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6893-db-bahnbau-gruppe-gmbh.html",
     "id": 6893,
     "name": "DB Bahnbau Gruppe GmbH",
     "address_raw": "Sparte Maschinentechnik | Ladestrasse 8 | DE-39175 Königsborn b Magdeburg (Deutschland)",
@@ -4110,7 +3885,7 @@
     "street": "Ladestrasse 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6896-db-autozug-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6896-db-autozug-gmbh.html",
     "id": 6896,
     "name": "DB AutoZug GmbH",
     "address_raw": "Werk Niebüll | Robert-Bosch-Straße 4 | DE-25899 Niebüll (Deutschland)",
@@ -4122,7 +3897,7 @@
     "street": "Robert-Bosch-Straße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6899-d-d-eisenbahngesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6899-d-d-eisenbahngesellschaft-mbh.html",
     "id": 6899,
     "name": "D & D Eisenbahngesellschaft mbH",
     "address_raw": "Friedrich-List-Straße 13 | DE-19230 Hagenow-Land (Deutschland)",
@@ -4133,7 +3908,7 @@
     "street": "Friedrich-List-Straße 13"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6933-borkumer-kleinbahn-und-dampfschiffahrt-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6933-borkumer-kleinbahn-und-dampfschiffahrt-gmbh.html",
     "id": 6933,
     "name": "Borkumer Kleinbahn- und Dampfschiffahrt GmbH",
     "address_raw": "Georg-Schütte-Platz 8 | DE-26757 Borkum (Deutschland)",
@@ -4144,7 +3919,7 @@
     "street": "Georg-Schütte-Platz 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6935-bombardier-transportation-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6935-bombardier-transportation-gmbh.html",
     "id": 6935,
     "name": "Bombardier Transportation GmbH",
     "address_raw": "Werk Kassel | Holländische Straße 195 | DE-34127 Kassel, Hess (Deutschland)",
@@ -4156,7 +3931,7 @@
     "street": "Holländische Straße 195"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6939-bls-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6939-bls-ag.html",
     "id": 6939,
     "name": "BLS AG",
     "address_raw": "Werkstätte Oberburg | Lochbachstrasse 50 | CH-3414 Oberburg (Schweiz)",
@@ -4168,7 +3943,7 @@
     "street": "Lochbachstrasse 50"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6940-bls-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6940-bls-ag.html",
     "id": 6940,
     "name": "BLS AG",
     "address_raw": "Werkstätte Bern Aebimatt | Depotstrasse 43 | CH-3012 Bern (Schweiz)",
@@ -4180,7 +3955,7 @@
     "street": "Depotstrasse 43"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6941-bls-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6941-bls-ag.html",
     "id": 6941,
     "name": "BLS AG",
     "address_raw": "Werkstätte Bönigen | Interlakenstrasse 34 | CH-3806 Bönigen (Schweiz)",
@@ -4192,7 +3967,7 @@
     "street": "Interlakenstrasse 34"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6942-bls-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6942-bls-ag.html",
     "id": 6942,
     "name": "BLS AG",
     "address_raw": "Werkstätte Spiez | Krattigstrasse 1A | CH-3700 Spiez (Schweiz)",
@@ -4204,7 +3979,7 @@
     "street": "Krattigstrasse 1A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6959-bentheimer-eisenbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6959-bentheimer-eisenbahn-ag.html",
     "id": 6959,
     "name": "Bentheimer Eisenbahn AG",
     "address_raw": "Bahnhofstraße 24 | DE-48455 Bad Bentheim (Deutschland)",
@@ -4215,7 +3990,7 @@
     "street": "Bahnhofstraße 24"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6966-bayernhafen-gmbh-co-kg.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6966-bayernhafen-gmbh-co-kg.html",
     "id": 6966,
     "name": "Bayernhafen GmbH & Co. KG",
     "address_raw": "bayernhafen Aschaffenburg / Aschaffenburger Hafenbahn | Hafenbahnhofstraße 27 | DE-63741 Aschaffenburg (Deutschland)",
@@ -4227,7 +4002,7 @@
     "street": "Hafenbahnhofstraße 27"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6968-bayernbahn-betriebsgesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6968-bayernbahn-betriebsgesellschaft-mbh.html",
     "id": 6968,
     "name": "BayernBahn Betriebsgesellschaft mbH",
     "address_raw": "Am Hohen Weg 6a | DE-86720 Nördlingen (Deutschland)",
@@ -4238,7 +4013,7 @@
     "street": "Am Hohen Weg 6a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6972-bayerische-instandhaltungsgesellschaft-fuer-schienenfahrzeuge-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6972-bayerische-instandhaltungsgesellschaft-fuer-schienenfahrzeuge-mbh.html",
     "id": 6972,
     "name": "Bayerische Instandhaltungsgesellschaft für Schienenfahrzeuge mbH",
     "address_raw": "Bahnbetriebswerk Lenggries | Demmeljochstraße 4 | DE-83661 Lenggries (Deutschland)",
@@ -4250,7 +4025,7 @@
     "street": "Demmeljochstraße 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6978-bahnbetriebswerk-zittau-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6978-bahnbetriebswerk-zittau-gmbh.html",
     "id": 6978,
     "name": "Bahnbetriebswerk Zittau GmbH",
     "address_raw": "Bahnhofstraße 39a | DE-02782 Zittau (Deutschland)",
@@ -4261,7 +4036,7 @@
     "street": "Bahnhofstraße 39a"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6981-augsburger-localbahn-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6981-augsburger-localbahn-gmbh.html",
     "id": 6981,
     "name": "Augsburger Localbahn GmbH",
     "address_raw": "Friedberger Straße 43 | DE-86161 Augsburg (Deutschland)",
@@ -4272,7 +4047,7 @@
     "street": "Friedberger Straße 43"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/6984-ateliers-d-orval-s-a.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6984-ateliers-d-orval-s-a.html",
     "id": 6984,
     "name": "Ateliers d'Orval S.A.",
     "address_raw": "Route de l'ombrée | FR-18200 Saint-Amand-Montrond (Frankreich)",
@@ -4283,15 +4058,19 @@
     "workshop_name": "Route de l'ombrée"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7000-alstom-transport-sa.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7000-alstom-transport-sa.html",
     "id": 7000,
     "name": "Alstom Transport SA",
     "address_raw": "Wolverhampton (Midlands) Traincare Centre | Jones Road, Oxley | GB-WV10 6JQ Wolverhampton (Grossbritannien)",
+    "country_code": "GB",
+    "postal_code": "WV10 6JQ",
+    "city": "Wolverhampton",
+    "country": "Grossbritannien",
     "workshop_name": "Wolverhampton (Midlands) Traincare Centre",
     "street": "Jones Road, Oxley"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7009-alstom-transport-deutschland-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7009-alstom-transport-deutschland-gmbh.html",
     "id": 7009,
     "name": "ALSTOM Transport Deutschland GmbH",
     "address_raw": "Linke-Hofmann-Busch-Straße 1 | DE-38229 Salzgitter (Deutschland)",
@@ -4302,19 +4081,7 @@
     "street": "Linke-Hofmann-Busch-Straße 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7014-alstom-schienenfahrzeuge-ag.html",
-    "id": 7014,
-    "name": "Alstom Schienenfahrzeuge AG",
-    "address_raw": "Bogie Global Test Center | Industrieplatz 1 | CH-8212 Neuhausen am Rheinfall (Schweiz)",
-    "country_code": "CH",
-    "postal_code": "8212",
-    "city": "Neuhausen am Rheinfall",
-    "country": "Schweiz",
-    "workshop_name": "Bogie Global Test Center",
-    "street": "Industrieplatz 1"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7018-alstom-lokomotiven-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7018-alstom-lokomotiven-service-gmbh.html",
     "id": 7018,
     "name": "ALSTOM Lokomotiven Service GmbH",
     "address_raw": "Tangermünderstrasse 23A | DE-39576 Stendal (Deutschland)",
@@ -4322,10 +4089,10 @@
     "postal_code": "39576",
     "city": "Stendal",
     "country": "Deutschland",
-    "workshop_name": "Tangermünderstrasse 23A"
+    "street": "Tangermünderstrasse 23A"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7024-albtal-verkehrs-gesellschaft-mbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7024-albtal-verkehrs-gesellschaft-mbh.html",
     "id": 7024,
     "name": "Albtal-Verkehrs-Gesellschaft mbH",
     "address_raw": "Werkstatt Ettlingen | Im Ferning 17 - 21 | DE-76275 Ettlingen (Deutschland)",
@@ -4337,7 +4104,7 @@
     "street": "Im Ferning 17 - 21"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7025-akn-eisenbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7025-akn-eisenbahn-ag.html",
     "id": 7025,
     "name": "AKN Eisenbahn AG",
     "address_raw": "Werkstatt | Grusonstraße 46 | DE-22113 Hamburg (Deutschland)",
@@ -4349,7 +4116,7 @@
     "street": "Grusonstraße 46"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7026-akn-eisenbahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7026-akn-eisenbahn-ag.html",
     "id": 7026,
     "name": "AKN Eisenbahn AG",
     "address_raw": "Rudolf-Diesel-Straße 2 | DE-24568 Kaltenkirchen, Holst (Deutschland)",
@@ -4360,7 +4127,7 @@
     "street": "Rudolf-Diesel-Straße 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7031-achenseebahn-ag.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7031-achenseebahn-ag.html",
     "id": 7031,
     "name": "Achenseebahn AG",
     "address_raw": "Bahnhofstraße 1-3 | AT-6200 Jenbach (Österreich)",
@@ -4371,7 +4138,7 @@
     "street": "Bahnhofstraße 1-3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7032-acc-ingenierie-et-maintenance.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7032-acc-ingenierie-et-maintenance.html",
     "id": 7032,
     "name": "ACC Ingénierie et Maintenance",
     "address_raw": "32 Rue du Pré la Reine | FR-63017 Clermont Ferrand (Frankreich)",
@@ -4382,7 +4149,7 @@
     "workshop_name": "32 Rue du Pré la Reine"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7033-acc-ingenierie-et-maintenance.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7033-acc-ingenierie-et-maintenance.html",
     "id": 7033,
     "name": "ACC Ingénierie et Maintenance",
     "address_raw": "22 Rue Jules Verne Zone Industrielle du Brézet | FR-63017 Clermont Ferrand (Frankreich)",
@@ -4393,7 +4160,7 @@
     "workshop_name": "22 Rue Jules Verne Zone Industrielle du Brézet"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7034-abrf-industries.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7034-abrf-industries.html",
     "id": 7034,
     "name": "ABRF Industries",
     "address_raw": "Châteaubriant plant | Zone industrielle - Rue Lafayette - BP19 | FR-44141 Chateaubriant (Frankreich)",
@@ -4405,7 +4172,7 @@
     "street": "Zone industrielle - Rue Lafayette - BP19"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7036-abellio-rail-nrw-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7036-abellio-rail-nrw-gmbh.html",
     "id": 7036,
     "name": "Abellio Rail NRW GmbH",
     "address_raw": "Werkstatt Hagen | Eckeseyer Straße 110 | DE-58089 Hagen, Westf (Deutschland)",
@@ -4417,7 +4184,7 @@
     "street": "Eckeseyer Straße 110"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7038-ab-motala-verkstad.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7038-ab-motala-verkstad.html",
     "id": 7038,
     "name": "AB Motala Verkstad",
     "address_raw": "Linjegatan | SE-591 29 Motala (Schweden)",
@@ -4428,34 +4195,7 @@
     "workshop_name": "Linjegatan"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7067-nencki-ag-bahntechnik.html",
-    "id": 7067,
-    "name": "Nencki AG Bahntechnik",
-    "address_raw": "Aarwangenstrasse 90 | 4901 Langenthal (Schweiz)",
-    "workshop_name": "Aarwangenstrasse 90",
-    "street": "4901 Langenthal (Schweiz)"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7068-nencki-ag-anlagenbau.html",
-    "id": 7068,
-    "name": "Nencki AG Anlagenbau",
-    "address_raw": "Aarwangenstrasse 90 | 4901 Langenthal (Schweiz)",
-    "workshop_name": "Aarwangenstrasse 90",
-    "street": "4901 Langenthal (Schweiz)"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7073-stadler-stahlguss-ag.html",
-    "id": 7073,
-    "name": "Stadler Stahlguss AG",
-    "address_raw": "Johann-Renfer-Strasse 51 | CH-2504 Biel (Schweiz)",
-    "country_code": "CH",
-    "postal_code": "2504",
-    "city": "Biel",
-    "country": "Schweiz",
-    "workshop_name": "Johann-Renfer-Strasse 51"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7074-stadler-netherlands-b-v.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7074-stadler-netherlands-b-v.html",
     "id": 7074,
     "name": "Stadler Netherlands B.V",
     "address_raw": "Koppelstraat 3 | NL-7391 AK Twello (Niederlande)",
@@ -4463,10 +4203,10 @@
     "postal_code": "7391",
     "city": "AK Twello",
     "country": "Niederlande",
-    "workshop_name": "Koppelstraat 3"
+    "street": "Koppelstraat 3"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7082-abellio-rail-mitteldeutschland-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7082-abellio-rail-mitteldeutschland-gmbh.html",
     "id": 7082,
     "name": "Abellio Rail Mitteldeutschland GmbH",
     "address_raw": "Servicezentrum | Lengefelder Straße 17 | DE-06526 Sangerhausen (Deutschland)",
@@ -4478,7 +4218,7 @@
     "street": "Lengefelder Straße 17"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7092-kuenstler-bahntechnik-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7092-kuenstler-bahntechnik-gmbh.html",
     "id": 7092,
     "name": "Künstler Bahntechnik GmbH",
     "address_raw": "Standort Chemnitz | Otto-Schmerbach-Straße 19 | DE-09117 Chemnitz (Deutschland)",
@@ -4490,7 +4230,7 @@
     "street": "Otto-Schmerbach-Straße 19"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7096-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7096-swemaint-ab.html",
     "id": 7096,
     "name": "SweMaint AB",
     "address_raw": "Utbyvägen 151 | SE-415 07 Göteborg (Schweden)",
@@ -4498,10 +4238,10 @@
     "postal_code": "415 07",
     "city": "Göteborg",
     "country": "Schweden",
-    "workshop_name": "Utbyvägen 151"
+    "street": "Utbyvägen 151"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7097-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7097-swemaint-ab.html",
     "id": 7097,
     "name": "SweMaint AB",
     "address_raw": "Kirunavara Godsbangård | Södra Infarten 15 | SE-981 99 Kiruna (Schweden)",
@@ -4513,7 +4253,7 @@
     "street": "Södra Infarten 15"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7098-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7098-swemaint-ab.html",
     "id": 7098,
     "name": "SweMaint AB",
     "address_raw": "Luleå Vagnunderhåll | Lokstallsvägen 2 | SE-972 45 Luleå (Schweden)",
@@ -4525,7 +4265,7 @@
     "street": "Lokstallsvägen 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7099-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7099-swemaint-ab.html",
     "id": 7099,
     "name": "SweMaint AB",
     "address_raw": "Umeå Mobilgrupp | Fraktvägen 8 | SE-903 48 Umeå (Schweden)",
@@ -4537,7 +4277,7 @@
     "street": "Fraktvägen 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7100-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7100-swemaint-ab.html",
     "id": 7100,
     "name": "SweMaint AB",
     "address_raw": "Gävle Vagnunderhåll | Upplandsgatan 18 | SE-802 83 Gävle (Schweden)",
@@ -4549,7 +4289,7 @@
     "street": "Upplandsgatan 18"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7101-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7101-swemaint-ab.html",
     "id": 7101,
     "name": "SweMaint AB",
     "address_raw": "Borlänge Vagnunderhåll | Ritargatan 11 | SE-781 70 Borlänge (Schweden)",
@@ -4561,7 +4301,7 @@
     "street": "Ritargatan 11"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7102-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7102-swemaint-ab.html",
     "id": 7102,
     "name": "SweMaint AB",
     "address_raw": "Hallsberg Vagnunderhåll | Rangergatan 1 | SE-694 91 Hallsberg (Schweden)",
@@ -4573,7 +4313,7 @@
     "street": "Rangergatan 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7103-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7103-swemaint-ab.html",
     "id": 7103,
     "name": "SweMaint AB",
     "address_raw": "Norrköping Mobilgrupp | Norra Promenaden 84 | SE-602 38 Norrköping (Schweden)",
@@ -4585,7 +4325,7 @@
     "street": "Norra Promenaden 84"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7104-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7104-swemaint-ab.html",
     "id": 7104,
     "name": "SweMaint AB",
     "address_raw": "Nässjö Vagnunderhåll | Sjöbergsvägen | SE-571 00 Nässjö (Schweden)",
@@ -4597,7 +4337,7 @@
     "street": "Sjöbergsvägen"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7105-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7105-swemaint-ab.html",
     "id": 7105,
     "name": "SweMaint AB",
     "address_raw": "Malmö Vagnunderhåll | Jörgen Kocksgatan 77 | SE-211 20 Malmö (Schweden)",
@@ -4609,7 +4349,7 @@
     "street": "Jörgen Kocksgatan 77"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7106-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7106-swemaint-ab.html",
     "id": 7106,
     "name": "SweMaint AB",
     "address_raw": "Helsingborg Vagnunderhåll | Östra Sandgatan 8 | SE-252 27 Helsingborg (Schweden)",
@@ -4621,7 +4361,7 @@
     "street": "Östra Sandgatan 8"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7107-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7107-swemaint-ab.html",
     "id": 7107,
     "name": "SweMaint AB",
     "address_raw": "Kil Vagnunderhåll | Storgatan | SE-665 25 Kil (Schweden)",
@@ -4633,7 +4373,7 @@
     "street": "Storgatan"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7108-swemaint-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7108-swemaint-ab.html",
     "id": 7108,
     "name": "SweMaint AB",
     "address_raw": "Drammen Vagnunderhåll | Skogliveien 4 | NO-3047 Drammen (Norwegen)",
@@ -4645,7 +4385,7 @@
     "street": "Skogliveien 4"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7110-euromaint-rail-ab.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7110-euromaint-rail-ab.html",
     "id": 7110,
     "name": "EuroMaint Rail AB",
     "address_raw": "Spårvägen 1 | SE-521 32 Falköping (Schweden)",
@@ -4653,10 +4393,10 @@
     "postal_code": "521 32",
     "city": "Falköping",
     "country": "Schweden",
-    "workshop_name": "Spårvägen 1"
+    "street": "Spårvägen 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7111-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7111-euromaint-rail-gmbh.html",
     "id": 7111,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Mobiler Service Benelux | Propaanweg 91 | NL-3196 KH Rotterdam Pernis (Niederlande)",
@@ -4668,7 +4408,7 @@
     "street": "Propaanweg 91"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7112-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7112-euromaint-rail-gmbh.html",
     "id": 7112,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Mobiler Service Benelux | Emdenweg 1 | BE-2030 Antwerpen (Niederlande)",
@@ -4680,7 +4420,7 @@
     "street": "Emdenweg 1"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7114-euromaint-rail-sia.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7114-euromaint-rail-sia.html",
     "id": 7114,
     "name": "Euromaint Rail SIA",
     "address_raw": "Rupniecibas iela 39 | LV-3008 Jelgava (Lettland)",
@@ -4688,10 +4428,10 @@
     "postal_code": "3008",
     "city": "Jelgava",
     "country": "Lettland",
-    "workshop_name": "Rupniecibas iela 39"
+    "street": "Rupniecibas iela 39"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7115-euromaint-rail-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7115-euromaint-rail-gmbh.html",
     "id": 7115,
     "name": "EuroMaint Rail GmbH",
     "address_raw": "Werk Duisburg | Wintgensstraße 91 | DE-47058 Duisburg (Deutschland)",
@@ -4703,7 +4443,7 @@
     "street": "Wintgensstraße 91"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7121-logistik-service-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7121-logistik-service-gmbh.html",
     "id": 7121,
     "name": "Logistik Service GmbH",
     "address_raw": "Werkstätte Rolling Stock | Werksbahnweg 2 | AT-4031 Linz (Österreich)",
@@ -4715,7 +4455,7 @@
     "street": "Werksbahnweg 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7124-regental-fahrzeugwerkstaetten-gmbh.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7124-regental-fahrzeugwerkstaetten-gmbh.html",
     "id": 7124,
     "name": "NETINERA Werke GmbH",
     "address_raw": "Standort Neumark Vogtlandbahn | Ohmstrasse 2 | DE-08496 Neumark, Sachs (Deutschland)",
@@ -4727,15 +4467,7 @@
     "street": "Ohmstrasse 2"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7126-livesystems-ag.html",
-    "id": 7126,
-    "name": "Livesystems AG",
-    "address_raw": "passengertv | Waldeggstrasse 37 | 3097 Liebefeld (Schweiz)",
-    "workshop_name": "passengertv",
-    "street": "Waldeggstrasse 37"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7135-neg-niebuell-gmbh-1.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7135-neg-niebuell-gmbh-1.html",
     "id": 7135,
     "name": "neg Niebüll GmbH",
     "address_raw": "Standort Neumünster | Brückenstraße 5 | DE-24537 Neumünster (Deutschland)",
@@ -4747,7 +4479,7 @@
     "street": "Brückenstraße 5"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7136-neg-niebuell-gmbh-2.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7136-neg-niebuell-gmbh-2.html",
     "id": 7136,
     "name": "neg Niebüll GmbH",
     "address_raw": "Standort Padborg (DK) | Industrivej 2B | DK-6330 Padborg (Dänemark)",
@@ -4759,7 +4491,7 @@
     "street": "Industrivej 2B"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/7139-stadler-service-sweden-ab-1.html",
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/7139-stadler-service-sweden-ab-1.html",
     "id": 7139,
     "name": "Stadler Service Sweden AB",
     "address_raw": "Växlarevägen 27 | SE-170 63 Solna (Schweden)",
@@ -4767,22 +4499,6 @@
     "postal_code": "170 63",
     "city": "Solna",
     "country": "Schweden",
-    "workshop_name": "Växlarevägen 27"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7141-motoren-ag-feuer.html",
-    "id": 7141,
-    "name": "Motoren AG Feuer",
-    "address_raw": "Am Weidenbach 3 – 4 | 51491 Overath (Deutschland)",
-    "workshop_name": "Am Weidenbach 3 – 4",
-    "street": "51491 Overath (Deutschland)"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/7142-motorencenter-feuer-erfurt-gmbh.html",
-    "id": 7142,
-    "name": "Motorencenter Feuer Erfurt GmbH",
-    "address_raw": "Mittelhäuser Straße 76 - 77 | 99089 Erfurt (Deutschland)",
-    "workshop_name": "Mittelhäuser Straße 76 - 77",
-    "street": "99089 Erfurt (Deutschland)"
+    "street": "Växlarevägen 27"
   }
 ]

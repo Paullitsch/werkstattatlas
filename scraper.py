@@ -14,7 +14,7 @@ from urllib.request import urlopen, Request
 from html.parser import HTMLParser
 
 BASE_URL = "http://www.werkstattatlas.info"
-LIST_URL = f"{BASE_URL}/unternehmen/283-wartung_instandhaltung_service.html"
+LIST_URL = f"{BASE_URL}/unternehmen/werkstaetten.html"
 OUTPUT_JSON = Path("data/werkstaetten.json")
 OUTPUT_XLSX = Path("data/werkstaetten.xlsx")
 DELAY = 1.0  # Seconds between requests (be polite)
@@ -86,7 +86,7 @@ class ListPageParser(HTMLParser):
         # "GB-DN4 5PN Doncaster", "SE-724 65 Västeras", "CZ-751 52 Prerov"
         location_idx = -1
         for i, part in enumerate(parts):
-            if re.search(r"[A-Z]{2}-?\d{3,5}", part) or re.search(r"\d{4,5}\s+[A-Z]{2}\s+\w", part):
+            if re.search(r"[A-Z]{2}-?\d[\d -]{2,7}", part) or re.search(r"\d{4,5}\s+[A-Z]{2}\s+\w", part):
                 location_idx = i
                 break
 
@@ -124,11 +124,18 @@ class ListPageParser(HTMLParser):
                 self._current["workshop_name"] = before[0]
                 self._current["street"] = before[1]
             elif len(before) == 1:
-                # Could be workshop name or street — check if it looks like a street
-                if re.search(r"\d", before[0]) and re.search(r"straße|weg|gasse|platz|ring|allee", before[0], re.I):
-                    self._current["street"] = before[0]
+                # Could be workshop name or street
+                # Street heuristic: contains a house number (digit at/near end)
+                # e.g. "Rödemisfeld 2a", "Oberbüscherhof 50", "Hanauer Landstrasse 123"
+                val = before[0]
+                is_street = bool(re.search(r"\d+\s*[a-zA-Z]?\s*$", val))  # ends with number
+                if not is_street:
+                    # Also match: "straße|weg|gasse|platz|ring|allee" anywhere
+                    is_street = bool(re.search(r"straße|strasse|weg\b|gasse|platz|ring\b|allee|damm\b|chaussee|ufer\b", val, re.I))
+                if is_street:
+                    self._current["street"] = val
                 else:
-                    self._current["workshop_name"] = before[0]
+                    self._current["workshop_name"] = val
 
             # Parts after location (rare)
             after = parts[location_idx + 1:]
@@ -143,39 +150,38 @@ class ListPageParser(HTMLParser):
                 self._current["workshop_name"] = parts[0]
 
 
-class DetailPageParser(HTMLParser):
-    """Parse detail page: extract phone, fax, website."""
+def parse_detail_page(html: str) -> dict:
+    """Parse detail page for phone, fax, website, coordinates."""
+    result: dict = {}
 
-    def __init__(self):
-        super().__init__()
-        self.phone = ""
-        self.fax = ""
-        self.website = ""
-        self._capture_text = False
-        self._buffer = ""
+    # Phone / Fax — format: <b>Telefon: </b>+49 30 297-18792<br />
+    m = re.search(r"Telefon:\s*</b>\s*([^<]+)", html)
+    if m:
+        result["phone"] = m.group(1).strip()
+    m = re.search(r"Telefax:\s*</b>\s*([^<]+)", html)
+    if m:
+        result["fax"] = m.group(1).strip()
 
-    def handle_data(self, data):
-        self._buffer += data
+    # Coordinates from SPShowGeoMap JS
+    m = re.search(r'"Lat"\s*:\s*"([^"]+)"', html)
+    if m:
+        try:
+            result["lat"] = float(m.group(1))
+        except ValueError:
+            pass
+    m = re.search(r'"Long"\s*:\s*"([^"]+)"', html)
+    if m:
+        try:
+            result["lon"] = float(m.group(1))
+        except ValueError:
+            pass
 
-    def close(self):
-        super().close()
-        # Extract from buffer
-        for line in self._buffer.split("\n"):
-            line = line.strip()
-            if line.startswith("Telefon:"):
-                self.phone = line.replace("Telefon:", "").strip()
-            elif line.startswith("Telefax:"):
-                self.fax = line.replace("Telefax:", "").strip()
+    # Website: link with text "Webseite"
+    m = re.search(r'<a[^>]*href="([^"]+)"[^>]*>\s*Webseite\s*</a>', html)
+    if m:
+        result["website"] = m.group(1)
 
-    def handle_starttag(self, tag, attrs):
-        a = dict(attrs)
-        if tag == "a":
-            href = a.get("href", "")
-            text = a.get("title", "")
-            # Website link (not internal, not google, not search)
-            if href.startswith("http") and "werkstattatlas" not in href and "google" not in href and "sobipro" not in href:
-                if not self.website:
-                    self.website = href
+    return result
 
 
 def fetch(url: str) -> str:
@@ -195,19 +201,9 @@ def scrape_list_page(page: int) -> tuple[list[dict], int]:
 
 
 def scrape_detail(url: str) -> dict:
-    """Scrape detail page for phone/fax/website."""
+    """Scrape detail page for phone/fax/website/coordinates."""
     html = fetch(url)
-    parser = DetailPageParser()
-    parser.feed(html)
-    parser.close()
-    result = {}
-    if parser.phone:
-        result["phone"] = parser.phone
-    if parser.fax:
-        result["fax"] = parser.fax
-    if parser.website:
-        result["website"] = parser.website
-    return result
+    return parse_detail_page(html)
 
 
 XLSX_COLUMNS = [
@@ -222,6 +218,8 @@ XLSX_COLUMNS = [
     ("phone", "Telefon"),
     ("fax", "Fax"),
     ("website", "Website"),
+    ("lat", "Breitengrad"),
+    ("lon", "Längengrad"),
     ("url", "Werkstattatlas-URL"),
 ]
 
