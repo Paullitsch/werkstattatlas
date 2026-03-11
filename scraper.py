@@ -15,7 +15,8 @@ from html.parser import HTMLParser
 
 BASE_URL = "http://www.werkstattatlas.info"
 LIST_URL = f"{BASE_URL}/unternehmen/283-wartung_instandhaltung_service.html"
-OUTPUT = Path("data/werkstaetten.json")
+OUTPUT_JSON = Path("data/werkstaetten.json")
+OUTPUT_XLSX = Path("data/werkstaetten.xlsx")
 DELAY = 1.0  # Seconds between requests (be polite)
 
 
@@ -209,6 +210,73 @@ def scrape_detail(url: str) -> dict:
     return result
 
 
+XLSX_COLUMNS = [
+    ("id", "ID"),
+    ("name", "Unternehmen"),
+    ("workshop_name", "Werkstatt"),
+    ("street", "Straße"),
+    ("postal_code", "PLZ"),
+    ("city", "Stadt"),
+    ("country_code", "Land"),
+    ("country", "Land (Name)"),
+    ("phone", "Telefon"),
+    ("fax", "Fax"),
+    ("website", "Website"),
+    ("url", "Werkstattatlas-URL"),
+]
+
+
+def export_xlsx(entries: list[dict]) -> None:
+    """Export entries to Excel file with formatting."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Werkstätten"
+
+    # Header style
+    header_font = Font(bold=True, color="FFFFFF", size=11)
+    header_fill = PatternFill(start_color="2B579A", end_color="2B579A", fill_type="solid")
+    header_align = Alignment(horizontal="center", vertical="center", wrap_text=True)
+    thin_border = Border(
+        bottom=Side(style="thin", color="CCCCCC"),
+    )
+
+    # Write headers
+    for col, (key, label) in enumerate(XLSX_COLUMNS, 1):
+        cell = ws.cell(row=1, column=col, value=label)
+        cell.font = header_font
+        cell.fill = header_fill
+        cell.alignment = header_align
+
+    # Write data
+    for row, entry in enumerate(entries, 2):
+        for col, (key, _) in enumerate(XLSX_COLUMNS, 1):
+            val = entry.get(key, "")
+            cell = ws.cell(row=row, column=col, value=val)
+            cell.border = thin_border
+            if key == "url" or key == "website":
+                cell.alignment = Alignment(wrap_text=False)
+
+    # Auto-width columns
+    for col, (key, label) in enumerate(XLSX_COLUMNS, 1):
+        max_len = len(label)
+        for row in range(2, min(len(entries) + 2, 50)):  # Sample first 50
+            val = str(ws.cell(row=row, column=col).value or "")
+            max_len = max(max_len, len(val))
+        ws.column_dimensions[ws.cell(row=1, column=col).column_letter].width = min(max_len + 3, 45)
+
+    # Freeze header row
+    ws.freeze_panes = "A2"
+
+    # Auto-filter
+    ws.auto_filter.ref = f"A1:{ws.cell(row=1, column=len(XLSX_COLUMNS)).column_letter}{len(entries) + 1}"
+
+    OUTPUT_XLSX.parent.mkdir(parents=True, exist_ok=True)
+    wb.save(OUTPUT_XLSX)
+
+
 def main():
     skip_details = "--no-details" in sys.argv
     
@@ -261,12 +329,16 @@ def main():
     # Sort by ID
     all_entries.sort(key=lambda e: e.get("id", 0))
     
-    # Save
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT, "w", encoding="utf-8") as f:
+    # Save JSON
+    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(all_entries, f, ensure_ascii=False, indent=2)
     
-    print(f"\n✅ Gespeichert: {OUTPUT} ({len(all_entries)} Einträge)")
+    print(f"\n✅ JSON: {OUTPUT_JSON} ({len(all_entries)} Einträge)")
+    
+    # Save XLSX
+    export_xlsx(all_entries)
+    print(f"✅ XLSX: {OUTPUT_XLSX}")
     
     # Stats
     countries: dict[str, int] = {}

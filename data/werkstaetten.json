@@ -1824,6 +1824,18 @@
     "street": "2e Rosestraat 10"
   },
   {
+    "url": "http://www.werkstattatlas.info/unternehmen/6321-shunter-wagenbedrijf-nederland-b-v.html",
+    "id": 6321,
+    "name": "Shunter Wagenbedrijf Nederland B.V.",
+    "address_raw": "Werkplaats locomotieven Rotterdam | Albert Plesmanweg 87 | NL-3088 GC Rotterdam (Niederlande)",
+    "country_code": "NL",
+    "postal_code": "3088",
+    "city": "GC Rotterdam",
+    "country": "Niederlande",
+    "workshop_name": "Werkplaats locomotieven Rotterdam",
+    "street": "Albert Plesmanweg 87"
+  },
+  {
     "url": "http://www.werkstattatlas.info/unternehmen/6324-sema-ag.html",
     "id": 6324,
     "name": "SEMA AG",
