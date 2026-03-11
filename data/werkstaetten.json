@@ -477,6 +477,10 @@
     "id": 6060,
     "name": "Shunter Wagenbedrijf Nederland B.V.",
     "address_raw": "Werkplaats | Albert Plesmanweg 87 | 3088 GC Rotterdam (Niederlande)",
+    "country_code": "NL",
+    "postal_code": "3088 GC",
+    "city": "Rotterdam",
+    "country": "Niederlande",
     "workshop_name": "Werkplaats",
     "street": "Albert Plesmanweg 87"
   },
@@ -731,8 +735,11 @@
     "id": 6100,
     "name": "?eskomoravská Zelezni?ní opravna s.r.o.",
     "address_raw": "Kojetínská 358/71 | CZ-751 52 Prerov ()",
-    "workshop_name": "Kojetínská 358/71",
-    "street": "CZ-751 52 Prerov ()"
+    "country_code": "CZ",
+    "postal_code": "751 52",
+    "city": "Prerov ()",
+    "country": "",
+    "workshop_name": "Kojetínská 358/71"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6101-schweizerische-bundesbahnen-ag.html",
@@ -1149,54 +1156,76 @@
     "id": 6151,
     "name": "EuroMaint Rail AB",
     "address_raw": "S. Grev Rosengatan 1 | SE-701 15 Örebro (Schweden)",
-    "workshop_name": "S. Grev Rosengatan 1",
-    "street": "SE-701 15 Örebro (Schweden)"
+    "country_code": "SE",
+    "postal_code": "701 15",
+    "city": "Örebro",
+    "country": "Schweden",
+    "workshop_name": "S. Grev Rosengatan 1"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6152-euromaint-rail-ab.html",
     "id": 6152,
     "name": "EuroMaint Rail AB",
     "address_raw": "Västra Bangatan 2 | SE-662 27 Amal (Schweden)",
-    "workshop_name": "Västra Bangatan 2",
-    "street": "SE-662 27 Amal (Schweden)"
+    "country_code": "SE",
+    "postal_code": "662 27",
+    "city": "Amal",
+    "country": "Schweden",
+    "workshop_name": "Västra Bangatan 2"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6153-euromaint-rail-ab.html",
     "id": 6153,
     "name": "EuroMaint Rail AB",
     "address_raw": "Kölgatan 4 | SE-724 65 Västeras (Schweden)",
-    "workshop_name": "Kölgatan 4",
-    "street": "SE-724 65 Västeras (Schweden)"
+    "country_code": "SE",
+    "postal_code": "724 65",
+    "city": "Västeras",
+    "country": "Schweden",
+    "workshop_name": "Kölgatan 4"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6154-euromaint-rail-ab.html",
     "id": 6154,
     "name": "EuroMaint Rail AB",
     "address_raw": "Västra Järnvägsgatan 8 | SE-911 34 Vännäs (Schweden)",
-    "workshop_name": "Västra Järnvägsgatan 8",
-    "street": "SE-911 34 Vännäs (Schweden)"
+    "country_code": "SE",
+    "postal_code": "911 34",
+    "city": "Vännäs",
+    "country": "Schweden",
+    "workshop_name": "Västra Järnvägsgatan 8"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6155-euromaint-rail-ab.html",
     "id": 6155,
     "name": "EuroMaint Rail AB",
     "address_raw": "Parkgatan 5 | SE-852 29 Sundsvall (Schweden)",
-    "workshop_name": "Parkgatan 5",
-    "street": "SE-852 29 Sundsvall (Schweden)"
+    "country_code": "SE",
+    "postal_code": "852 29",
+    "city": "Sundsvall",
+    "country": "Schweden",
+    "workshop_name": "Parkgatan 5"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6156-euromaint-rail-ab.html",
     "id": 6156,
     "name": "EuroMaint Rail AB",
     "address_raw": "Varuvägen 34 | SE-125 30 Älvsjö (Schweden)",
-    "workshop_name": "Varuvägen 34",
-    "street": "SE-125 30 Älvsjö (Schweden)"
+    "country_code": "SE",
+    "postal_code": "125 30",
+    "city": "Älvsjö",
+    "country": "Schweden",
+    "workshop_name": "Varuvägen 34"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6157-euromaint-rail-ab.html",
     "id": 6157,
     "name": "EuroMaint Rail AB",
     "address_raw": "Södertäljedepån | Svalängsvägen 2A | SE-151 38 Södertälje (Schweden)",
+    "country_code": "SE",
+    "postal_code": "151 38",
+    "city": "Södertälje",
+    "country": "Schweden",
     "workshop_name": "Södertäljedepån",
     "street": "Svalängsvägen 2A"
   },
@@ -1205,6 +1234,10 @@
     "id": 6158,
     "name": "EuroMaint Rail AB",
     "address_raw": "Slakthusdepån | Hallvägen 48 | SE-121 07 Stockholm (Schweden)",
+    "country_code": "SE",
+    "postal_code": "121 07",
+    "city": "Stockholm",
+    "country": "Schweden",
     "workshop_name": "Slakthusdepån",
     "street": "Hallvägen 48"
   },
@@ -1213,6 +1246,10 @@
     "id": 6159,
     "name": "EuroMaint Rail AB",
     "address_raw": "Mörbydepån | Vendevägen 93 | SE-182 32 Danderyd (Schweden)",
+    "country_code": "SE",
+    "postal_code": "182 32",
+    "city": "Danderyd",
+    "country": "Schweden",
     "workshop_name": "Mörbydepån",
     "street": "Vendevägen 93"
   },
@@ -1221,6 +1258,10 @@
     "id": 6160,
     "name": "EuroMaint Rail AB",
     "address_raw": "Hammarbydepån | Garagevägen 18 G | SE-121 07 Stockholm (Schweden)",
+    "country_code": "SE",
+    "postal_code": "121 07",
+    "city": "Stockholm",
+    "country": "Schweden",
     "workshop_name": "Hammarbydepån",
     "street": "Garagevägen 18 G"
   },
@@ -1229,6 +1270,10 @@
     "id": 6161,
     "name": "EuroMaint Rail AB",
     "address_raw": "Stockholm - Hagalund | Stinsvägen 15 | SE-170 63 Solna (Schweden)",
+    "country_code": "SE",
+    "postal_code": "170 63",
+    "city": "Solna",
+    "country": "Schweden",
     "workshop_name": "Stockholm - Hagalund",
     "street": "Stinsvägen 15"
   },
@@ -1237,14 +1282,21 @@
     "id": 6162,
     "name": "EuroMaint Rail AB",
     "address_raw": "S. Bulltoftavägen 51 | SE-200 22 Malmö (Schweden)",
-    "workshop_name": "S. Bulltoftavägen 51",
-    "street": "SE-200 22 Malmö (Schweden)"
+    "country_code": "SE",
+    "postal_code": "200 22",
+    "city": "Malmö",
+    "country": "Schweden",
+    "workshop_name": "S. Bulltoftavägen 51"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6163-euromaint-rail-ab.html",
     "id": 6163,
     "name": "EuroMaint Rail AB",
     "address_raw": "Luleå - Svartön | Lokstallsvägen 2 | SE-972 45 Lulea (Schweden)",
+    "country_code": "SE",
+    "postal_code": "972 45",
+    "city": "Lulea",
+    "country": "Schweden",
     "workshop_name": "Luleå - Svartön",
     "street": "Lokstallsvägen 2"
   },
@@ -1253,6 +1305,10 @@
     "id": 6164,
     "name": "EuroMaint Rail AB",
     "address_raw": "Luleå - Notviken | Kontorsgatan 37 | SE-973 53 Lulea (Schweden)",
+    "country_code": "SE",
+    "postal_code": "973 53",
+    "city": "Lulea",
+    "country": "Schweden",
     "workshop_name": "Luleå - Notviken",
     "street": "Kontorsgatan 37"
   },
@@ -1261,48 +1317,66 @@
     "id": 6165,
     "name": "EuroMaint Rail AB",
     "address_raw": "Södra Oskarsgatan 2 | SE-582 73 Linköping (Schweden)",
-    "workshop_name": "Södra Oskarsgatan 2",
-    "street": "SE-582 73 Linköping (Schweden)"
+    "country_code": "SE",
+    "postal_code": "582 73",
+    "city": "Linköping",
+    "country": "Schweden",
+    "workshop_name": "Södra Oskarsgatan 2"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6166-euromaint-rail-ab.html",
     "id": 6166,
     "name": "EuroMaint Rail AB",
     "address_raw": "Fartygsgatan 40 | SE-261 35 Landskrona (Schweden)",
-    "workshop_name": "Fartygsgatan 40",
-    "street": "SE-261 35 Landskrona (Schweden)"
+    "country_code": "SE",
+    "postal_code": "261 35",
+    "city": "Landskrona",
+    "country": "Schweden",
+    "workshop_name": "Fartygsgatan 40"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6167-euromaint-rail-ab.html",
     "id": 6167,
     "name": "EuroMaint Rail AB",
     "address_raw": "Lokvägen 2 | SE-694 35 Hallsberg (Schweden)",
-    "workshop_name": "Lokvägen 2",
-    "street": "SE-694 35 Hallsberg (Schweden)"
+    "country_code": "SE",
+    "postal_code": "694 35",
+    "city": "Hallsberg",
+    "country": "Schweden",
+    "workshop_name": "Lokvägen 2"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6168-euromaint-rail-ab.html",
     "id": 6168,
     "name": "EuroMaint Rail AB",
     "address_raw": "Minuthandelsgatan 15 | SE-411 04 Göteborg (Schweden)",
-    "workshop_name": "Minuthandelsgatan 15",
-    "street": "SE-411 04 Göteborg (Schweden)"
+    "country_code": "SE",
+    "postal_code": "411 04",
+    "city": "Göteborg",
+    "country": "Schweden",
+    "workshop_name": "Minuthandelsgatan 15"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6169-euromaint-rail-ab.html",
     "id": 6169,
     "name": "EuroMaint Rail AB",
     "address_raw": "Lötängsgatan | SE-803 01 Gävle (Schweden)",
-    "workshop_name": "Lötängsgatan",
-    "street": "SE-803 01 Gävle (Schweden)"
+    "country_code": "SE",
+    "postal_code": "803 01",
+    "city": "Gävle",
+    "country": "Schweden",
+    "workshop_name": "Lötängsgatan"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6170-euromaint-rail-ab.html",
     "id": 6170,
     "name": "EuroMaint Rail AB",
     "address_raw": "Bangårdsgatan 8 | SE-781 71 Borlänge (Schweden)",
-    "workshop_name": "Bangårdsgatan 8",
-    "street": "SE-781 71 Borlänge (Schweden)"
+    "country_code": "SE",
+    "postal_code": "781 71",
+    "city": "Borlänge",
+    "country": "Schweden",
+    "workshop_name": "Bangårdsgatan 8"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/6172-db-regionetz-verkehrs-gmbh.html",
@@ -1849,6 +1923,10 @@
     "id": 6357,
     "name": "S.C. ASTRA Vagoane C?l?tori S.A.",
     "address_raw": "Str. Petru Rare? 1-3 | RO-310210 Arad (Rumänien)",
+    "country_code": "RO",
+    "postal_code": "310210",
+    "city": "Arad",
+    "country": "Rumänien",
     "workshop_name": "Str. Petru Rare? 1-3"
   },
   {
@@ -4331,8 +4409,11 @@
     "id": 7038,
     "name": "AB Motala Verkstad",
     "address_raw": "Linjegatan | SE-591 29 Motala (Schweden)",
-    "workshop_name": "Linjegatan",
-    "street": "SE-591 29 Motala (Schweden)"
+    "country_code": "SE",
+    "postal_code": "591 29",
+    "city": "Motala",
+    "country": "Schweden",
+    "workshop_name": "Linjegatan"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/7067-nencki-ag-bahntechnik.html",
@@ -4401,14 +4482,21 @@
     "id": 7096,
     "name": "SweMaint AB",
     "address_raw": "Utbyvägen 151 | SE-415 07 Göteborg (Schweden)",
-    "workshop_name": "Utbyvägen 151",
-    "street": "SE-415 07 Göteborg (Schweden)"
+    "country_code": "SE",
+    "postal_code": "415 07",
+    "city": "Göteborg",
+    "country": "Schweden",
+    "workshop_name": "Utbyvägen 151"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/7097-swemaint-ab.html",
     "id": 7097,
     "name": "SweMaint AB",
     "address_raw": "Kirunavara Godsbangård | Södra Infarten 15 | SE-981 99 Kiruna (Schweden)",
+    "country_code": "SE",
+    "postal_code": "981 99",
+    "city": "Kiruna",
+    "country": "Schweden",
     "workshop_name": "Kirunavara Godsbangård",
     "street": "Södra Infarten 15"
   },
@@ -4417,6 +4505,10 @@
     "id": 7098,
     "name": "SweMaint AB",
     "address_raw": "Luleå Vagnunderhåll | Lokstallsvägen 2 | SE-972 45 Luleå (Schweden)",
+    "country_code": "SE",
+    "postal_code": "972 45",
+    "city": "Luleå",
+    "country": "Schweden",
     "workshop_name": "Luleå Vagnunderhåll",
     "street": "Lokstallsvägen 2"
   },
@@ -4425,6 +4517,10 @@
     "id": 7099,
     "name": "SweMaint AB",
     "address_raw": "Umeå Mobilgrupp | Fraktvägen 8 | SE-903 48 Umeå (Schweden)",
+    "country_code": "SE",
+    "postal_code": "903 48",
+    "city": "Umeå",
+    "country": "Schweden",
     "workshop_name": "Umeå Mobilgrupp",
     "street": "Fraktvägen 8"
   },
@@ -4433,6 +4529,10 @@
     "id": 7100,
     "name": "SweMaint AB",
     "address_raw": "Gävle Vagnunderhåll | Upplandsgatan 18 | SE-802 83 Gävle (Schweden)",
+    "country_code": "SE",
+    "postal_code": "802 83",
+    "city": "Gävle",
+    "country": "Schweden",
     "workshop_name": "Gävle Vagnunderhåll",
     "street": "Upplandsgatan 18"
   },
@@ -4441,6 +4541,10 @@
     "id": 7101,
     "name": "SweMaint AB",
     "address_raw": "Borlänge Vagnunderhåll | Ritargatan 11 | SE-781 70 Borlänge (Schweden)",
+    "country_code": "SE",
+    "postal_code": "781 70",
+    "city": "Borlänge",
+    "country": "Schweden",
     "workshop_name": "Borlänge Vagnunderhåll",
     "street": "Ritargatan 11"
   },
@@ -4449,6 +4553,10 @@
     "id": 7102,
     "name": "SweMaint AB",
     "address_raw": "Hallsberg Vagnunderhåll | Rangergatan 1 | SE-694 91 Hallsberg (Schweden)",
+    "country_code": "SE",
+    "postal_code": "694 91",
+    "city": "Hallsberg",
+    "country": "Schweden",
     "workshop_name": "Hallsberg Vagnunderhåll",
     "street": "Rangergatan 1"
   },
@@ -4457,6 +4565,10 @@
     "id": 7103,
     "name": "SweMaint AB",
     "address_raw": "Norrköping Mobilgrupp | Norra Promenaden 84 | SE-602 38 Norrköping (Schweden)",
+    "country_code": "SE",
+    "postal_code": "602 38",
+    "city": "Norrköping",
+    "country": "Schweden",
     "workshop_name": "Norrköping Mobilgrupp",
     "street": "Norra Promenaden 84"
   },
@@ -4465,6 +4577,10 @@
     "id": 7104,
     "name": "SweMaint AB",
     "address_raw": "Nässjö Vagnunderhåll | Sjöbergsvägen | SE-571 00 Nässjö (Schweden)",
+    "country_code": "SE",
+    "postal_code": "571 00",
+    "city": "Nässjö",
+    "country": "Schweden",
     "workshop_name": "Nässjö Vagnunderhåll",
     "street": "Sjöbergsvägen"
   },
@@ -4473,6 +4589,10 @@
     "id": 7105,
     "name": "SweMaint AB",
     "address_raw": "Malmö Vagnunderhåll | Jörgen Kocksgatan 77 | SE-211 20 Malmö (Schweden)",
+    "country_code": "SE",
+    "postal_code": "211 20",
+    "city": "Malmö",
+    "country": "Schweden",
     "workshop_name": "Malmö Vagnunderhåll",
     "street": "Jörgen Kocksgatan 77"
   },
@@ -4481,6 +4601,10 @@
     "id": 7106,
     "name": "SweMaint AB",
     "address_raw": "Helsingborg Vagnunderhåll | Östra Sandgatan 8 | SE-252 27 Helsingborg (Schweden)",
+    "country_code": "SE",
+    "postal_code": "252 27",
+    "city": "Helsingborg",
+    "country": "Schweden",
     "workshop_name": "Helsingborg Vagnunderhåll",
     "street": "Östra Sandgatan 8"
   },
@@ -4489,6 +4613,10 @@
     "id": 7107,
     "name": "SweMaint AB",
     "address_raw": "Kil Vagnunderhåll | Storgatan | SE-665 25 Kil (Schweden)",
+    "country_code": "SE",
+    "postal_code": "665 25",
+    "city": "Kil",
+    "country": "Schweden",
     "workshop_name": "Kil Vagnunderhåll",
     "street": "Storgatan"
   },
@@ -4509,8 +4637,11 @@
     "id": 7110,
     "name": "EuroMaint Rail AB",
     "address_raw": "Spårvägen 1 | SE-521 32 Falköping (Schweden)",
-    "workshop_name": "Spårvägen 1",
-    "street": "SE-521 32 Falköping (Schweden)"
+    "country_code": "SE",
+    "postal_code": "521 32",
+    "city": "Falköping",
+    "country": "Schweden",
+    "workshop_name": "Spårvägen 1"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/7111-euromaint-rail-gmbh.html",
@@ -4620,8 +4751,11 @@
     "id": 7139,
     "name": "Stadler Service Sweden AB",
     "address_raw": "Växlarevägen 27 | SE-170 63 Solna (Schweden)",
-    "workshop_name": "Växlarevägen 27",
-    "street": "SE-170 63 Solna (Schweden)"
+    "country_code": "SE",
+    "postal_code": "170 63",
+    "city": "Solna",
+    "country": "Schweden",
+    "workshop_name": "Växlarevägen 27"
   },
   {
     "url": "http://www.werkstattatlas.info/unternehmen/7141-motoren-ag-feuer.html",
