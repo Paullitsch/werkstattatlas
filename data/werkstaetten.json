@@ -2349,6 +2349,21 @@
     "website": "http://www.ohe-transport.de"
   },
   {
+    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6441-oebb-technische-services-gmbh.html",
+    "id": 6441,
+    "name": "ÖBB-Technische Services GmbH",
+    "address_raw": "SVS Wörgl | Ferdinand Raimundstraße 15 | AT-6300 Wörgl (Österreich)",
+    "country_code": "AT",
+    "postal_code": "6300",
+    "city": "Wörgl",
+    "country": "Österreich",
+    "workshop_name": "SVS Wörgl",
+    "street": "Ferdinand Raimundstraße 15",
+    "lat": 47.4931471,
+    "lon": 12.060234,
+    "website": "http://www.oebb.at/ts"
+  },
+  {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6442-oebb-technische-services-gmbh.html",
     "id": 6442,
     "name": "ÖBB-Technische Services GmbH",
@@ -2625,21 +2640,6 @@
     "street": "Wiltenberg 1a",
     "lat": 47.2538984,
     "lon": 11.3815033,
-    "website": "http://www.oebb.at/ts"
-  },
-  {
-    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6462-oebb-technische-services-gmbh.html",
-    "id": 6462,
-    "name": "ÖBB-Technische Services GmbH",
-    "address_raw": "SVS Graz | Bahnhofgürtel 40 | AT-8020 Graz (Österreich)",
-    "country_code": "AT",
-    "postal_code": "8020",
-    "city": "Graz",
-    "country": "Österreich",
-    "workshop_name": "SVS Graz",
-    "street": "Bahnhofgürtel 40",
-    "lat": 47.0799482,
-    "lon": 15.4148748,
     "website": "http://www.oebb.at/ts"
   },
   {
