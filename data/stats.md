@@ -1,6 +1,6 @@
 ## Scraper Stats
 
-- **Letzte Aktualisierung:** 2026-03-30 06:57 UTC
+- **Letzte Aktualisierung:** 2026-04-06 06:56 UTC
 - **Einträge:** 386
 
 ### Länder
