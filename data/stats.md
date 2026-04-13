@@ -1,10 +1,10 @@
 ## Scraper Stats
 
-- **Letzte Aktualisierung:** 2026-04-06 06:56 UTC
-- **Einträge:** 386
+- **Letzte Aktualisierung:** 2026-04-13 07:04 UTC
+- **Einträge:** 385
 
 ### Länder
-- **DE**: 248
+- **DE**: 247
 - **SE**: 35
 - **CH**: 33
 - **AT**: 31

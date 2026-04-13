@@ -1670,21 +1670,6 @@
     "website": "http://www.vps-bahn.de"
   },
   {
-    "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6222-vossloh-locomotives-gmbh.html",
-    "id": 6222,
-    "name": "Vossloh Locomotives GmbH",
-    "address_raw": "Service-Zentrum Moers | Baerler Straße 100 | DE-47441 Moers (Deutschland)",
-    "country_code": "DE",
-    "postal_code": "47441",
-    "city": "Moers",
-    "country": "Deutschland",
-    "workshop_name": "Service-Zentrum Moers",
-    "street": "Baerler Straße 100",
-    "lat": 51.4591307,
-    "lon": 6.6367721,
-    "website": "http://www.vossloh-locomotives.com"
-  },
-  {
     "url": "http://www.werkstattatlas.info/unternehmen/werkstaetten/6229-vis-verkehrs-industrie-systeme-gmbh.html",
     "id": 6229,
     "name": "VIS Verkehrs Industrie Systeme GmbH",
